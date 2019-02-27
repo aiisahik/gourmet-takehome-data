@@ -1,0 +1,5297 @@
+[
+  {
+    "date": "01/01/2017",
+    "description": "JUSTWORKS PAYROLL MHJ353",
+    "amount": -260000.0
+  },
+  {
+    "date": "01/01/2017",
+    "description": "ROSS STORES EPB566",
+    "amount": -201.83
+  },
+  {
+    "date": "01/02/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -98.67
+  },
+  {
+    "date": "01/02/2017",
+    "description": "DOMINO'S PIZZA EMVM13",
+    "amount": -819.61
+  },
+  {
+    "date": "01/03/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 0O952",
+    "amount": -637.85
+  },
+  {
+    "date": "01/04/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY KQJP39",
+    "amount": -209.83
+  },
+  {
+    "date": "01/04/2017",
+    "description": "GAP 16669",
+    "amount": -860.91
+  },
+  {
+    "date": "01/04/2017",
+    "description": "APPLE STORE AHZ887",
+    "amount": -678.24
+  },
+  {
+    "date": "01/07/2017",
+    "description": "BURGER KING WORLDWIDE 85117",
+    "amount": -32.43
+  },
+  {
+    "date": "01/07/2017",
+    "description": "MEIJER 81752",
+    "amount": -48.2
+  },
+  {
+    "date": "01/09/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT HZOL40",
+    "amount": -456.47
+  },
+  {
+    "date": "01/09/2017",
+    "description": "HOBBY LOBBY STORES 38571",
+    "amount": -884.55
+  },
+  {
+    "date": "01/09/2017",
+    "description": "ALDI 4BR873",
+    "amount": -773.51
+  },
+  {
+    "date": "01/10/2017",
+    "description": "HOBBY LOBBY STORES 02957",
+    "amount": -876.28
+  },
+  {
+    "date": "01/11/2017",
+    "description": "BASS PRO",
+    "amount": -99.05
+  },
+  {
+    "date": "01/11/2017",
+    "description": "MICHAELS STORES 57960",
+    "amount": -600.53
+  },
+  {
+    "date": "01/13/2017",
+    "description": "WINCO FOODS 48770",
+    "amount": -712.26
+  },
+  {
+    "date": "01/13/2017",
+    "description": "ARMY & AIR FORCE EXCHANGE BBSL33",
+    "amount": -61.86
+  },
+  {
+    "date": "01/14/2017",
+    "description": "GIANT EAGLE",
+    "amount": -100.3
+  },
+  {
+    "date": "01/14/2017",
+    "description": "BED BATH & BEYOND WEQ975",
+    "amount": -1356.35
+  },
+  {
+    "date": "01/14/2017",
+    "description": "MENARD*DWYL14",
+    "amount": -608.55
+  },
+  {
+    "date": "01/14/2017",
+    "description": "DOLLAR TREE*32448",
+    "amount": -1378.04
+  },
+  {
+    "date": "01/15/2017",
+    "description": "JUSTWORKS PAYROLL 627LBZ",
+    "amount": -260000.0
+  },
+  {
+    "date": "01/15/2017",
+    "description": "HOBBY LOBBY STORES 34954",
+    "amount": -883.99
+  },
+  {
+    "date": "01/15/2017",
+    "description": "DOMINO'S PIZZA IDQR58",
+    "amount": -830.57
+  },
+  {
+    "date": "01/16/2017",
+    "description": "WINCO FOODS 21364",
+    "amount": -698.37
+  },
+  {
+    "date": "01/17/2017",
+    "description": "APPLE STORE 074198",
+    "amount": -701.36
+  },
+  {
+    "date": "01/18/2017",
+    "description": "DINE BRANDS GLOBAL 71056",
+    "amount": -279.58
+  },
+  {
+    "date": "01/18/2017",
+    "description": "ASCENA RETAIL GROUP--IISY71",
+    "amount": -999.65
+  },
+  {
+    "date": "01/19/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP DJD467",
+    "amount": -684.46
+  },
+  {
+    "date": "01/19/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -100.29
+  },
+  {
+    "date": "01/19/2017",
+    "description": "DOMINO'S PIZZA HOND15",
+    "amount": -814.6
+  },
+  {
+    "date": "01/19/2017",
+    "description": "RITE AID 840045",
+    "amount": -50.85
+  },
+  {
+    "date": "01/20/2017",
+    "description": "ALLEN-FIGUEROA INVOICE NZOT31",
+    "amount": 181.97
+  },
+  {
+    "date": "01/20/2017",
+    "description": "ASCENA RETAIL GROUP--NVNP97",
+    "amount": -976.95
+  },
+  {
+    "date": "01/20/2017",
+    "description": "PETCO ANIMAL SUPPLIES--FVQA13",
+    "amount": -891.67
+  },
+  {
+    "date": "01/20/2017",
+    "description": "BURLINGTON COAT FACTORY VZVN61",
+    "amount": -29.71
+  },
+  {
+    "date": "01/21/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -102.35
+  },
+  {
+    "date": "01/21/2017",
+    "description": "DINE BRANDS GLOBAL 43345",
+    "amount": -259.15
+  },
+  {
+    "date": "01/22/2017",
+    "description": "MICHAELS STORES 38399",
+    "amount": -588.02
+  },
+  {
+    "date": "01/23/2017",
+    "description": "SEARS HOLDINGS ON7535",
+    "amount": -767.15
+  },
+  {
+    "date": "01/23/2017",
+    "description": "MENARD*IMAZ30",
+    "amount": -621.6
+  },
+  {
+    "date": "01/25/2017",
+    "description": "SEARS HOLDINGS 408C3",
+    "amount": -777.89
+  },
+  {
+    "date": "01/26/2017",
+    "description": "MICHAELS STORES 51950",
+    "amount": -603.11
+  },
+  {
+    "date": "01/27/2017",
+    "description": "RITE AID 906UYP",
+    "amount": -47.23
+  },
+  {
+    "date": "01/28/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -101.74
+  },
+  {
+    "date": "01/28/2017",
+    "description": "PETCO ANIMAL SUPPLIES--OLCO51",
+    "amount": -873.64
+  },
+  {
+    "date": "01/28/2017",
+    "description": "TARGET 79854",
+    "amount": -27.59
+  },
+  {
+    "date": "01/29/2017",
+    "description": "ALLEN-FIGUEROA INVOICE CMQF17",
+    "amount": 293.5
+  },
+  {
+    "date": "01/29/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT LBBC07",
+    "amount": -249.45
+  },
+  {
+    "date": "01/29/2017",
+    "description": "JUSTWORKS PAYROLL 75708N",
+    "amount": -260000.0
+  },
+  {
+    "date": "01/29/2017",
+    "description": "SEARS HOLDINGS FHT781",
+    "amount": -768.32
+  },
+  {
+    "date": "01/31/2017",
+    "description": "KING-RAMOS PAYMT FOR SVCS OTZ423",
+    "amount": 1716663.04
+  },
+  {
+    "date": "02/01/2017",
+    "description": "DINE BRANDS GLOBAL 19586",
+    "amount": -283.87
+  },
+  {
+    "date": "02/01/2017",
+    "description": "DOLLAR GENERAL 46518",
+    "amount": -1120.35
+  },
+  {
+    "date": "02/01/2017",
+    "description": "APPLE STORE 3V3418",
+    "amount": -682.41
+  },
+  {
+    "date": "02/03/2017",
+    "description": "BASS PRO",
+    "amount": -97.49
+  },
+  {
+    "date": "02/03/2017",
+    "description": "ROSS STORES 00FI60",
+    "amount": -183.78
+  },
+  {
+    "date": "02/03/2017",
+    "description": "DOLLAR GENERAL 11709",
+    "amount": -1095.83
+  },
+  {
+    "date": "02/05/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY VKLJ86",
+    "amount": -243.67
+  },
+  {
+    "date": "02/05/2017",
+    "description": "BELK SCNH59",
+    "amount": -27.82
+  },
+  {
+    "date": "02/06/2017",
+    "description": "SHELL OIL COMPANY--79379",
+    "amount": -27.5
+  },
+  {
+    "date": "02/07/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -98.86
+  },
+  {
+    "date": "02/07/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.43
+  },
+  {
+    "date": "02/07/2017",
+    "description": "DOMINO'S PIZZA VAYK97",
+    "amount": -814.85
+  },
+  {
+    "date": "02/08/2017",
+    "description": "DINE BRANDS GLOBAL 62413",
+    "amount": -297.43
+  },
+  {
+    "date": "02/08/2017",
+    "description": "PETCO ANIMAL SUPPLIES--CUTI19",
+    "amount": -880.8
+  },
+  {
+    "date": "02/09/2017",
+    "description": "ROSS STORES 461355",
+    "amount": -200.9
+  },
+  {
+    "date": "02/09/2017",
+    "description": "J.C. PENNEY CO. AHUD71",
+    "amount": -1511.08
+  },
+  {
+    "date": "02/10/2017",
+    "description": "ASCENA RETAIL GROUP--DNTN60",
+    "amount": -995.22
+  },
+  {
+    "date": "02/10/2017",
+    "description": "COSTCO YLXG64",
+    "amount": -58.24
+  },
+  {
+    "date": "02/11/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 25935",
+    "amount": 281.09
+  },
+  {
+    "date": "02/12/2017",
+    "description": "JUSTWORKS PAYROLL 8NRD87",
+    "amount": -260000.0
+  },
+  {
+    "date": "02/12/2017",
+    "description": "HEALTH MART SYSTEMS--35862",
+    "amount": -29.69
+  },
+  {
+    "date": "02/13/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY WNIU24",
+    "amount": -170.27
+  },
+  {
+    "date": "02/13/2017",
+    "description": "GOOD NEIGHBOR PHARMACY 58DN2",
+    "amount": -49.72
+  },
+  {
+    "date": "02/14/2017",
+    "description": "HOBBY LOBBY STORES 81794",
+    "amount": -890.36
+  },
+  {
+    "date": "02/14/2017",
+    "description": "SEARS HOLDINGS PDA458",
+    "amount": -778.74
+  },
+  {
+    "date": "02/14/2017",
+    "description": "J.C. PENNEY CO. VDDY88",
+    "amount": -1512.21
+  },
+  {
+    "date": "02/15/2017",
+    "description": "WINCO FOODS 42119",
+    "amount": -704.28
+  },
+  {
+    "date": "02/16/2017",
+    "description": "ALDI 5L6532",
+    "amount": -767.49
+  },
+  {
+    "date": "02/16/2017",
+    "description": "PANERA BREAD COMPANY DXDQ07",
+    "amount": -50.45
+  },
+  {
+    "date": "02/17/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP ZBD337",
+    "amount": -657.3
+  },
+  {
+    "date": "02/17/2017",
+    "description": "7-ELEVEN ASIW78",
+    "amount": -814.33
+  },
+  {
+    "date": "02/18/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 550BFZ",
+    "amount": -646.23
+  },
+  {
+    "date": "02/19/2017",
+    "description": "BED BATH & BEYOND 709416",
+    "amount": -1371.93
+  },
+  {
+    "date": "02/20/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT UEMR24",
+    "amount": -313.26
+  },
+  {
+    "date": "02/20/2017",
+    "description": "DOLLAR GENERAL 84022",
+    "amount": -1108.43
+  },
+  {
+    "date": "02/21/2017",
+    "description": "GAMESTOP*74984",
+    "amount": -923.88
+  },
+  {
+    "date": "02/21/2017",
+    "description": "THE KROGER CO. CACG60",
+    "amount": -1199.39
+  },
+  {
+    "date": "02/23/2017",
+    "description": "GAP 33404",
+    "amount": -845.72
+  },
+  {
+    "date": "02/23/2017",
+    "description": "WINCO FOODS 98977",
+    "amount": -698.55
+  },
+  {
+    "date": "02/26/2017",
+    "description": "JUSTWORKS PAYROLL 538OVZ",
+    "amount": -260000.0
+  },
+  {
+    "date": "02/26/2017",
+    "description": "SEARS HOLDINGS 358ORT",
+    "amount": -775.28
+  },
+  {
+    "date": "02/26/2017",
+    "description": "DOLLAR GENERAL 26406",
+    "amount": -1098.92
+  },
+  {
+    "date": "02/27/2017",
+    "description": "ALIMENTATION COUCHE-TARD 18551",
+    "amount": -1688.25
+  },
+  {
+    "date": "03/01/2017",
+    "description": "BED BATH & BEYOND 998370",
+    "amount": -1381.73
+  },
+  {
+    "date": "03/01/2017",
+    "description": "7-ELEVEN FVYA79",
+    "amount": -808.67
+  },
+  {
+    "date": "03/02/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT HMTB23",
+    "amount": -442.12
+  },
+  {
+    "date": "03/02/2017",
+    "description": "APPLE STORE 1919",
+    "amount": -679.12
+  },
+  {
+    "date": "03/03/2017",
+    "description": "SEARS HOLDINGS 841469",
+    "amount": -793.2
+  },
+  {
+    "date": "03/03/2017",
+    "description": "PETCO ANIMAL SUPPLIES--KVDM25",
+    "amount": -883.21
+  },
+  {
+    "date": "03/04/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY RIHZ88",
+    "amount": 85.84
+  },
+  {
+    "date": "03/04/2017",
+    "description": "MENARD*NYSH61",
+    "amount": -613.97
+  },
+  {
+    "date": "03/05/2017",
+    "description": "GAMESTOP*90932",
+    "amount": -911.82
+  },
+  {
+    "date": "03/07/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 33255",
+    "amount": -1205.77
+  },
+  {
+    "date": "03/08/2017",
+    "description": "BIG LOTS LZXT43",
+    "amount": -1142.47
+  },
+  {
+    "date": "03/09/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -98.43
+  },
+  {
+    "date": "03/09/2017",
+    "description": "BASS PRO",
+    "amount": -98.1
+  },
+  {
+    "date": "03/10/2017",
+    "description": "MICHAELS STORES 98437",
+    "amount": -583.48
+  },
+  {
+    "date": "03/10/2017",
+    "description": "7-ELEVEN XXIR53",
+    "amount": -802.91
+  },
+  {
+    "date": "03/11/2017",
+    "description": "WINCO FOODS 28648",
+    "amount": -696.76
+  },
+  {
+    "date": "03/12/2017",
+    "description": "JUSTWORKS PAYROLL K855MS",
+    "amount": -260000.0
+  },
+  {
+    "date": "03/12/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -97.14
+  },
+  {
+    "date": "03/12/2017",
+    "description": "KING-RAMOS PAYMT FOR SVCS Y523FG",
+    "amount": 1789870.3
+  },
+  {
+    "date": "03/14/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 10477",
+    "amount": -1209.22
+  },
+  {
+    "date": "03/14/2017",
+    "description": "ALDI 5ETU80",
+    "amount": -764.08
+  },
+  {
+    "date": "03/14/2017",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES IQX782",
+    "amount": 249812.68
+  },
+  {
+    "date": "03/18/2017",
+    "description": "7-ELEVEN WEDS86",
+    "amount": -844.73
+  },
+  {
+    "date": "03/19/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY LUTN54",
+    "amount": -97.01
+  },
+  {
+    "date": "03/19/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -103.45
+  },
+  {
+    "date": "03/20/2017",
+    "description": "HOBBY LOBBY STORES 86085",
+    "amount": -884.81
+  },
+  {
+    "date": "03/20/2017",
+    "description": "GAP 78921",
+    "amount": -834.84
+  },
+  {
+    "date": "03/20/2017",
+    "description": "STARBUCKS 23774",
+    "amount": -748.71
+  },
+  {
+    "date": "03/21/2017",
+    "description": "THE KROGER CO. ADZI06",
+    "amount": -1224.13
+  },
+  {
+    "date": "03/22/2017",
+    "description": "ROSS STORES 954BS6",
+    "amount": -201.09
+  },
+  {
+    "date": "03/22/2017",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES 307TY",
+    "amount": 277360.75
+  },
+  {
+    "date": "03/23/2017",
+    "description": "DUNKIN' BRANDS GROUP OAUA44",
+    "amount": -42.92
+  },
+  {
+    "date": "03/24/2017",
+    "description": "BED BATH & BEYOND 483148",
+    "amount": -1363.14
+  },
+  {
+    "date": "03/25/2017",
+    "description": "HOBBY LOBBY STORES 94059",
+    "amount": -871.67
+  },
+  {
+    "date": "03/26/2017",
+    "description": "JUSTWORKS PAYROLL 838WSJ",
+    "amount": -260000.0
+  },
+  {
+    "date": "03/26/2017",
+    "description": "DOLLAR TREE*89978",
+    "amount": -1366.63
+  },
+  {
+    "date": "03/27/2017",
+    "description": "7-ELEVEN QKNH34",
+    "amount": -826.44
+  },
+  {
+    "date": "03/29/2017",
+    "description": "GIANT EAGLE",
+    "amount": -98.68
+  },
+  {
+    "date": "03/30/2017",
+    "description": "BASS PRO",
+    "amount": -100.44
+  },
+  {
+    "date": "03/30/2017",
+    "description": "MENARD*GWJP69",
+    "amount": -603.67
+  },
+  {
+    "date": "03/31/2017",
+    "description": "DOMINO'S PIZZA MQCS75",
+    "amount": -821.32
+  },
+  {
+    "date": "03/31/2017",
+    "description": "ROSS STORES HIG543",
+    "amount": -210.92
+  },
+  {
+    "date": "04/01/2017",
+    "description": "SUPERVALU M228XH",
+    "amount": -27.71
+  },
+  {
+    "date": "04/02/2017",
+    "description": "J.C. PENNEY CO. PEFG37",
+    "amount": -1499.36
+  },
+  {
+    "date": "04/03/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 95597",
+    "amount": 178.25
+  },
+  {
+    "date": "04/03/2017",
+    "description": "SEARS HOLDINGS ZAA882",
+    "amount": -776.39
+  },
+  {
+    "date": "04/03/2017",
+    "description": "MENARD*DIKZ59",
+    "amount": -605.2
+  },
+  {
+    "date": "04/03/2017",
+    "description": "THE KROGER CO. IZHV34",
+    "amount": -1221.71
+  },
+  {
+    "date": "04/04/2017",
+    "description": "HOBBY LOBBY STORES 11792",
+    "amount": -886.26
+  },
+  {
+    "date": "04/05/2017",
+    "description": "WINCO FOODS 34776",
+    "amount": -694.12
+  },
+  {
+    "date": "04/06/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -99.66
+  },
+  {
+    "date": "04/06/2017",
+    "description": "7-ELEVEN QPPJ58",
+    "amount": -831.04
+  },
+  {
+    "date": "04/07/2017",
+    "description": "ALLEN-FIGUEROA INVOICE QQTZ61",
+    "amount": 242.67
+  },
+  {
+    "date": "04/07/2017",
+    "description": "BIG LOTS TRCM25",
+    "amount": -1118.72
+  },
+  {
+    "date": "04/08/2017",
+    "description": "ASCENA RETAIL GROUP--BREP58",
+    "amount": -1004.01
+  },
+  {
+    "date": "04/08/2017",
+    "description": "WINCO FOODS 92211",
+    "amount": -696.1
+  },
+  {
+    "date": "04/09/2017",
+    "description": "JUSTWORKS PAYROLL F504YS",
+    "amount": -260000.0
+  },
+  {
+    "date": "04/09/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -100.65
+  },
+  {
+    "date": "04/09/2017",
+    "description": "BED BATH & BEYOND V519ZY",
+    "amount": -1372.3
+  },
+  {
+    "date": "04/10/2017",
+    "description": "BIG LOTS SOKM24",
+    "amount": -1120.89
+  },
+  {
+    "date": "04/11/2017",
+    "description": "DOLLAR GENERAL 77714",
+    "amount": -1107.16
+  },
+  {
+    "date": "04/11/2017",
+    "description": "PETSMART--61386",
+    "amount": -61.46
+  },
+  {
+    "date": "04/12/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT KOXT45",
+    "amount": -399.02
+  },
+  {
+    "date": "04/12/2017",
+    "description": "TJX COMPANIES 16809",
+    "amount": -11.69
+  },
+  {
+    "date": "04/14/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -102.1
+  },
+  {
+    "date": "04/15/2017",
+    "description": "ASCENA RETAIL GROUP--ZTVN30",
+    "amount": -987.75
+  },
+  {
+    "date": "04/16/2017",
+    "description": "MICHAELS STORES 85800",
+    "amount": -585.44
+  },
+  {
+    "date": "04/16/2017",
+    "description": "PETCO ANIMAL SUPPLIES--DJCG92",
+    "amount": -890.9
+  },
+  {
+    "date": "04/17/2017",
+    "description": "MICHAELS STORES 51122",
+    "amount": -590.21
+  },
+  {
+    "date": "04/18/2017",
+    "description": "GAMESTOP*45243",
+    "amount": -914.33
+  },
+  {
+    "date": "04/18/2017",
+    "description": "O'REILLY AUTO PARTS 522NXA",
+    "amount": -6.1
+  },
+  {
+    "date": "04/19/2017",
+    "description": "MICHAELS STORES 80223",
+    "amount": -604.2
+  },
+  {
+    "date": "04/20/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -102.46
+  },
+  {
+    "date": "04/23/2017",
+    "description": "JUSTWORKS PAYROLL 025369",
+    "amount": -260000.0
+  },
+  {
+    "date": "04/24/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP NFR852",
+    "amount": -599.13
+  },
+  {
+    "date": "04/25/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -97.8
+  },
+  {
+    "date": "04/25/2017",
+    "description": "ASCENA RETAIL GROUP--OACW43",
+    "amount": -1001.8
+  },
+  {
+    "date": "04/25/2017",
+    "description": "STARBUCKS 17402",
+    "amount": -760.89
+  },
+  {
+    "date": "04/26/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT USMM29",
+    "amount": -432.55
+  },
+  {
+    "date": "04/26/2017",
+    "description": "GAMESTOP*79485",
+    "amount": -926.67
+  },
+  {
+    "date": "04/26/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 52204",
+    "amount": -1206.34
+  },
+  {
+    "date": "04/27/2017",
+    "description": "GIANT EAGLE",
+    "amount": -100.7
+  },
+  {
+    "date": "04/28/2017",
+    "description": "BED BATH & BEYOND 426701",
+    "amount": -1350.2
+  },
+  {
+    "date": "04/29/2017",
+    "description": "SEARS HOLDINGS A155GQ",
+    "amount": -781.88
+  },
+  {
+    "date": "04/30/2017",
+    "description": "GAP 94077",
+    "amount": -862.24
+  },
+  {
+    "date": "04/30/2017",
+    "description": "MICHAELS STORES 78585",
+    "amount": -606.01
+  },
+  {
+    "date": "05/01/2017",
+    "description": "BIG LOTS KHAM00",
+    "amount": -1128.33
+  },
+  {
+    "date": "05/01/2017",
+    "description": "RITE AID PUK474",
+    "amount": -62.19
+  },
+  {
+    "date": "05/02/2017",
+    "description": "GAMESTOP*42378",
+    "amount": -907.07
+  },
+  {
+    "date": "05/03/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -100.23
+  },
+  {
+    "date": "05/04/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -100.47
+  },
+  {
+    "date": "05/06/2017",
+    "description": "DOLLAR TREE*47392",
+    "amount": -1382.97
+  },
+  {
+    "date": "05/07/2017",
+    "description": "JUSTWORKS PAYROLL 220AWU",
+    "amount": -260000.0
+  },
+  {
+    "date": "05/07/2017",
+    "description": "PETCO ANIMAL SUPPLIES--MMEU01",
+    "amount": -886.5
+  },
+  {
+    "date": "05/07/2017",
+    "description": "ALDI 117KWC",
+    "amount": -763.94
+  },
+  {
+    "date": "05/08/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 99167",
+    "amount": -1209.55
+  },
+  {
+    "date": "05/09/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.79
+  },
+  {
+    "date": "05/09/2017",
+    "description": "ALIMENTATION COUCHE-TARD 77102",
+    "amount": -1684.11
+  },
+  {
+    "date": "05/10/2017",
+    "description": "BED BATH & BEYOND DG9148",
+    "amount": -1393.91
+  },
+  {
+    "date": "05/10/2017",
+    "description": "MENARD*WIQE78",
+    "amount": -594.1
+  },
+  {
+    "date": "05/13/2017",
+    "description": "BED BATH & BEYOND GX4482",
+    "amount": -1375.92
+  },
+  {
+    "date": "05/13/2017",
+    "description": "HOBBY LOBBY STORES 87648",
+    "amount": -876.7
+  },
+  {
+    "date": "05/14/2017",
+    "description": "SPEEDWAY 74378",
+    "amount": -43.07
+  },
+  {
+    "date": "05/15/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -100.78
+  },
+  {
+    "date": "05/15/2017",
+    "description": "BIG LOTS WOGB98",
+    "amount": -1141.71
+  },
+  {
+    "date": "05/16/2017",
+    "description": "GAMESTOP*46159",
+    "amount": -915.52
+  },
+  {
+    "date": "05/18/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -98.29
+  },
+  {
+    "date": "05/20/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY NFBH45",
+    "amount": -79.26
+  },
+  {
+    "date": "05/20/2017",
+    "description": "PETCO ANIMAL SUPPLIES--CGKC77",
+    "amount": -881.85
+  },
+  {
+    "date": "05/21/2017",
+    "description": "JUSTWORKS PAYROLL 875IZC",
+    "amount": -260000.0
+  },
+  {
+    "date": "05/21/2017",
+    "description": "BASS PRO",
+    "amount": -100.78
+  },
+  {
+    "date": "05/21/2017",
+    "description": "BED BATH & BEYOND 4EW66",
+    "amount": -1353.14
+  },
+  {
+    "date": "05/22/2017",
+    "description": "BIG LOTS AHJM95",
+    "amount": -1155.21
+  },
+  {
+    "date": "05/22/2017",
+    "description": "7-ELEVEN TDMY55",
+    "amount": -821.24
+  },
+  {
+    "date": "05/22/2017",
+    "description": "APPLE STORE 28442M",
+    "amount": -697.24
+  },
+  {
+    "date": "05/23/2017",
+    "description": "DILLARD'S--ACQ926",
+    "amount": -27.96
+  },
+  {
+    "date": "05/25/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -97.96
+  },
+  {
+    "date": "05/25/2017",
+    "description": "ALIMENTATION COUCHE-TARD 10168",
+    "amount": -1695.63
+  },
+  {
+    "date": "05/29/2017",
+    "description": "DOMINO'S PIZZA ODCJ40",
+    "amount": -800.33
+  },
+  {
+    "date": "05/29/2017",
+    "description": "ASCENA RETAIL GROUP--HPUK14",
+    "amount": -994.99
+  },
+  {
+    "date": "05/30/2017",
+    "description": "ROSS STORES KZG229",
+    "amount": -201.94
+  },
+  {
+    "date": "05/31/2017",
+    "description": "GAMESTOP*88006",
+    "amount": -915.94
+  },
+  {
+    "date": "06/04/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 842TET",
+    "amount": -581.97
+  },
+  {
+    "date": "06/04/2017",
+    "description": "JUSTWORKS PAYROLL 905152",
+    "amount": -260000.0
+  },
+  {
+    "date": "06/04/2017",
+    "description": "BED BATH & BEYOND 2ZA346",
+    "amount": -1371.35
+  },
+  {
+    "date": "06/04/2017",
+    "description": "DOMINO'S PIZZA YBZJ91",
+    "amount": -827.05
+  },
+  {
+    "date": "06/05/2017",
+    "description": "GAMESTOP*90860",
+    "amount": -927.28
+  },
+  {
+    "date": "06/05/2017",
+    "description": "DOMINO'S PIZZA GUKN24",
+    "amount": -800.33
+  },
+  {
+    "date": "06/06/2017",
+    "description": "J.C. PENNEY CO. UYDS05",
+    "amount": -1516.68
+  },
+  {
+    "date": "06/09/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -102.33
+  },
+  {
+    "date": "06/10/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -100.09
+  },
+  {
+    "date": "06/10/2017",
+    "description": "BASS PRO",
+    "amount": -98.61
+  },
+  {
+    "date": "06/11/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -97.32
+  },
+  {
+    "date": "06/11/2017",
+    "description": "BIG LOTS QDSV02",
+    "amount": -1139.07
+  },
+  {
+    "date": "06/11/2017",
+    "description": "ROSS STORES 00RM7",
+    "amount": -173.96
+  },
+  {
+    "date": "06/12/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP ZY6V5O",
+    "amount": -745.99
+  },
+  {
+    "date": "06/14/2017",
+    "description": "STARBUCKS 43510",
+    "amount": -753.83
+  },
+  {
+    "date": "06/14/2017",
+    "description": "KING-RAMOS PAYMT FOR SVCS 62J666",
+    "amount": 1730099.04
+  },
+  {
+    "date": "06/15/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 98831",
+    "amount": 158.83
+  },
+  {
+    "date": "06/15/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP VRD595",
+    "amount": -726.71
+  },
+  {
+    "date": "06/18/2017",
+    "description": "JUSTWORKS PAYROLL 416WGL",
+    "amount": -260000.0
+  },
+  {
+    "date": "06/18/2017",
+    "description": "BASS PRO",
+    "amount": -103.14
+  },
+  {
+    "date": "06/18/2017",
+    "description": "BED BATH & BEYOND BHP876",
+    "amount": -1355.17
+  },
+  {
+    "date": "06/19/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 73I989",
+    "amount": -509.61
+  },
+  {
+    "date": "06/19/2017",
+    "description": "TJX COMPANIES 05979",
+    "amount": -34.17
+  },
+  {
+    "date": "06/20/2017",
+    "description": "NORDSTROM Y08509",
+    "amount": -23.14
+  },
+  {
+    "date": "06/21/2017",
+    "description": "GAP 25315",
+    "amount": -851.87
+  },
+  {
+    "date": "06/23/2017",
+    "description": "BED BATH & BEYOND M23440",
+    "amount": -1361.4
+  },
+  {
+    "date": "06/23/2017",
+    "description": "RITE AID 552JYL",
+    "amount": -49.62
+  },
+  {
+    "date": "06/23/2017",
+    "description": "SEARS HOLDINGS 6ENP13",
+    "amount": -788.47
+  },
+  {
+    "date": "06/25/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT VOIU11",
+    "amount": -492.17
+  },
+  {
+    "date": "06/27/2017",
+    "description": "MENARD*WFMQ07",
+    "amount": -601.75
+  },
+  {
+    "date": "06/28/2017",
+    "description": "DOMINO'S PIZZA QXFI08",
+    "amount": -818.74
+  },
+  {
+    "date": "06/28/2017",
+    "description": "WALMART CQWP87",
+    "amount": -68.56
+  },
+  {
+    "date": "06/29/2017",
+    "description": "MICHAELS STORES 74334",
+    "amount": -588.96
+  },
+  {
+    "date": "06/30/2017",
+    "description": "BASS PRO",
+    "amount": -98.97
+  },
+  {
+    "date": "06/30/2017",
+    "description": "DISCOUNT TIRE HGMJ01",
+    "amount": -21.04
+  },
+  {
+    "date": "06/30/2017",
+    "description": "SAKS FIFTH AVENUE 38559",
+    "amount": -75.64
+  },
+  {
+    "date": "07/01/2017",
+    "description": "ALIMENTATION COUCHE-TARD 90522",
+    "amount": -1687.68
+  },
+  {
+    "date": "07/01/2017",
+    "description": "SEARS HOLDINGS WJX390",
+    "amount": -779.81
+  },
+  {
+    "date": "07/02/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 65R043",
+    "amount": -591.18
+  },
+  {
+    "date": "07/02/2017",
+    "description": "JUSTWORKS PAYROLL 8Q2954",
+    "amount": -260000.0
+  },
+  {
+    "date": "07/02/2017",
+    "description": "GAMESTOP*56414",
+    "amount": -931.07
+  },
+  {
+    "date": "07/03/2017",
+    "description": "DINE BRANDS GLOBAL 55261",
+    "amount": -275.46
+  },
+  {
+    "date": "07/03/2017",
+    "description": "MENARD*XSOL16",
+    "amount": -605.16
+  },
+  {
+    "date": "07/06/2017",
+    "description": "DOLLAR GENERAL 26530",
+    "amount": -1103.47
+  },
+  {
+    "date": "07/07/2017",
+    "description": "BASS PRO",
+    "amount": -102.41
+  },
+  {
+    "date": "07/07/2017",
+    "description": "DINE BRANDS GLOBAL 47935",
+    "amount": -285.87
+  },
+  {
+    "date": "07/07/2017",
+    "description": "TOYS R US YVGB50",
+    "amount": -32.15
+  },
+  {
+    "date": "07/10/2017",
+    "description": "GAP 27058",
+    "amount": -845.45
+  },
+  {
+    "date": "07/11/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 28821",
+    "amount": -1188.06
+  },
+  {
+    "date": "07/12/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -99.93
+  },
+  {
+    "date": "07/12/2017",
+    "description": "ALIMENTATION COUCHE-TARD 84943",
+    "amount": -1701.3
+  },
+  {
+    "date": "07/15/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -101.96
+  },
+  {
+    "date": "07/15/2017",
+    "description": "ROSS STORES RUQ363",
+    "amount": -178.66
+  },
+  {
+    "date": "07/15/2017",
+    "description": "THE KROGER CO. FUBX90",
+    "amount": -1239.49
+  },
+  {
+    "date": "07/16/2017",
+    "description": "JUSTWORKS PAYROLL IRT947",
+    "amount": -260000.0
+  },
+  {
+    "date": "07/16/2017",
+    "description": "GAMESTOP*87105",
+    "amount": -924.99
+  },
+  {
+    "date": "07/18/2017",
+    "description": "ALDI 3052QE",
+    "amount": -776.25
+  },
+  {
+    "date": "07/19/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -98.99
+  },
+  {
+    "date": "07/19/2017",
+    "description": "ASCENA RETAIL GROUP--WGWS84",
+    "amount": -980.2
+  },
+  {
+    "date": "07/20/2017",
+    "description": "PETCO ANIMAL SUPPLIES--YOKD14",
+    "amount": -887.63
+  },
+  {
+    "date": "07/22/2017",
+    "description": "ALLEN-FIGUEROA INVOICE TQJZ72",
+    "amount": 26.11
+  },
+  {
+    "date": "07/22/2017",
+    "description": "SEARS HOLDINGS OYO722",
+    "amount": -759.1
+  },
+  {
+    "date": "07/23/2017",
+    "description": "HOBBY LOBBY STORES 85749",
+    "amount": -885.3
+  },
+  {
+    "date": "07/23/2017",
+    "description": "DINE BRANDS GLOBAL 34846",
+    "amount": -302.68
+  },
+  {
+    "date": "07/23/2017",
+    "description": "STARBUCKS 46235",
+    "amount": -761.16
+  },
+  {
+    "date": "07/24/2017",
+    "description": "BIG LOTS DSAG29",
+    "amount": -1127.5
+  },
+  {
+    "date": "07/24/2017",
+    "description": "NORDSTROM 01MDT0",
+    "amount": -36.31
+  },
+  {
+    "date": "07/25/2017",
+    "description": "MICHAELS STORES 69069",
+    "amount": -599.37
+  },
+  {
+    "date": "07/25/2017",
+    "description": "SPEEDWAY 04956",
+    "amount": -39.53
+  },
+  {
+    "date": "07/26/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -99.84
+  },
+  {
+    "date": "07/27/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP CAQ684",
+    "amount": -679.79
+  },
+  {
+    "date": "07/27/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -102.45
+  },
+  {
+    "date": "07/27/2017",
+    "description": "DINE BRANDS GLOBAL 51868",
+    "amount": -300.85
+  },
+  {
+    "date": "07/30/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT CTJO89",
+    "amount": -328.94
+  },
+  {
+    "date": "07/30/2017",
+    "description": "JUSTWORKS PAYROLL Z42YUO",
+    "amount": -260000.0
+  },
+  {
+    "date": "07/30/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -99.49
+  },
+  {
+    "date": "07/30/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -100.86
+  },
+  {
+    "date": "07/30/2017",
+    "description": "DOMINO'S PIZZA RYCZ78",
+    "amount": -813.68
+  },
+  {
+    "date": "07/30/2017",
+    "description": "PUBLIX SUPER MARKETS YKTR92",
+    "amount": -65.16
+  },
+  {
+    "date": "07/31/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT FZTW89",
+    "amount": -366.15
+  },
+  {
+    "date": "07/31/2017",
+    "description": "ASCENA RETAIL GROUP--HZFL18",
+    "amount": -995.04
+  },
+  {
+    "date": "07/31/2017",
+    "description": "STARBUCKS 54793",
+    "amount": -752.13
+  },
+  {
+    "date": "08/01/2017",
+    "description": "BASS PRO",
+    "amount": -100.4
+  },
+  {
+    "date": "08/03/2017",
+    "description": "ALLEN-FIGUEROA INVOICE PFGT00",
+    "amount": 180.99
+  },
+  {
+    "date": "08/03/2017",
+    "description": "BURLINGTON COAT FACTORY UROU04",
+    "amount": -32.17
+  },
+  {
+    "date": "08/05/2017",
+    "description": "THE KROGER CO. KYXJ54",
+    "amount": -1208.61
+  },
+  {
+    "date": "08/06/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT JXPP34",
+    "amount": -233.25
+  },
+  {
+    "date": "08/07/2017",
+    "description": "PETCO ANIMAL SUPPLIES--DKWK46",
+    "amount": -884.65
+  },
+  {
+    "date": "08/07/2017",
+    "description": "THE KROGER CO. DSNB13",
+    "amount": -1210.54
+  },
+  {
+    "date": "08/09/2017",
+    "description": "MICHAELS STORES 09119",
+    "amount": -605.81
+  },
+  {
+    "date": "08/09/2017",
+    "description": "STARBUCKS 40563",
+    "amount": -760.66
+  },
+  {
+    "date": "08/10/2017",
+    "description": "PETCO ANIMAL SUPPLIES--BGDH35",
+    "amount": -880.41
+  },
+  {
+    "date": "08/11/2017",
+    "description": "ALIMENTATION COUCHE-TARD 69024",
+    "amount": -1687.18
+  },
+  {
+    "date": "08/13/2017",
+    "description": "JUSTWORKS PAYROLL 6I2271",
+    "amount": -260000.0
+  },
+  {
+    "date": "08/13/2017",
+    "description": "APPLE STORE 275KKO",
+    "amount": -713.0
+  },
+  {
+    "date": "08/14/2017",
+    "description": "BASS PRO",
+    "amount": -100.93
+  },
+  {
+    "date": "08/14/2017",
+    "description": "SAVE-A-LOT 96859",
+    "amount": -51.78
+  },
+  {
+    "date": "08/15/2017",
+    "description": "DOMINO'S PIZZA GCKL28",
+    "amount": -820.43
+  },
+  {
+    "date": "08/15/2017",
+    "description": "APPLE STORE 8E4128",
+    "amount": -692.59
+  },
+  {
+    "date": "08/16/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY QDZS07",
+    "amount": -218.68
+  },
+  {
+    "date": "08/16/2017",
+    "description": "HOBBY LOBBY STORES 53716",
+    "amount": -875.32
+  },
+  {
+    "date": "08/17/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 197C7",
+    "amount": -462.23
+  },
+  {
+    "date": "08/18/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -99.09
+  },
+  {
+    "date": "08/18/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 12201",
+    "amount": -1182.11
+  },
+  {
+    "date": "08/18/2017",
+    "description": "ROSS STORES 0JYX92",
+    "amount": -190.22
+  },
+  {
+    "date": "08/19/2017",
+    "description": "MENARD*BGOQ47",
+    "amount": -606.92
+  },
+  {
+    "date": "08/20/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 91838",
+    "amount": 455.88
+  },
+  {
+    "date": "08/20/2017",
+    "description": "ROSS STORES 1MI190",
+    "amount": -212.36
+  },
+  {
+    "date": "08/21/2017",
+    "description": "DOMINO'S PIZZA ZVEY41",
+    "amount": -822.6
+  },
+  {
+    "date": "08/21/2017",
+    "description": "ALDI 1XMU76",
+    "amount": -781.22
+  },
+  {
+    "date": "08/21/2017",
+    "description": "J.C. PENNEY CO. FVWM47",
+    "amount": -1499.93
+  },
+  {
+    "date": "08/24/2017",
+    "description": "GIANT EAGLE",
+    "amount": -100.94
+  },
+  {
+    "date": "08/24/2017",
+    "description": "DINE BRANDS GLOBAL 55167",
+    "amount": -300.26
+  },
+  {
+    "date": "08/27/2017",
+    "description": "JUSTWORKS PAYROLL G46XLD",
+    "amount": -260000.0
+  },
+  {
+    "date": "08/29/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -100.12
+  },
+  {
+    "date": "08/30/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -95.7
+  },
+  {
+    "date": "08/30/2017",
+    "description": "RITE AID TEI176",
+    "amount": -56.73
+  },
+  {
+    "date": "08/31/2017",
+    "description": "GAP 66341",
+    "amount": -836.1
+  },
+  {
+    "date": "09/02/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT DDQS32",
+    "amount": -434.7
+  },
+  {
+    "date": "09/02/2017",
+    "description": "ALIMENTATION COUCHE-TARD 89990",
+    "amount": -1674.11
+  },
+  {
+    "date": "09/04/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 189801",
+    "amount": -485.52
+  },
+  {
+    "date": "09/04/2017",
+    "description": "DINE BRANDS GLOBAL 37231",
+    "amount": -271.87
+  },
+  {
+    "date": "09/08/2017",
+    "description": "ALIMENTATION COUCHE-TARD 93194",
+    "amount": -1687.17
+  },
+  {
+    "date": "09/08/2017",
+    "description": "J.C. PENNEY CO. ZGUV38",
+    "amount": -1493.66
+  },
+  {
+    "date": "09/10/2017",
+    "description": "JUSTWORKS PAYROLL ZBP970",
+    "amount": -260000.0
+  },
+  {
+    "date": "09/10/2017",
+    "description": "APPLE STORE TGAP87",
+    "amount": -683.61
+  },
+  {
+    "date": "09/11/2017",
+    "description": "DOLLAR GENERAL 11273",
+    "amount": -1094.54
+  },
+  {
+    "date": "09/11/2017",
+    "description": "J.C. PENNEY CO. AQEC41",
+    "amount": -1507.19
+  },
+  {
+    "date": "09/12/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -98.14
+  },
+  {
+    "date": "09/14/2017",
+    "description": "GIANT EAGLE",
+    "amount": -101.02
+  },
+  {
+    "date": "09/14/2017",
+    "description": "HOBBY LOBBY STORES 30264",
+    "amount": -876.72
+  },
+  {
+    "date": "09/14/2017",
+    "description": "DINE BRANDS GLOBAL 97128",
+    "amount": -267.81
+  },
+  {
+    "date": "09/15/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 60951",
+    "amount": 311.96
+  },
+  {
+    "date": "09/15/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY BVFA10",
+    "amount": -309.73
+  },
+  {
+    "date": "09/15/2017",
+    "description": "ALIMENTATION COUCHE-TARD 36836",
+    "amount": -1686.96
+  },
+  {
+    "date": "09/15/2017",
+    "description": "DICK'S SPORTING GOODS 33326",
+    "amount": -42.68
+  },
+  {
+    "date": "09/16/2017",
+    "description": "ALIMENTATION COUCHE-TARD 98319",
+    "amount": -1701.09
+  },
+  {
+    "date": "09/16/2017",
+    "description": "DOLLAR TREE*69247",
+    "amount": -1377.85
+  },
+  {
+    "date": "09/17/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT EEZQ19",
+    "amount": -480.89
+  },
+  {
+    "date": "09/18/2017",
+    "description": "WINCO FOODS 49828",
+    "amount": -706.8
+  },
+  {
+    "date": "09/20/2017",
+    "description": "RITE AID J4479K",
+    "amount": -70.04
+  },
+  {
+    "date": "09/21/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT GSWX63",
+    "amount": -323.54
+  },
+  {
+    "date": "09/21/2017",
+    "description": "DINE BRANDS GLOBAL 83115",
+    "amount": -305.74
+  },
+  {
+    "date": "09/21/2017",
+    "description": "BIG LOTS UGNJ95",
+    "amount": -1130.76
+  },
+  {
+    "date": "09/21/2017",
+    "description": "WAKEFERN 06798",
+    "amount": -54.58
+  },
+  {
+    "date": "09/22/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -102.57
+  },
+  {
+    "date": "09/22/2017",
+    "description": "ALDI GJK168",
+    "amount": -777.23
+  },
+  {
+    "date": "09/22/2017",
+    "description": "TRUE VALUE CO. 05660",
+    "amount": -44.45
+  },
+  {
+    "date": "09/23/2017",
+    "description": "DOLLAR TREE*38600",
+    "amount": -1362.95
+  },
+  {
+    "date": "09/23/2017",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES 1ANU72",
+    "amount": 238701.25
+  },
+  {
+    "date": "09/24/2017",
+    "description": "JUSTWORKS PAYROLL N2189H",
+    "amount": -260000.0
+  },
+  {
+    "date": "09/24/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 80838",
+    "amount": -1200.27
+  },
+  {
+    "date": "09/24/2017",
+    "description": "7-ELEVEN CWFX28",
+    "amount": -817.73
+  },
+  {
+    "date": "09/27/2017",
+    "description": "PETCO ANIMAL SUPPLIES--KKBA42",
+    "amount": -887.64
+  },
+  {
+    "date": "09/27/2017",
+    "description": "THE KROGER CO. FLJW39",
+    "amount": -1212.35
+  },
+  {
+    "date": "09/28/2017",
+    "description": "BASS PRO",
+    "amount": -99.57
+  },
+  {
+    "date": "09/29/2017",
+    "description": "HOBBY LOBBY STORES 54396",
+    "amount": -888.3
+  },
+  {
+    "date": "09/29/2017",
+    "description": "RITE AID NKS050",
+    "amount": -50.66
+  },
+  {
+    "date": "09/30/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT KEGJ21",
+    "amount": -272.35
+  },
+  {
+    "date": "10/05/2017",
+    "description": "SEARS HOLDINGS 066JWT",
+    "amount": -785.49
+  },
+  {
+    "date": "10/06/2017",
+    "description": "GIANT EAGLE",
+    "amount": -99.56
+  },
+  {
+    "date": "10/07/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 71H720",
+    "amount": -563.11
+  },
+  {
+    "date": "10/07/2017",
+    "description": "BASS PRO",
+    "amount": -102.02
+  },
+  {
+    "date": "10/08/2017",
+    "description": "JUSTWORKS PAYROLL 3TL66",
+    "amount": -260000.0
+  },
+  {
+    "date": "10/09/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 92908",
+    "amount": 176.72
+  },
+  {
+    "date": "10/09/2017",
+    "description": "EXXON MOBIL CORPORATION*45449",
+    "amount": -6.74
+  },
+  {
+    "date": "10/09/2017",
+    "description": "GOOD NEIGHBOR PHARMACY 4KTJ39",
+    "amount": -23.75
+  },
+  {
+    "date": "10/10/2017",
+    "description": "HOBBY LOBBY STORES 10356",
+    "amount": -883.88
+  },
+  {
+    "date": "10/10/2017",
+    "description": "PETCO ANIMAL SUPPLIES--HQFJ07",
+    "amount": -888.08
+  },
+  {
+    "date": "10/11/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 34971",
+    "amount": 160.7
+  },
+  {
+    "date": "10/11/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 456COY",
+    "amount": -549.12
+  },
+  {
+    "date": "10/11/2017",
+    "description": "PETCO ANIMAL SUPPLIES--XWJC86",
+    "amount": -891.66
+  },
+  {
+    "date": "10/12/2017",
+    "description": "GAMESTOP*23832",
+    "amount": -939.72
+  },
+  {
+    "date": "10/13/2017",
+    "description": "MENARD*XNHZ34",
+    "amount": -614.55
+  },
+  {
+    "date": "10/13/2017",
+    "description": "TOYS R US IFLF48",
+    "amount": -36.98
+  },
+  {
+    "date": "10/14/2017",
+    "description": "ROSS STORES 1EO693",
+    "amount": -202.22
+  },
+  {
+    "date": "10/14/2017",
+    "description": "DOLLAR TREE*52119",
+    "amount": -1375.56
+  },
+  {
+    "date": "10/15/2017",
+    "description": "STARBUCKS 86028",
+    "amount": -761.5
+  },
+  {
+    "date": "10/15/2017",
+    "description": "MENARD*UGZO40",
+    "amount": -622.02
+  },
+  {
+    "date": "10/15/2017",
+    "description": "ROSS STORES REU016",
+    "amount": -185.6
+  },
+  {
+    "date": "10/16/2017",
+    "description": "RITE AID 3SS63",
+    "amount": -60.07
+  },
+  {
+    "date": "10/17/2017",
+    "description": "DINE BRANDS GLOBAL 72981",
+    "amount": -269.5
+  },
+  {
+    "date": "10/17/2017",
+    "description": "DOLLAR GENERAL 20752",
+    "amount": -1103.0
+  },
+  {
+    "date": "10/18/2017",
+    "description": "KING-RAMOS PAYMT FOR SVCS 826U7",
+    "amount": 1705601.08
+  },
+  {
+    "date": "10/20/2017",
+    "description": "HOBBY LOBBY STORES 95513",
+    "amount": -882.34
+  },
+  {
+    "date": "10/20/2017",
+    "description": "ALDI PMQ950",
+    "amount": -760.02
+  },
+  {
+    "date": "10/22/2017",
+    "description": "JUSTWORKS PAYROLL F647VS",
+    "amount": -260000.0
+  },
+  {
+    "date": "10/22/2017",
+    "description": "J.C. PENNEY CO. MPUS17",
+    "amount": -1497.69
+  },
+  {
+    "date": "10/23/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT RHWT28",
+    "amount": -384.08
+  },
+  {
+    "date": "10/23/2017",
+    "description": "GAP 08323",
+    "amount": -841.34
+  },
+  {
+    "date": "10/23/2017",
+    "description": "SEARS HOLDINGS TLEA32",
+    "amount": -782.65
+  },
+  {
+    "date": "10/23/2017",
+    "description": "DOLLAR GENERAL 03529",
+    "amount": -1128.94
+  },
+  {
+    "date": "10/24/2017",
+    "description": "DOLLAR GENERAL 37388",
+    "amount": -1103.25
+  },
+  {
+    "date": "10/24/2017",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES 9B3201",
+    "amount": 248595.21
+  },
+  {
+    "date": "10/25/2017",
+    "description": "ALDI 259XXX",
+    "amount": -788.45
+  },
+  {
+    "date": "10/26/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT NBOO80",
+    "amount": -252.25
+  },
+  {
+    "date": "10/26/2017",
+    "description": "MENARD*DSYB81",
+    "amount": -612.28
+  },
+  {
+    "date": "10/26/2017",
+    "description": "THE KROGER CO. IZQV60",
+    "amount": -1192.52
+  },
+  {
+    "date": "10/27/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT QAYY97",
+    "amount": -312.56
+  },
+  {
+    "date": "10/27/2017",
+    "description": "GAMESTOP*04742",
+    "amount": -908.15
+  },
+  {
+    "date": "10/28/2017",
+    "description": "WINCO FOODS 54587",
+    "amount": -706.61
+  },
+  {
+    "date": "10/30/2017",
+    "description": "HOBBY LOBBY STORES 97907",
+    "amount": -886.14
+  },
+  {
+    "date": "10/31/2017",
+    "description": "DOMINO'S PIZZA NWRT26",
+    "amount": -815.46
+  },
+  {
+    "date": "11/01/2017",
+    "description": "DOMINO'S PIZZA IXJN91",
+    "amount": -819.07
+  },
+  {
+    "date": "11/01/2017",
+    "description": "ALDI 56Z870",
+    "amount": -762.51
+  },
+  {
+    "date": "11/01/2017",
+    "description": "APPLE STORE 225GOY",
+    "amount": -700.53
+  },
+  {
+    "date": "11/02/2017",
+    "description": "GIANT EAGLE",
+    "amount": -100.72
+  },
+  {
+    "date": "11/03/2017",
+    "description": "THE KROGER CO. RTFT64",
+    "amount": -1218.73
+  },
+  {
+    "date": "11/04/2017",
+    "description": "THE KROGER CO. QLNY98",
+    "amount": -1202.57
+  },
+  {
+    "date": "11/05/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY NOZE47",
+    "amount": -66.14
+  },
+  {
+    "date": "11/05/2017",
+    "description": "JUSTWORKS PAYROLL 455CUU",
+    "amount": -260000.0
+  },
+  {
+    "date": "11/06/2017",
+    "description": "GIANT EAGLE",
+    "amount": -99.94
+  },
+  {
+    "date": "11/06/2017",
+    "description": "GAP 26965",
+    "amount": -824.77
+  },
+  {
+    "date": "11/06/2017",
+    "description": "7-ELEVEN GBVA21",
+    "amount": -824.61
+  },
+  {
+    "date": "11/07/2017",
+    "description": "BASS PRO",
+    "amount": -101.95
+  },
+  {
+    "date": "11/07/2017",
+    "description": "DOLLAR GENERAL 67223",
+    "amount": -1084.77
+  },
+  {
+    "date": "11/08/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT QHFK94",
+    "amount": -393.05
+  },
+  {
+    "date": "11/08/2017",
+    "description": "7-ELEVEN ZBHQ58",
+    "amount": -835.42
+  },
+  {
+    "date": "11/09/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -99.14
+  },
+  {
+    "date": "11/10/2017",
+    "description": "ALIMENTATION COUCHE-TARD 01490",
+    "amount": -1684.19
+  },
+  {
+    "date": "11/11/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 59429",
+    "amount": -1200.6
+  },
+  {
+    "date": "11/13/2017",
+    "description": "HOBBY LOBBY STORES 19331",
+    "amount": -873.15
+  },
+  {
+    "date": "11/13/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 21949",
+    "amount": -1195.22
+  },
+  {
+    "date": "11/14/2017",
+    "description": "GIANT EAGLE",
+    "amount": -100.93
+  },
+  {
+    "date": "11/15/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY XEPV54",
+    "amount": -257.22
+  },
+  {
+    "date": "11/18/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP OVK115",
+    "amount": -637.95
+  },
+  {
+    "date": "11/18/2017",
+    "description": "DOLLAR GENERAL 43854",
+    "amount": -1114.38
+  },
+  {
+    "date": "11/19/2017",
+    "description": "JUSTWORKS PAYROLL 798975",
+    "amount": -260000.0
+  },
+  {
+    "date": "11/19/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 66247",
+    "amount": -1200.19
+  },
+  {
+    "date": "11/21/2017",
+    "description": "GIANT EAGLE",
+    "amount": -101.8
+  },
+  {
+    "date": "11/21/2017",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -101.38
+  },
+  {
+    "date": "11/21/2017",
+    "description": "RITE AID 746DIU",
+    "amount": -62.78
+  },
+  {
+    "date": "11/22/2017",
+    "description": "BASS PRO",
+    "amount": -99.01
+  },
+  {
+    "date": "11/23/2017",
+    "description": "J.C. PENNEY CO. IZHB60",
+    "amount": -1504.14
+  },
+  {
+    "date": "11/24/2017",
+    "description": "STARBUCKS 21131",
+    "amount": -746.87
+  },
+  {
+    "date": "11/26/2017",
+    "description": "MENARD*CLFA42",
+    "amount": -605.26
+  },
+  {
+    "date": "11/26/2017",
+    "description": "YUM! BRANDS*924JOV",
+    "amount": -25.65
+  },
+  {
+    "date": "11/27/2017",
+    "description": "DINE BRANDS GLOBAL 58804",
+    "amount": -279.42
+  },
+  {
+    "date": "11/27/2017",
+    "description": "RITE AID SJ8263",
+    "amount": -54.01
+  },
+  {
+    "date": "11/27/2017",
+    "description": "HEALTH MART SYSTEMS--17518",
+    "amount": -57.73
+  },
+  {
+    "date": "11/28/2017",
+    "description": "THE KROGER CO. OHTW40",
+    "amount": -1228.76
+  },
+  {
+    "date": "11/28/2017",
+    "description": "J.C. PENNEY CO. NDQE60",
+    "amount": -1511.7
+  },
+  {
+    "date": "11/30/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -103.37
+  },
+  {
+    "date": "12/01/2017",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -103.22
+  },
+  {
+    "date": "12/02/2017",
+    "description": "7-ELEVEN ESJZ42",
+    "amount": -828.44
+  },
+  {
+    "date": "12/03/2017",
+    "description": "ALLEN-FIGUEROA INVOICE XKTL86",
+    "amount": 208.21
+  },
+  {
+    "date": "12/03/2017",
+    "description": "JUSTWORKS PAYROLL PII970",
+    "amount": -260000.0
+  },
+  {
+    "date": "12/03/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -96.84
+  },
+  {
+    "date": "12/04/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 04643",
+    "amount": 256.5
+  },
+  {
+    "date": "12/04/2017",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY DPGE41",
+    "amount": 139.15
+  },
+  {
+    "date": "12/04/2017",
+    "description": "DOMINO'S PIZZA MYPC84",
+    "amount": -804.89
+  },
+  {
+    "date": "12/04/2017",
+    "description": "7-ELEVEN GEJR25",
+    "amount": -829.22
+  },
+  {
+    "date": "12/04/2017",
+    "description": "PETCO ANIMAL SUPPLIES--BLBF78",
+    "amount": -892.22
+  },
+  {
+    "date": "12/07/2017",
+    "description": "JACK IN THE BOX 81670",
+    "amount": -19.63
+  },
+  {
+    "date": "12/08/2017",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.34
+  },
+  {
+    "date": "12/09/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 99772",
+    "amount": 333.77
+  },
+  {
+    "date": "12/09/2017",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES 5X6Z7G",
+    "amount": 249362.66
+  },
+  {
+    "date": "12/11/2017",
+    "description": "J.C. PENNEY CO. CIYZ50",
+    "amount": -1507.75
+  },
+  {
+    "date": "12/11/2017",
+    "description": "SOUTHEASTERN GROCERS 768AKW",
+    "amount": -25.04
+  },
+  {
+    "date": "12/12/2017",
+    "description": "DOLLAR TREE*10721",
+    "amount": -1366.83
+  },
+  {
+    "date": "12/14/2017",
+    "description": "WINCO FOODS 39121",
+    "amount": -695.75
+  },
+  {
+    "date": "12/15/2017",
+    "description": "BIG LOTS NQXN63",
+    "amount": -1133.46
+  },
+  {
+    "date": "12/15/2017",
+    "description": "APPLE STORE 0NT762",
+    "amount": -703.56
+  },
+  {
+    "date": "12/16/2017",
+    "description": "HOBBY LOBBY STORES 43382",
+    "amount": -866.85
+  },
+  {
+    "date": "12/17/2017",
+    "description": "JUSTWORKS PAYROLL 3ZM408",
+    "amount": -260000.0
+  },
+  {
+    "date": "12/17/2017",
+    "description": "GAP 38409",
+    "amount": -854.53
+  },
+  {
+    "date": "12/17/2017",
+    "description": "SEARS HOLDINGS 468TWO",
+    "amount": -772.56
+  },
+  {
+    "date": "12/20/2017",
+    "description": "STARBUCKS 47205",
+    "amount": -758.88
+  },
+  {
+    "date": "12/20/2017",
+    "description": "ALDI 6ZR108",
+    "amount": -774.02
+  },
+  {
+    "date": "12/21/2017",
+    "description": "GIANT EAGLE",
+    "amount": -105.62
+  },
+  {
+    "date": "12/23/2017",
+    "description": "BIG LOTS UPIQ90",
+    "amount": -1118.88
+  },
+  {
+    "date": "12/25/2017",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 912023",
+    "amount": -750.04
+  },
+  {
+    "date": "12/25/2017",
+    "description": "PETCO ANIMAL SUPPLIES--BGCR52",
+    "amount": -881.37
+  },
+  {
+    "date": "12/26/2017",
+    "description": "GAP 21614",
+    "amount": -850.25
+  },
+  {
+    "date": "12/27/2017",
+    "description": "ULTA SALON, COSMETICS & FRAG 61678",
+    "amount": -1193.3
+  },
+  {
+    "date": "12/28/2017",
+    "description": "PATTERSON AND SONS INTEREST PAYMT CCTN67",
+    "amount": -401.08
+  },
+  {
+    "date": "12/29/2017",
+    "description": "GAMESTOP*36414",
+    "amount": -913.25
+  },
+  {
+    "date": "12/31/2017",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 25803",
+    "amount": 141.11
+  },
+  {
+    "date": "12/31/2017",
+    "description": "JUSTWORKS PAYROLL 5VWU41",
+    "amount": -260000.0
+  },
+  {
+    "date": "01/01/2018",
+    "description": "GAMESTOP*85712",
+    "amount": -918.1
+  },
+  {
+    "date": "01/02/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -99.23
+  },
+  {
+    "date": "01/02/2018",
+    "description": "HOBBY LOBBY STORES 58751",
+    "amount": -863.87
+  },
+  {
+    "date": "01/02/2018",
+    "description": "ULTA SALON, COSMETICS & FRAG 66817",
+    "amount": -1195.64
+  },
+  {
+    "date": "01/02/2018",
+    "description": "LOWE'S COMPANIES SUYZ48",
+    "amount": -31.27
+  },
+  {
+    "date": "01/03/2018",
+    "description": "RITE AID ONP144",
+    "amount": -55.26
+  },
+  {
+    "date": "01/03/2018",
+    "description": "SEARS HOLDINGS 391ADY",
+    "amount": -787.49
+  },
+  {
+    "date": "01/06/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -100.25
+  },
+  {
+    "date": "01/06/2018",
+    "description": "BED BATH & BEYOND PEY942",
+    "amount": -1375.99
+  },
+  {
+    "date": "01/07/2018",
+    "description": "GAP 64632",
+    "amount": -833.88
+  },
+  {
+    "date": "01/07/2018",
+    "description": "RITE AID IYF880",
+    "amount": -64.09
+  },
+  {
+    "date": "01/08/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -102.32
+  },
+  {
+    "date": "01/08/2018",
+    "description": "GIANT EAGLE",
+    "amount": -94.82
+  },
+  {
+    "date": "01/08/2018",
+    "description": "KING-RAMOS PAYMT FOR SVCS NKB994",
+    "amount": 1795273.96
+  },
+  {
+    "date": "01/09/2018",
+    "description": "ALDI KQ0Z5N",
+    "amount": -775.81
+  },
+  {
+    "date": "01/11/2018",
+    "description": "ALDI 7VO088",
+    "amount": -759.73
+  },
+  {
+    "date": "01/12/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -100.54
+  },
+  {
+    "date": "01/12/2018",
+    "description": "GAMESTOP*68808",
+    "amount": -914.65
+  },
+  {
+    "date": "01/13/2018",
+    "description": "ASCENA RETAIL GROUP--IAPY75",
+    "amount": -992.04
+  },
+  {
+    "date": "01/14/2018",
+    "description": "JUSTWORKS PAYROLL 463B3",
+    "amount": -260000.0
+  },
+  {
+    "date": "01/14/2018",
+    "description": "HOBBY LOBBY STORES 43710",
+    "amount": -887.28
+  },
+  {
+    "date": "01/14/2018",
+    "description": "BIG LOTS XXLR29",
+    "amount": -1131.64
+  },
+  {
+    "date": "01/15/2018",
+    "description": "MICHAELS STORES 12283",
+    "amount": -607.82
+  },
+  {
+    "date": "01/15/2018",
+    "description": "PETCO ANIMAL SUPPLIES--OWWM56",
+    "amount": -891.3
+  },
+  {
+    "date": "01/16/2018",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY YLQE13",
+    "amount": -219.22
+  },
+  {
+    "date": "01/16/2018",
+    "description": "GAMESTOP*44474",
+    "amount": -922.73
+  },
+  {
+    "date": "01/16/2018",
+    "description": "DOMINO'S PIZZA YKNI02",
+    "amount": -821.34
+  },
+  {
+    "date": "01/17/2018",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY GRQV15",
+    "amount": -208.37
+  },
+  {
+    "date": "01/17/2018",
+    "description": "RITE AID 122VYY",
+    "amount": -53.05
+  },
+  {
+    "date": "01/18/2018",
+    "description": "ULTA SALON, COSMETICS & FRAG 99107",
+    "amount": -1173.91
+  },
+  {
+    "date": "01/20/2018",
+    "description": "DINE BRANDS GLOBAL 28442",
+    "amount": -296.6
+  },
+  {
+    "date": "01/21/2018",
+    "description": "GAMESTOP*90115",
+    "amount": -904.08
+  },
+  {
+    "date": "01/21/2018",
+    "description": "GAP 48437",
+    "amount": -842.67
+  },
+  {
+    "date": "01/22/2018",
+    "description": "7-ELEVEN HHUK01",
+    "amount": -829.65
+  },
+  {
+    "date": "01/22/2018",
+    "description": "THE KROGER CO. JOGY74",
+    "amount": -1227.88
+  },
+  {
+    "date": "01/24/2018",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY ZBXM59",
+    "amount": -5.91
+  },
+  {
+    "date": "01/24/2018",
+    "description": "KING-RAMOS PAYMT FOR SVCS 868201",
+    "amount": 1804498.16
+  },
+  {
+    "date": "01/25/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 152GTG",
+    "amount": -568.69
+  },
+  {
+    "date": "01/25/2018",
+    "description": "BED BATH & BEYOND ZNX227",
+    "amount": -1375.78
+  },
+  {
+    "date": "01/26/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 155ENF",
+    "amount": -565.3
+  },
+  {
+    "date": "01/26/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT KAAY17",
+    "amount": -348.79
+  },
+  {
+    "date": "01/27/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT XIVS26",
+    "amount": -297.78
+  },
+  {
+    "date": "01/27/2018",
+    "description": "STARBUCKS 24013",
+    "amount": -766.59
+  },
+  {
+    "date": "01/28/2018",
+    "description": "JUSTWORKS PAYROLL 088ANG",
+    "amount": -260000.0
+  },
+  {
+    "date": "01/28/2018",
+    "description": "DOLLAR TREE*63752",
+    "amount": -1363.64
+  },
+  {
+    "date": "01/29/2018",
+    "description": "WINCO FOODS 70823",
+    "amount": -728.06
+  },
+  {
+    "date": "01/30/2018",
+    "description": "DOLLAR TREE*78608",
+    "amount": -1359.43
+  },
+  {
+    "date": "01/30/2018",
+    "description": "NEIMAN MARCUS 9534",
+    "amount": -32.25
+  },
+  {
+    "date": "02/01/2018",
+    "description": "J.C. PENNEY CO. WLEW16",
+    "amount": -1516.88
+  },
+  {
+    "date": "02/03/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 608ZEK",
+    "amount": -780.89
+  },
+  {
+    "date": "02/04/2018",
+    "description": "MICHAELS STORES 09707",
+    "amount": -591.74
+  },
+  {
+    "date": "02/04/2018",
+    "description": "WINCO FOODS 92972",
+    "amount": -700.32
+  },
+  {
+    "date": "02/04/2018",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES AE2844",
+    "amount": 340236.41
+  },
+  {
+    "date": "02/05/2018",
+    "description": "DOMINO'S PIZZA TTPI44",
+    "amount": -822.01
+  },
+  {
+    "date": "02/06/2018",
+    "description": "GAMESTOP*48513",
+    "amount": -921.35
+  },
+  {
+    "date": "02/07/2018",
+    "description": "APPLE STORE MKF237",
+    "amount": -687.8
+  },
+  {
+    "date": "02/08/2018",
+    "description": "GIANT EAGLE",
+    "amount": -103.07
+  },
+  {
+    "date": "02/09/2018",
+    "description": "BASS PRO",
+    "amount": -97.87
+  },
+  {
+    "date": "02/09/2018",
+    "description": "BED BATH & BEYOND 0U4733",
+    "amount": -1373.78
+  },
+  {
+    "date": "02/11/2018",
+    "description": "JUSTWORKS PAYROLL 43XX25",
+    "amount": -260000.0
+  },
+  {
+    "date": "02/11/2018",
+    "description": "PETCO ANIMAL SUPPLIES--UZQJ22",
+    "amount": -903.05
+  },
+  {
+    "date": "02/11/2018",
+    "description": "LOWE'S COMPANIES DBLH02",
+    "amount": -41.79
+  },
+  {
+    "date": "02/12/2018",
+    "description": "GAP 40236",
+    "amount": -845.82
+  },
+  {
+    "date": "02/12/2018",
+    "description": "STARBUCKS 52006",
+    "amount": -779.0
+  },
+  {
+    "date": "02/13/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP YQH265",
+    "amount": -748.21
+  },
+  {
+    "date": "02/13/2018",
+    "description": "RITE AID ZIM045",
+    "amount": -66.95
+  },
+  {
+    "date": "02/13/2018",
+    "description": "ROSS STORES LLB783",
+    "amount": -201.16
+  },
+  {
+    "date": "02/18/2018",
+    "description": "DICK'S SPORTING GOODS 38514",
+    "amount": -29.23
+  },
+  {
+    "date": "02/19/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -96.4
+  },
+  {
+    "date": "02/19/2018",
+    "description": "PETCO ANIMAL SUPPLIES--UKFI96",
+    "amount": -881.67
+  },
+  {
+    "date": "02/21/2018",
+    "description": "BIG LOTS DEHX13",
+    "amount": -1148.67
+  },
+  {
+    "date": "02/21/2018",
+    "description": "DOMINO'S PIZZA WOTF92",
+    "amount": -814.69
+  },
+  {
+    "date": "02/22/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -98.5
+  },
+  {
+    "date": "02/23/2018",
+    "description": "BIG LOTS TNOA01",
+    "amount": -1150.86
+  },
+  {
+    "date": "02/23/2018",
+    "description": "DOLLAR TREE*86569",
+    "amount": -1366.7
+  },
+  {
+    "date": "02/25/2018",
+    "description": "JUSTWORKS PAYROLL GHJ345",
+    "amount": -260000.0
+  },
+  {
+    "date": "02/25/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -100.13
+  },
+  {
+    "date": "02/26/2018",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 28570",
+    "amount": 276.66
+  },
+  {
+    "date": "02/27/2018",
+    "description": "DINE BRANDS GLOBAL 36046",
+    "amount": -293.75
+  },
+  {
+    "date": "03/01/2018",
+    "description": "HOBBY LOBBY STORES 12760",
+    "amount": -875.63
+  },
+  {
+    "date": "03/01/2018",
+    "description": "7-ELEVEN JEUL92",
+    "amount": -819.6
+  },
+  {
+    "date": "03/01/2018",
+    "description": "PETCO ANIMAL SUPPLIES--SXVK94",
+    "amount": -888.56
+  },
+  {
+    "date": "03/01/2018",
+    "description": "DOLLAR TREE*81874",
+    "amount": -1375.27
+  },
+  {
+    "date": "03/01/2018",
+    "description": "J.C. PENNEY CO. OMZP12",
+    "amount": -1514.5
+  },
+  {
+    "date": "03/03/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT VCBX19",
+    "amount": -360.83
+  },
+  {
+    "date": "03/03/2018",
+    "description": "SUBWAY WWHA50",
+    "amount": -18.38
+  },
+  {
+    "date": "03/04/2018",
+    "description": "THE HOME DEPOT LXT681",
+    "amount": -46.33
+  },
+  {
+    "date": "03/05/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.23
+  },
+  {
+    "date": "03/05/2018",
+    "description": "APPLE STORE 3Z033",
+    "amount": -686.41
+  },
+  {
+    "date": "03/06/2018",
+    "description": "GIANT EAGLE",
+    "amount": -101.52
+  },
+  {
+    "date": "03/07/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -98.09
+  },
+  {
+    "date": "03/07/2018",
+    "description": "APPLE STORE 443YWX",
+    "amount": -674.08
+  },
+  {
+    "date": "03/08/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -99.85
+  },
+  {
+    "date": "03/10/2018",
+    "description": "BIG LOTS BTOF60",
+    "amount": -1146.88
+  },
+  {
+    "date": "03/10/2018",
+    "description": "DOLLAR TREE*48223",
+    "amount": -1358.37
+  },
+  {
+    "date": "03/11/2018",
+    "description": "JUSTWORKS PAYROLL Z228YX",
+    "amount": -260000.0
+  },
+  {
+    "date": "03/12/2018",
+    "description": "DOMINO'S PIZZA UYWR79",
+    "amount": -819.49
+  },
+  {
+    "date": "03/13/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 235061",
+    "amount": -652.78
+  },
+  {
+    "date": "03/14/2018",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY VSFB56",
+    "amount": 161.65
+  },
+  {
+    "date": "03/15/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -101.58
+  },
+  {
+    "date": "03/15/2018",
+    "description": "GAP 89577",
+    "amount": -851.58
+  },
+  {
+    "date": "03/15/2018",
+    "description": "APPLE STORE 4P4544",
+    "amount": -686.89
+  },
+  {
+    "date": "03/17/2018",
+    "description": "BIG LOTS GRTF15",
+    "amount": -1133.21
+  },
+  {
+    "date": "03/17/2018",
+    "description": "APPLE STORE IEM027",
+    "amount": -687.99
+  },
+  {
+    "date": "03/17/2018",
+    "description": "KOHL'S 66038",
+    "amount": -30.39
+  },
+  {
+    "date": "03/19/2018",
+    "description": "ALLEN-FIGUEROA INVOICE JPVE86",
+    "amount": 193.67
+  },
+  {
+    "date": "03/19/2018",
+    "description": "SEARS HOLDINGS BIS927",
+    "amount": -774.82
+  },
+  {
+    "date": "03/20/2018",
+    "description": "MENARD*BKXG22",
+    "amount": -613.3
+  },
+  {
+    "date": "03/22/2018",
+    "description": "KING-RAMOS PAYMT FOR SVCS 730795",
+    "amount": 1667025.57
+  },
+  {
+    "date": "03/23/2018",
+    "description": "7-ELEVEN GZWN27",
+    "amount": -796.3
+  },
+  {
+    "date": "03/24/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -99.2
+  },
+  {
+    "date": "03/25/2018",
+    "description": "JUSTWORKS PAYROLL VAC160",
+    "amount": -260000.0
+  },
+  {
+    "date": "03/29/2018",
+    "description": "DINE BRANDS GLOBAL 63977",
+    "amount": -305.94
+  },
+  {
+    "date": "03/30/2018",
+    "description": "RITE AID KUA167",
+    "amount": -46.25
+  },
+  {
+    "date": "03/30/2018",
+    "description": "DOLLAR TREE*67131",
+    "amount": -1389.09
+  },
+  {
+    "date": "04/01/2018",
+    "description": "ASCENA RETAIL GROUP--RMNS66",
+    "amount": -996.35
+  },
+  {
+    "date": "04/02/2018",
+    "description": "BED BATH & BEYOND 1HH92",
+    "amount": -1352.7
+  },
+  {
+    "date": "04/02/2018",
+    "description": "DUNKIN' BRANDS GROUP WKHL31",
+    "amount": -21.16
+  },
+  {
+    "date": "04/03/2018",
+    "description": "DINE BRANDS GLOBAL 62248",
+    "amount": -296.76
+  },
+  {
+    "date": "04/05/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.02
+  },
+  {
+    "date": "04/05/2018",
+    "description": "GAP 79368",
+    "amount": -830.36
+  },
+  {
+    "date": "04/05/2018",
+    "description": "DOLLAR GENERAL 23190",
+    "amount": -1093.39
+  },
+  {
+    "date": "04/08/2018",
+    "description": "JUSTWORKS PAYROLL 073XOI",
+    "amount": -260000.0
+  },
+  {
+    "date": "04/09/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -99.87
+  },
+  {
+    "date": "04/10/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 2E554",
+    "amount": -671.17
+  },
+  {
+    "date": "04/10/2018",
+    "description": "HOBBY LOBBY STORES 63592",
+    "amount": -876.51
+  },
+  {
+    "date": "04/10/2018",
+    "description": "APPLE STORE 29K557",
+    "amount": -697.92
+  },
+  {
+    "date": "04/11/2018",
+    "description": "THE KROGER CO. JOMR07",
+    "amount": -1234.07
+  },
+  {
+    "date": "04/12/2018",
+    "description": "BASS PRO",
+    "amount": -98.5
+  },
+  {
+    "date": "04/12/2018",
+    "description": "BED BATH & BEYOND HFF448",
+    "amount": -1359.48
+  },
+  {
+    "date": "04/12/2018",
+    "description": "RITE AID MGY401",
+    "amount": -67.02
+  },
+  {
+    "date": "04/12/2018",
+    "description": "STARBUCKS 01890",
+    "amount": -789.43
+  },
+  {
+    "date": "04/13/2018",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY QSVM78",
+    "amount": -51.36
+  },
+  {
+    "date": "04/14/2018",
+    "description": "GIANT EAGLE",
+    "amount": -101.05
+  },
+  {
+    "date": "04/14/2018",
+    "description": "CHICK-FIL-A ZGII00",
+    "amount": -29.27
+  },
+  {
+    "date": "04/15/2018",
+    "description": "HOBBY LOBBY STORES 94194",
+    "amount": -868.93
+  },
+  {
+    "date": "04/17/2018",
+    "description": "ULTA SALON, COSMETICS & FRAG 16483",
+    "amount": -1189.17
+  },
+  {
+    "date": "04/18/2018",
+    "description": "ULTA SALON, COSMETICS & FRAG 76407",
+    "amount": -1201.92
+  },
+  {
+    "date": "04/21/2018",
+    "description": "ALLEN-FIGUEROA INVOICE UEMN51",
+    "amount": 173.18
+  },
+  {
+    "date": "04/21/2018",
+    "description": "ALDI 714246",
+    "amount": -761.96
+  },
+  {
+    "date": "04/22/2018",
+    "description": "JUSTWORKS PAYROLL 6ZV100",
+    "amount": -260000.0
+  },
+  {
+    "date": "04/23/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT EGDR16",
+    "amount": -531.66
+  },
+  {
+    "date": "04/23/2018",
+    "description": "DINE BRANDS GLOBAL 51258",
+    "amount": -285.33
+  },
+  {
+    "date": "04/24/2018",
+    "description": "J.C. PENNEY CO. ZAYI24",
+    "amount": -1505.55
+  },
+  {
+    "date": "04/25/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT LDTN39",
+    "amount": -452.45
+  },
+  {
+    "date": "04/25/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -100.92
+  },
+  {
+    "date": "04/25/2018",
+    "description": "MICHAELS STORES 16906",
+    "amount": -587.94
+  },
+  {
+    "date": "04/25/2018",
+    "description": "DOLLAR GENERAL 34292",
+    "amount": -1116.69
+  },
+  {
+    "date": "04/28/2018",
+    "description": "ALDI 2VPX44",
+    "amount": -778.77
+  },
+  {
+    "date": "04/28/2018",
+    "description": "APPLE STORE 380UID",
+    "amount": -676.23
+  },
+  {
+    "date": "04/29/2018",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY SZWG22",
+    "amount": -63.22
+  },
+  {
+    "date": "04/29/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -100.47
+  },
+  {
+    "date": "04/29/2018",
+    "description": "APPLE STORE OLW774",
+    "amount": -685.72
+  },
+  {
+    "date": "04/29/2018",
+    "description": "HY-VEE 0OQD80",
+    "amount": -15.38
+  },
+  {
+    "date": "04/29/2018",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES RYX017",
+    "amount": 289332.91
+  },
+  {
+    "date": "04/30/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -101.21
+  },
+  {
+    "date": "04/30/2018",
+    "description": "PETCO ANIMAL SUPPLIES--FWDY56",
+    "amount": -895.42
+  },
+  {
+    "date": "05/01/2018",
+    "description": "WINCO FOODS 89594",
+    "amount": -703.69
+  },
+  {
+    "date": "05/01/2018",
+    "description": "7-ELEVEN AXGQ21",
+    "amount": -823.62
+  },
+  {
+    "date": "05/02/2018",
+    "description": "MENARD*DRDM01",
+    "amount": -623.01
+  },
+  {
+    "date": "05/04/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -97.91
+  },
+  {
+    "date": "05/05/2018",
+    "description": "RITE AID 618BH",
+    "amount": -51.1
+  },
+  {
+    "date": "05/05/2018",
+    "description": "SUPERVALU 522FNI",
+    "amount": -9.3
+  },
+  {
+    "date": "05/06/2018",
+    "description": "JUSTWORKS PAYROLL LM3208",
+    "amount": -260000.0
+  },
+  {
+    "date": "05/06/2018",
+    "description": "DOLLAR TREE*29786",
+    "amount": -1390.36
+  },
+  {
+    "date": "05/07/2018",
+    "description": "SHERWIN-WILLIAMS*HHZI87",
+    "amount": -25.48
+  },
+  {
+    "date": "05/08/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -99.9
+  },
+  {
+    "date": "05/08/2018",
+    "description": "J.C. PENNEY CO. MURP64",
+    "amount": -1521.77
+  },
+  {
+    "date": "05/09/2018",
+    "description": "PETCO ANIMAL SUPPLIES--HEGQ91",
+    "amount": -896.24
+  },
+  {
+    "date": "05/10/2018",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 89281",
+    "amount": 228.99
+  },
+  {
+    "date": "05/10/2018",
+    "description": "7-ELEVEN IXMV76",
+    "amount": -836.66
+  },
+  {
+    "date": "05/10/2018",
+    "description": "ALDI 997748",
+    "amount": -779.1
+  },
+  {
+    "date": "05/11/2018",
+    "description": "DOLLAR GENERAL 78229",
+    "amount": -1087.56
+  },
+  {
+    "date": "05/12/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP KWA266",
+    "amount": -468.64
+  },
+  {
+    "date": "05/12/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.5
+  },
+  {
+    "date": "05/14/2018",
+    "description": "J.C. PENNEY CO. QVZD46",
+    "amount": -1518.28
+  },
+  {
+    "date": "05/15/2018",
+    "description": "ROSS STORES 025MY7",
+    "amount": -186.47
+  },
+  {
+    "date": "05/16/2018",
+    "description": "ASCENA RETAIL GROUP--URQU72",
+    "amount": -998.45
+  },
+  {
+    "date": "05/17/2018",
+    "description": "ALIMENTATION COUCHE-TARD 87887",
+    "amount": -1692.11
+  },
+  {
+    "date": "05/18/2018",
+    "description": "MICHAELS STORES 40290",
+    "amount": -597.03
+  },
+  {
+    "date": "05/19/2018",
+    "description": "ALLEN-FIGUEROA INVOICE QIZT95",
+    "amount": 335.49
+  },
+  {
+    "date": "05/20/2018",
+    "description": "JUSTWORKS PAYROLL YOZ501",
+    "amount": -260000.0
+  },
+  {
+    "date": "05/20/2018",
+    "description": "ALDI I82XQR",
+    "amount": -767.85
+  },
+  {
+    "date": "05/21/2018",
+    "description": "ALDI 543UGR",
+    "amount": -784.39
+  },
+  {
+    "date": "05/24/2018",
+    "description": "ALLEN-FIGUEROA INVOICE QZAD21",
+    "amount": 116.75
+  },
+  {
+    "date": "05/24/2018",
+    "description": "ALIMENTATION COUCHE-TARD 90457",
+    "amount": -1687.52
+  },
+  {
+    "date": "05/24/2018",
+    "description": "OFFICE DEPOT--04061",
+    "amount": -27.52
+  },
+  {
+    "date": "05/25/2018",
+    "description": "WINCO FOODS 21024",
+    "amount": -677.34
+  },
+  {
+    "date": "05/26/2018",
+    "description": "BED BATH & BEYOND JJR325",
+    "amount": -1369.64
+  },
+  {
+    "date": "05/26/2018",
+    "description": "ARMY & AIR FORCE EXCHANGE JGAC73",
+    "amount": -36.17
+  },
+  {
+    "date": "05/27/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -102.57
+  },
+  {
+    "date": "05/28/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -100.61
+  },
+  {
+    "date": "05/30/2018",
+    "description": "STARBUCKS 48057",
+    "amount": -752.54
+  },
+  {
+    "date": "05/31/2018",
+    "description": "GAMESTOP*60479",
+    "amount": -909.07
+  },
+  {
+    "date": "05/31/2018",
+    "description": "ALIMENTATION COUCHE-TARD 30444",
+    "amount": -1680.47
+  },
+  {
+    "date": "05/31/2018",
+    "description": "DINE BRANDS GLOBAL 38924",
+    "amount": -285.25
+  },
+  {
+    "date": "06/01/2018",
+    "description": "SEARS HOLDINGS WYY541",
+    "amount": -772.11
+  },
+  {
+    "date": "06/02/2018",
+    "description": "BED BATH & BEYOND 5F5415",
+    "amount": -1359.17
+  },
+  {
+    "date": "06/03/2018",
+    "description": "JUSTWORKS PAYROLL 1SX040",
+    "amount": -260000.0
+  },
+  {
+    "date": "06/05/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -101.97
+  },
+  {
+    "date": "06/05/2018",
+    "description": "THE KROGER CO. JXFP18",
+    "amount": -1217.54
+  },
+  {
+    "date": "06/07/2018",
+    "description": "MENARD*LRKP19",
+    "amount": -606.16
+  },
+  {
+    "date": "06/08/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -103.59
+  },
+  {
+    "date": "06/09/2018",
+    "description": "BASS PRO",
+    "amount": -101.69
+  },
+  {
+    "date": "06/09/2018",
+    "description": "GIANT EAGLE",
+    "amount": -102.42
+  },
+  {
+    "date": "06/11/2018",
+    "description": "THE KROGER CO. XUPI91",
+    "amount": -1217.48
+  },
+  {
+    "date": "06/12/2018",
+    "description": "BASS PRO",
+    "amount": -100.81
+  },
+  {
+    "date": "06/13/2018",
+    "description": "STARBUCKS 53035",
+    "amount": -758.84
+  },
+  {
+    "date": "06/13/2018",
+    "description": "COSTCO VSQR66",
+    "amount": -14.59
+  },
+  {
+    "date": "06/14/2018",
+    "description": "PETCO ANIMAL SUPPLIES--ECVU36",
+    "amount": -893.07
+  },
+  {
+    "date": "06/14/2018",
+    "description": "DOLLAR TREE*32553",
+    "amount": -1381.19
+  },
+  {
+    "date": "06/14/2018",
+    "description": "DOLLAR GENERAL 42314",
+    "amount": -1094.04
+  },
+  {
+    "date": "06/15/2018",
+    "description": "MICHAELS STORES 73030",
+    "amount": -594.45
+  },
+  {
+    "date": "06/16/2018",
+    "description": "DINE BRANDS GLOBAL 51949",
+    "amount": -282.88
+  },
+  {
+    "date": "06/17/2018",
+    "description": "JUSTWORKS PAYROLL PUK753",
+    "amount": -260000.0
+  },
+  {
+    "date": "06/17/2018",
+    "description": "RITE AID 20XC28",
+    "amount": -47.5
+  },
+  {
+    "date": "06/17/2018",
+    "description": "AVB BRANDSOURCE 93400",
+    "amount": -15.6
+  },
+  {
+    "date": "06/19/2018",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES JPE982",
+    "amount": 282317.86
+  },
+  {
+    "date": "06/20/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -100.18
+  },
+  {
+    "date": "06/20/2018",
+    "description": "ALIMENTATION COUCHE-TARD 96303",
+    "amount": -1672.62
+  },
+  {
+    "date": "06/20/2018",
+    "description": "MICHAELS STORES 65184",
+    "amount": -614.26
+  },
+  {
+    "date": "06/20/2018",
+    "description": "SEARS HOLDINGS 785EZI",
+    "amount": -772.04
+  },
+  {
+    "date": "06/21/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 3081",
+    "amount": -613.44
+  },
+  {
+    "date": "06/22/2018",
+    "description": "ROSS STORES NTG905",
+    "amount": -187.62
+  },
+  {
+    "date": "06/23/2018",
+    "description": "ROSS STORES 076BIS",
+    "amount": -187.2
+  },
+  {
+    "date": "06/24/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -101.46
+  },
+  {
+    "date": "06/24/2018",
+    "description": "ROSS STORES NCC591",
+    "amount": -181.15
+  },
+  {
+    "date": "06/26/2018",
+    "description": "DINE BRANDS GLOBAL 37169",
+    "amount": -271.42
+  },
+  {
+    "date": "06/26/2018",
+    "description": "RITE AID 032EYE",
+    "amount": -47.58
+  },
+  {
+    "date": "06/26/2018",
+    "description": "MENARD*YLOO32",
+    "amount": -612.11
+  },
+  {
+    "date": "06/27/2018",
+    "description": "ROSS STORES DEC028",
+    "amount": -181.46
+  },
+  {
+    "date": "06/27/2018",
+    "description": "KING-RAMOS PAYMT FOR SVCS 19NU08",
+    "amount": 1822207.34
+  },
+  {
+    "date": "06/29/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -98.35
+  },
+  {
+    "date": "06/29/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -99.59
+  },
+  {
+    "date": "06/29/2018",
+    "description": "7-ELEVEN ILJV22",
+    "amount": -816.84
+  },
+  {
+    "date": "06/29/2018",
+    "description": "SHERWIN-WILLIAMS*FOZS44",
+    "amount": -11.11
+  },
+  {
+    "date": "06/30/2018",
+    "description": "ALIMENTATION COUCHE-TARD 38669",
+    "amount": -1700.17
+  },
+  {
+    "date": "07/01/2018",
+    "description": "JUSTWORKS PAYROLL 60F323",
+    "amount": -260000.0
+  },
+  {
+    "date": "07/01/2018",
+    "description": "ALDI 888OO",
+    "amount": -751.85
+  },
+  {
+    "date": "07/03/2018",
+    "description": "APPLE STORE 01P242",
+    "amount": -692.91
+  },
+  {
+    "date": "07/03/2018",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES 149PGJ",
+    "amount": 405515.8
+  },
+  {
+    "date": "07/04/2018",
+    "description": "DINE BRANDS GLOBAL 32208",
+    "amount": -288.77
+  },
+  {
+    "date": "07/05/2018",
+    "description": "APPLE STORE SH8F2C",
+    "amount": -693.35
+  },
+  {
+    "date": "07/05/2018",
+    "description": "FOOT LOCKER 68397",
+    "amount": -9.78
+  },
+  {
+    "date": "07/06/2018",
+    "description": "RITE AID BOP275",
+    "amount": -56.96
+  },
+  {
+    "date": "07/08/2018",
+    "description": "STARBUCKS 38263",
+    "amount": -765.71
+  },
+  {
+    "date": "07/10/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.09
+  },
+  {
+    "date": "07/11/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT FQUK35",
+    "amount": -464.38
+  },
+  {
+    "date": "07/11/2018",
+    "description": "BIG LOTS AJME78",
+    "amount": -1137.75
+  },
+  {
+    "date": "07/11/2018",
+    "description": "7-ELEVEN HZCJ66",
+    "amount": -831.25
+  },
+  {
+    "date": "07/12/2018",
+    "description": "ALIMENTATION COUCHE-TARD 57058",
+    "amount": -1683.14
+  },
+  {
+    "date": "07/14/2018",
+    "description": "APPLE STORE 679FSJ",
+    "amount": -696.42
+  },
+  {
+    "date": "07/15/2018",
+    "description": "JUSTWORKS PAYROLL 1RB328",
+    "amount": -260000.0
+  },
+  {
+    "date": "07/15/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.85
+  },
+  {
+    "date": "07/16/2018",
+    "description": "ULTA SALON, COSMETICS & FRAG 50357",
+    "amount": -1189.32
+  },
+  {
+    "date": "07/16/2018",
+    "description": "7-ELEVEN XDSH43",
+    "amount": -816.4
+  },
+  {
+    "date": "07/16/2018",
+    "description": "ALDI I914RX",
+    "amount": -761.74
+  },
+  {
+    "date": "07/17/2018",
+    "description": "GAP 79631",
+    "amount": -844.78
+  },
+  {
+    "date": "07/17/2018",
+    "description": "ULTA SALON, COSMETICS & FRAG 51682",
+    "amount": -1195.36
+  },
+  {
+    "date": "07/19/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 519NYE",
+    "amount": -591.61
+  },
+  {
+    "date": "07/19/2018",
+    "description": "BIG LOTS IVZL82",
+    "amount": -1147.8
+  },
+  {
+    "date": "07/20/2018",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY VAEL71",
+    "amount": -206.91
+  },
+  {
+    "date": "07/20/2018",
+    "description": "BIG LOTS YQFU48",
+    "amount": -1127.04
+  },
+  {
+    "date": "07/21/2018",
+    "description": "BASS PRO",
+    "amount": -100.41
+  },
+  {
+    "date": "07/21/2018",
+    "description": "7-ELEVEN BPNN91",
+    "amount": -821.36
+  },
+  {
+    "date": "07/22/2018",
+    "description": "GIANT EAGLE",
+    "amount": -101.52
+  },
+  {
+    "date": "07/22/2018",
+    "description": "BED BATH & BEYOND EOE159",
+    "amount": -1359.28
+  },
+  {
+    "date": "07/22/2018",
+    "description": "SEARS HOLDINGS RZX609",
+    "amount": -752.7
+  },
+  {
+    "date": "07/22/2018",
+    "description": "BEST BUY 7835",
+    "amount": -44.4
+  },
+  {
+    "date": "07/23/2018",
+    "description": "ALDI HUL518",
+    "amount": -754.51
+  },
+  {
+    "date": "07/24/2018",
+    "description": "BED BATH & BEYOND 957GDT",
+    "amount": -1376.94
+  },
+  {
+    "date": "07/24/2018",
+    "description": "ALDI LLB037",
+    "amount": -786.23
+  },
+  {
+    "date": "07/25/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 725486",
+    "amount": -549.95
+  },
+  {
+    "date": "07/25/2018",
+    "description": "DOMINO'S PIZZA BQFK07",
+    "amount": -816.66
+  },
+  {
+    "date": "07/27/2018",
+    "description": "GIANT EAGLE",
+    "amount": -100.63
+  },
+  {
+    "date": "07/28/2018",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 18206",
+    "amount": 209.93
+  },
+  {
+    "date": "07/28/2018",
+    "description": "GAMESTOP*94464",
+    "amount": -916.45
+  },
+  {
+    "date": "07/28/2018",
+    "description": "PETCO ANIMAL SUPPLIES--LTJC72",
+    "amount": -880.9
+  },
+  {
+    "date": "07/28/2018",
+    "description": "ROSS STORES 7FM157",
+    "amount": -207.11
+  },
+  {
+    "date": "07/28/2018",
+    "description": "KING-RAMOS PAYMT FOR SVCS 110548",
+    "amount": 1821846.17
+  },
+  {
+    "date": "07/29/2018",
+    "description": "JUSTWORKS PAYROLL 4XZ313",
+    "amount": -260000.0
+  },
+  {
+    "date": "08/02/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -98.72
+  },
+  {
+    "date": "08/03/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -97.5
+  },
+  {
+    "date": "08/03/2018",
+    "description": "RITE AID 965KIY",
+    "amount": -52.84
+  },
+  {
+    "date": "08/04/2018",
+    "description": "7-ELEVEN MDHO39",
+    "amount": -786.39
+  },
+  {
+    "date": "08/06/2018",
+    "description": "J.C. PENNEY CO. ZKFA42",
+    "amount": -1503.99
+  },
+  {
+    "date": "08/08/2018",
+    "description": "BASS PRO",
+    "amount": -99.03
+  },
+  {
+    "date": "08/09/2018",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 04309",
+    "amount": 259.57
+  },
+  {
+    "date": "08/09/2018",
+    "description": "J.C. PENNEY CO. DPXA85",
+    "amount": -1506.99
+  },
+  {
+    "date": "08/10/2018",
+    "description": "DOLLAR GENERAL 89975",
+    "amount": -1099.25
+  },
+  {
+    "date": "08/12/2018",
+    "description": "JUSTWORKS PAYROLL 72TU85",
+    "amount": -260000.0
+  },
+  {
+    "date": "08/13/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -102.35
+  },
+  {
+    "date": "08/13/2018",
+    "description": "SEARS HOLDINGS 7YV50",
+    "amount": -776.59
+  },
+  {
+    "date": "08/13/2018",
+    "description": "ULTA SALON, COSMETICS & FRAG 28169",
+    "amount": -1194.33
+  },
+  {
+    "date": "08/14/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT NWUK46",
+    "amount": -365.88
+  },
+  {
+    "date": "08/15/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -97.78
+  },
+  {
+    "date": "08/16/2018",
+    "description": "DOLLAR TREE*01701",
+    "amount": -1384.15
+  },
+  {
+    "date": "08/17/2018",
+    "description": "BASS PRO",
+    "amount": -100.31
+  },
+  {
+    "date": "08/17/2018",
+    "description": "HOBBY LOBBY STORES 66037",
+    "amount": -853.61
+  },
+  {
+    "date": "08/21/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT NQLV30",
+    "amount": -435.21
+  },
+  {
+    "date": "08/22/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -102.25
+  },
+  {
+    "date": "08/22/2018",
+    "description": "GIANT EAGLE",
+    "amount": -98.89
+  },
+  {
+    "date": "08/22/2018",
+    "description": "DOLLAR GENERAL 59638",
+    "amount": -1108.08
+  },
+  {
+    "date": "08/23/2018",
+    "description": "BASS PRO",
+    "amount": -96.52
+  },
+  {
+    "date": "08/23/2018",
+    "description": "SEARS HOLDINGS XTY078",
+    "amount": -769.28
+  },
+  {
+    "date": "08/24/2018",
+    "description": "ALLEN-FIGUEROA INVOICE ONSV35",
+    "amount": 154.6
+  },
+  {
+    "date": "08/24/2018",
+    "description": "ASCENA RETAIL GROUP--KGEX02",
+    "amount": -1011.66
+  },
+  {
+    "date": "08/25/2018",
+    "description": "MICHAELS STORES 19518",
+    "amount": -590.33
+  },
+  {
+    "date": "08/25/2018",
+    "description": "DOMINO'S PIZZA LBOI00",
+    "amount": -829.21
+  },
+  {
+    "date": "08/26/2018",
+    "description": "JUSTWORKS PAYROLL 487T1",
+    "amount": -260000.0
+  },
+  {
+    "date": "08/27/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.76
+  },
+  {
+    "date": "08/27/2018",
+    "description": "DINE BRANDS GLOBAL 13022",
+    "amount": -290.57
+  },
+  {
+    "date": "08/27/2018",
+    "description": "RITE AID 713STO",
+    "amount": -54.95
+  },
+  {
+    "date": "08/28/2018",
+    "description": "GAMESTOP*32367",
+    "amount": -924.08
+  },
+  {
+    "date": "08/28/2018",
+    "description": "STARBUCKS 59665",
+    "amount": -760.73
+  },
+  {
+    "date": "08/29/2018",
+    "description": "ALIMENTATION COUCHE-TARD 86973",
+    "amount": -1696.99
+  },
+  {
+    "date": "09/01/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP BWN560",
+    "amount": -699.07
+  },
+  {
+    "date": "09/01/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT WEFA13",
+    "amount": -330.77
+  },
+  {
+    "date": "09/01/2018",
+    "description": "RITE AID DZY579",
+    "amount": -61.72
+  },
+  {
+    "date": "09/01/2018",
+    "description": "DOLLAR TREE*09197",
+    "amount": -1378.64
+  },
+  {
+    "date": "09/01/2018",
+    "description": "DOLLAR GENERAL 99221",
+    "amount": -1112.31
+  },
+  {
+    "date": "09/01/2018",
+    "description": "OFFICE DEPOT--91625",
+    "amount": -76.34
+  },
+  {
+    "date": "09/03/2018",
+    "description": "7-ELEVEN FKWI67",
+    "amount": -809.59
+  },
+  {
+    "date": "09/03/2018",
+    "description": "APPLE STORE 1X8K0M",
+    "amount": -675.64
+  },
+  {
+    "date": "09/04/2018",
+    "description": "ALLEN-FIGUEROA INVOICE UOMZ45",
+    "amount": 46.11
+  },
+  {
+    "date": "09/05/2018",
+    "description": "THE KROGER CO. NJQE64",
+    "amount": -1207.11
+  },
+  {
+    "date": "09/06/2018",
+    "description": "ROSS STORES 404HUT",
+    "amount": -201.55
+  },
+  {
+    "date": "09/07/2018",
+    "description": "GAMESTOP*48256",
+    "amount": -920.73
+  },
+  {
+    "date": "09/07/2018",
+    "description": "ULTA SALON, COSMETICS & FRAG 10639",
+    "amount": -1189.02
+  },
+  {
+    "date": "09/08/2018",
+    "description": "GAMESTOP*57349",
+    "amount": -920.05
+  },
+  {
+    "date": "09/09/2018",
+    "description": "JUSTWORKS PAYROLL J591CI",
+    "amount": -260000.0
+  },
+  {
+    "date": "09/09/2018",
+    "description": "BED BATH & BEYOND MAE400",
+    "amount": -1363.65
+  },
+  {
+    "date": "09/09/2018",
+    "description": "GAP 68382",
+    "amount": -848.44
+  },
+  {
+    "date": "09/09/2018",
+    "description": "STARBUCKS 36545",
+    "amount": -768.99
+  },
+  {
+    "date": "09/09/2018",
+    "description": "IKEA NORTH AMERICAN SVCS.--65564",
+    "amount": -39.98
+  },
+  {
+    "date": "09/10/2018",
+    "description": "DINE BRANDS GLOBAL 79792",
+    "amount": -290.25
+  },
+  {
+    "date": "09/11/2018",
+    "description": "GAP 87698",
+    "amount": -848.1
+  },
+  {
+    "date": "09/12/2018",
+    "description": "DOLLAR TREE*30456",
+    "amount": -1361.52
+  },
+  {
+    "date": "09/12/2018",
+    "description": "THE KROGER CO. PIDM67",
+    "amount": -1234.18
+  },
+  {
+    "date": "09/13/2018",
+    "description": "WINCO FOODS 76110",
+    "amount": -687.99
+  },
+  {
+    "date": "09/14/2018",
+    "description": "ALLEN-FIGUEROA INVOICE WRSB69",
+    "amount": 237.94
+  },
+  {
+    "date": "09/14/2018",
+    "description": "GIANT EAGLE",
+    "amount": -101.19
+  },
+  {
+    "date": "09/15/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -100.28
+  },
+  {
+    "date": "09/16/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -100.39
+  },
+  {
+    "date": "09/17/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 087IKN",
+    "amount": -544.84
+  },
+  {
+    "date": "09/17/2018",
+    "description": "WINCO FOODS 27532",
+    "amount": -700.59
+  },
+  {
+    "date": "09/20/2018",
+    "description": "BED BATH & BEYOND 1AO37",
+    "amount": -1371.6
+  },
+  {
+    "date": "09/20/2018",
+    "description": "HOBBY LOBBY STORES 53723",
+    "amount": -864.34
+  },
+  {
+    "date": "09/20/2018",
+    "description": "7-ELEVEN RZIG57",
+    "amount": -800.07
+  },
+  {
+    "date": "09/23/2018",
+    "description": "JUSTWORKS PAYROLL 446DKT",
+    "amount": -260000.0
+  },
+  {
+    "date": "09/23/2018",
+    "description": "BASS PRO",
+    "amount": -98.83
+  },
+  {
+    "date": "09/23/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -97.23
+  },
+  {
+    "date": "09/23/2018",
+    "description": "RITE AID 3OD871",
+    "amount": -44.93
+  },
+  {
+    "date": "09/24/2018",
+    "description": "THE KROGER CO. VKGD10",
+    "amount": -1221.19
+  },
+  {
+    "date": "09/26/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 7I8808",
+    "amount": -658.87
+  },
+  {
+    "date": "09/26/2018",
+    "description": "BASS PRO",
+    "amount": -99.22
+  },
+  {
+    "date": "09/26/2018",
+    "description": "ASCENA RETAIL GROUP--YUTQ91",
+    "amount": -999.36
+  },
+  {
+    "date": "09/26/2018",
+    "description": "AMAZON YVE492",
+    "amount": -41.74
+  },
+  {
+    "date": "09/27/2018",
+    "description": "GAP 20127",
+    "amount": -848.18
+  },
+  {
+    "date": "09/27/2018",
+    "description": "PETCO ANIMAL SUPPLIES--YMGW77",
+    "amount": -890.7
+  },
+  {
+    "date": "09/28/2018",
+    "description": "BED BATH & BEYOND VLG722",
+    "amount": -1380.0
+  },
+  {
+    "date": "09/28/2018",
+    "description": "J.C. PENNEY CO. KRHK52",
+    "amount": -1512.44
+  },
+  {
+    "date": "09/29/2018",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 22561",
+    "amount": 334.9
+  },
+  {
+    "date": "09/30/2018",
+    "description": "ASCENA RETAIL GROUP--LJYR70",
+    "amount": -1002.51
+  },
+  {
+    "date": "09/30/2018",
+    "description": "SEARS HOLDINGS PYO645",
+    "amount": -777.61
+  },
+  {
+    "date": "09/30/2018",
+    "description": "MENARD*FHVV64",
+    "amount": -596.09
+  },
+  {
+    "date": "10/01/2018",
+    "description": "GIANT EAGLE",
+    "amount": -101.37
+  },
+  {
+    "date": "10/02/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 2HVI66",
+    "amount": -503.59
+  },
+  {
+    "date": "10/02/2018",
+    "description": "BIG LOTS YNXB03",
+    "amount": -1155.17
+  },
+  {
+    "date": "10/02/2018",
+    "description": "ALDI WAC864",
+    "amount": -758.95
+  },
+  {
+    "date": "10/02/2018",
+    "description": "APPLE STORE ZLC058",
+    "amount": -687.35
+  },
+  {
+    "date": "10/02/2018",
+    "description": "THE KROGER CO. TDQE56",
+    "amount": -1220.53
+  },
+  {
+    "date": "10/02/2018",
+    "description": "SAKS FIFTH AVENUE 15243",
+    "amount": -27.54
+  },
+  {
+    "date": "10/03/2018",
+    "description": "PETCO ANIMAL SUPPLIES--WSUU33",
+    "amount": -890.1
+  },
+  {
+    "date": "10/04/2018",
+    "description": "GIANT EAGLE",
+    "amount": -96.9
+  },
+  {
+    "date": "10/04/2018",
+    "description": "MICHAELS STORES 45250",
+    "amount": -594.84
+  },
+  {
+    "date": "10/05/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP LVL035",
+    "amount": -553.75
+  },
+  {
+    "date": "10/06/2018",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 67626",
+    "amount": 136.18
+  },
+  {
+    "date": "10/07/2018",
+    "description": "JUSTWORKS PAYROLL 361HEN",
+    "amount": -260000.0
+  },
+  {
+    "date": "10/09/2018",
+    "description": "GAP 93369",
+    "amount": -833.27
+  },
+  {
+    "date": "10/10/2018",
+    "description": "DOMINO'S PIZZA CUSP60",
+    "amount": -817.74
+  },
+  {
+    "date": "10/10/2018",
+    "description": "ULTA SALON, COSMETICS & FRAG 05527",
+    "amount": -1187.08
+  },
+  {
+    "date": "10/12/2018",
+    "description": "DARDEN RESTAURANTS",
+    "amount": -103.6
+  },
+  {
+    "date": "10/12/2018",
+    "description": "MICHAELS STORES 12721",
+    "amount": -594.6
+  },
+  {
+    "date": "10/13/2018",
+    "description": "DOMINO'S PIZZA FIUB48",
+    "amount": -797.82
+  },
+  {
+    "date": "10/13/2018",
+    "description": "DOLLAR GENERAL 40785",
+    "amount": -1113.45
+  },
+  {
+    "date": "10/13/2018",
+    "description": "CURRY, HARRIS AND HUGHES INVOICED PAYABLES 70TF62",
+    "amount": 252795.66
+  },
+  {
+    "date": "10/14/2018",
+    "description": "BASS PRO",
+    "amount": -97.69
+  },
+  {
+    "date": "10/14/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -100.47
+  },
+  {
+    "date": "10/15/2018",
+    "description": "7-ELEVEN CMOW10",
+    "amount": -803.11
+  },
+  {
+    "date": "10/16/2018",
+    "description": "DINE BRANDS GLOBAL 85281",
+    "amount": -281.47
+  },
+  {
+    "date": "10/16/2018",
+    "description": "TARGET 04597",
+    "amount": -21.24
+  },
+  {
+    "date": "10/17/2018",
+    "description": "BASS PRO",
+    "amount": -98.72
+  },
+  {
+    "date": "10/17/2018",
+    "description": "THE KROGER CO. JXCM89",
+    "amount": -1224.81
+  },
+  {
+    "date": "10/18/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT SRLW92",
+    "amount": -221.98
+  },
+  {
+    "date": "10/18/2018",
+    "description": "SEARS HOLDINGS HTE203",
+    "amount": -769.39
+  },
+  {
+    "date": "10/19/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT OJHY80",
+    "amount": -256.79
+  },
+  {
+    "date": "10/19/2018",
+    "description": "STARBUCKS 26299",
+    "amount": -770.51
+  },
+  {
+    "date": "10/20/2018",
+    "description": "ASCENA RETAIL GROUP--RJNH82",
+    "amount": -1005.95
+  },
+  {
+    "date": "10/21/2018",
+    "description": "JUSTWORKS PAYROLL 5CP595",
+    "amount": -260000.0
+  },
+  {
+    "date": "10/21/2018",
+    "description": "GIANT EAGLE",
+    "amount": -98.87
+  },
+  {
+    "date": "10/21/2018",
+    "description": "DOLLAR GENERAL 23488",
+    "amount": -1119.05
+  },
+  {
+    "date": "10/23/2018",
+    "description": "BED BATH & BEYOND FWJ483",
+    "amount": -1361.02
+  },
+  {
+    "date": "10/23/2018",
+    "description": "PETCO ANIMAL SUPPLIES--ZJBZ75",
+    "amount": -866.15
+  },
+  {
+    "date": "10/24/2018",
+    "description": "SEARS HOLDINGS YWG239",
+    "amount": -782.38
+  },
+  {
+    "date": "10/24/2018",
+    "description": "PETCO ANIMAL SUPPLIES--BHSM46",
+    "amount": -894.11
+  },
+  {
+    "date": "10/24/2018",
+    "description": "EXXON MOBIL CORPORATION*36181",
+    "amount": -12.27
+  },
+  {
+    "date": "10/26/2018",
+    "description": "DINE BRANDS GLOBAL 55250",
+    "amount": -279.95
+  },
+  {
+    "date": "10/26/2018",
+    "description": "THE KROGER CO. YYXI43",
+    "amount": -1209.17
+  },
+  {
+    "date": "10/27/2018",
+    "description": "WINCO FOODS 67665",
+    "amount": -693.0
+  },
+  {
+    "date": "10/28/2018",
+    "description": "7-ELEVEN SAIN40",
+    "amount": -812.44
+  },
+  {
+    "date": "10/29/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -99.93
+  },
+  {
+    "date": "10/29/2018",
+    "description": "BIG LOTS IXHI35",
+    "amount": -1138.03
+  },
+  {
+    "date": "10/31/2018",
+    "description": "MENARD*YEUT59",
+    "amount": -616.04
+  },
+  {
+    "date": "11/01/2018",
+    "description": "STARBUCKS 77086",
+    "amount": -768.45
+  },
+  {
+    "date": "11/03/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT FYTQ27",
+    "amount": -398.64
+  },
+  {
+    "date": "11/03/2018",
+    "description": "GAP 75148",
+    "amount": -844.33
+  },
+  {
+    "date": "11/04/2018",
+    "description": "JUSTWORKS PAYROLL 976FNO",
+    "amount": -260000.0
+  },
+  {
+    "date": "11/04/2018",
+    "description": "BASS PRO",
+    "amount": -98.35
+  },
+  {
+    "date": "11/04/2018",
+    "description": "GIANT EAGLE",
+    "amount": -100.25
+  },
+  {
+    "date": "11/04/2018",
+    "description": "7-ELEVEN SPOM32",
+    "amount": -804.59
+  },
+  {
+    "date": "11/05/2018",
+    "description": "J.C. PENNEY CO. TMPF09",
+    "amount": -1520.88
+  },
+  {
+    "date": "11/05/2018",
+    "description": "PANERA BREAD COMPANY DWBK69",
+    "amount": -33.4
+  },
+  {
+    "date": "11/06/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 8N4052",
+    "amount": -558.18
+  },
+  {
+    "date": "11/06/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -97.01
+  },
+  {
+    "date": "11/06/2018",
+    "description": "WINCO FOODS 56548",
+    "amount": -705.81
+  },
+  {
+    "date": "11/06/2018",
+    "description": "J.C. PENNEY CO. KOVD75",
+    "amount": -1507.56
+  },
+  {
+    "date": "11/08/2018",
+    "description": "THE KROGER CO. HWXY20",
+    "amount": -1209.78
+  },
+  {
+    "date": "11/08/2018",
+    "description": "STAPLES--F2101I",
+    "amount": -31.69
+  },
+  {
+    "date": "11/09/2018",
+    "description": "HOBBY LOBBY STORES 36358",
+    "amount": -886.02
+  },
+  {
+    "date": "11/10/2018",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -99.61
+  },
+  {
+    "date": "11/10/2018",
+    "description": "ROSS STORES FH1907",
+    "amount": -152.0
+  },
+  {
+    "date": "11/14/2018",
+    "description": "GAMESTOP*31520",
+    "amount": -917.43
+  },
+  {
+    "date": "11/15/2018",
+    "description": "MENARD*RNYQ93",
+    "amount": -607.7
+  },
+  {
+    "date": "11/16/2018",
+    "description": "BED BATH & BEYOND Y205WG",
+    "amount": -1351.67
+  },
+  {
+    "date": "11/18/2018",
+    "description": "JUSTWORKS PAYROLL 4178RZ",
+    "amount": -260000.0
+  },
+  {
+    "date": "11/20/2018",
+    "description": "SEARS HOLDINGS UOG185",
+    "amount": -767.65
+  },
+  {
+    "date": "11/21/2018",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 61638",
+    "amount": 351.76
+  },
+  {
+    "date": "11/21/2018",
+    "description": "MICHAELS STORES 02284",
+    "amount": -615.18
+  },
+  {
+    "date": "11/22/2018",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 88813",
+    "amount": 370.88
+  },
+  {
+    "date": "11/22/2018",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY MLBU67",
+    "amount": -219.67
+  },
+  {
+    "date": "11/22/2018",
+    "description": "SEARS HOLDINGS 1NY38",
+    "amount": -764.3
+  },
+  {
+    "date": "11/23/2018",
+    "description": "GAMESTOP*53850",
+    "amount": -925.74
+  },
+  {
+    "date": "11/24/2018",
+    "description": "MICHAELS STORES 72416",
+    "amount": -608.2
+  },
+  {
+    "date": "11/24/2018",
+    "description": "DOLLAR TREE*98074",
+    "amount": -1378.12
+  },
+  {
+    "date": "11/26/2018",
+    "description": "DISCOUNT TIRE WWYJ83",
+    "amount": -31.96
+  },
+  {
+    "date": "11/27/2018",
+    "description": "BIG LOTS SFAF77",
+    "amount": -1140.08
+  },
+  {
+    "date": "11/28/2018",
+    "description": "ALLEN-FIGUEROA INVOICE TDDC14",
+    "amount": 151.71
+  },
+  {
+    "date": "11/28/2018",
+    "description": "BED BATH & BEYOND 70PG03",
+    "amount": -1369.66
+  },
+  {
+    "date": "11/28/2018",
+    "description": "HOBBY LOBBY STORES 74101",
+    "amount": -884.97
+  },
+  {
+    "date": "11/28/2018",
+    "description": "ASCENA RETAIL GROUP--PZUN69",
+    "amount": -995.07
+  },
+  {
+    "date": "11/28/2018",
+    "description": "APPLE STORE 72RA69",
+    "amount": -685.45
+  },
+  {
+    "date": "11/29/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -102.01
+  },
+  {
+    "date": "12/01/2018",
+    "description": "ALIMENTATION COUCHE-TARD 81949",
+    "amount": -1691.56
+  },
+  {
+    "date": "12/02/2018",
+    "description": "JUSTWORKS PAYROLL 4NDT08",
+    "amount": -260000.0
+  },
+  {
+    "date": "12/04/2018",
+    "description": "BIG LOTS EZAV81",
+    "amount": -1140.82
+  },
+  {
+    "date": "12/04/2018",
+    "description": "RITE AID 562IUC",
+    "amount": -54.3
+  },
+  {
+    "date": "12/04/2018",
+    "description": "APPLE STORE 66XH30",
+    "amount": -696.34
+  },
+  {
+    "date": "12/05/2018",
+    "description": "DOMINO'S PIZZA NRCB88",
+    "amount": -826.86
+  },
+  {
+    "date": "12/08/2018",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 38MG51",
+    "amount": -571.53
+  },
+  {
+    "date": "12/08/2018",
+    "description": "MENARD*NUZI02",
+    "amount": -603.25
+  },
+  {
+    "date": "12/10/2018",
+    "description": "GIANT EAGLE",
+    "amount": -100.85
+  },
+  {
+    "date": "12/10/2018",
+    "description": "VERIZON WIRELESS",
+    "amount": -102.3
+  },
+  {
+    "date": "12/10/2018",
+    "description": "HOBBY LOBBY STORES 59638",
+    "amount": -877.37
+  },
+  {
+    "date": "12/10/2018",
+    "description": "DOLLAR TREE*31804",
+    "amount": -1373.83
+  },
+  {
+    "date": "12/10/2018",
+    "description": "HY-VEE 0GGX46",
+    "amount": -40.36
+  },
+  {
+    "date": "12/12/2018",
+    "description": "MENARD*IXCQ58",
+    "amount": -605.49
+  },
+  {
+    "date": "12/12/2018",
+    "description": "APPLE STORE 574WHQ",
+    "amount": -685.97
+  },
+  {
+    "date": "12/13/2018",
+    "description": "ALIMENTATION COUCHE-TARD 92456",
+    "amount": -1708.19
+  },
+  {
+    "date": "12/14/2018",
+    "description": "ASCENA RETAIL GROUP--WMEV18",
+    "amount": -1007.37
+  },
+  {
+    "date": "12/14/2018",
+    "description": "APPLE STORE 97AB64",
+    "amount": -690.72
+  },
+  {
+    "date": "12/16/2018",
+    "description": "PATTERSON AND SONS INTEREST PAYMT WCWT89",
+    "amount": -548.62
+  },
+  {
+    "date": "12/16/2018",
+    "description": "JUSTWORKS PAYROLL ZA5271",
+    "amount": -260000.0
+  },
+  {
+    "date": "12/16/2018",
+    "description": "BED BATH & BEYOND SDF412",
+    "amount": -1356.77
+  },
+  {
+    "date": "12/16/2018",
+    "description": "STARBUCKS 26933",
+    "amount": -761.75
+  },
+  {
+    "date": "12/17/2018",
+    "description": "GIANT EAGLE",
+    "amount": -97.64
+  },
+  {
+    "date": "12/18/2018",
+    "description": "HOBBY LOBBY STORES 22422",
+    "amount": -866.99
+  },
+  {
+    "date": "12/22/2018",
+    "description": "GIANT EAGLE",
+    "amount": -98.3
+  },
+  {
+    "date": "12/23/2018",
+    "description": "BAILEY LTD CREDIT CARD PAYMENT 54759",
+    "amount": 219.04
+  },
+  {
+    "date": "12/23/2018",
+    "description": "GIANT EAGLE",
+    "amount": -102.15
+  },
+  {
+    "date": "12/23/2018",
+    "description": "BIG LOTS ROVF26",
+    "amount": -1120.58
+  },
+  {
+    "date": "12/23/2018",
+    "description": "PETCO ANIMAL SUPPLIES--CXLL74",
+    "amount": -892.35
+  },
+  {
+    "date": "12/24/2018",
+    "description": "GAMESTOP*41948",
+    "amount": -901.91
+  },
+  {
+    "date": "12/26/2018",
+    "description": "ALLEN-FIGUEROA INVOICE IAZO16",
+    "amount": 198.9
+  },
+  {
+    "date": "12/27/2018",
+    "description": "WINCO FOODS 77409",
+    "amount": -719.89
+  },
+  {
+    "date": "12/29/2018",
+    "description": "J.C. PENNEY CO. LHJL92",
+    "amount": -1508.79
+  },
+  {
+    "date": "12/30/2018",
+    "description": "JUSTWORKS PAYROLL 0FC115",
+    "amount": -260000.0
+  },
+  {
+    "date": "12/30/2018",
+    "description": "GAMESTOP*13236",
+    "amount": -922.99
+  },
+  {
+    "date": "12/30/2018",
+    "description": "MICHAELS STORES 11480",
+    "amount": -594.63
+  },
+  {
+    "date": "12/31/2018",
+    "description": "BASS PRO",
+    "amount": -97.17
+  },
+  {
+    "date": "12/31/2018",
+    "description": "BED BATH & BEYOND 744G4",
+    "amount": -1378.93
+  },
+  {
+    "date": "12/31/2018",
+    "description": "STARBUCKS 34224",
+    "amount": -778.13
+  },
+  {
+    "date": "01/01/2019",
+    "description": "MICHAELS STORES 95318",
+    "amount": -605.69
+  },
+  {
+    "date": "01/02/2019",
+    "description": "SEARS HOLDINGS 8823WY",
+    "amount": -763.27
+  },
+  {
+    "date": "01/03/2019",
+    "description": "PETCO ANIMAL SUPPLIES--URJF41",
+    "amount": -893.48
+  },
+  {
+    "date": "01/06/2019",
+    "description": "GIANT EAGLE",
+    "amount": -101.65
+  },
+  {
+    "date": "01/08/2019",
+    "description": "PATTERSON AND SONS INTEREST PAYMT GFJH20",
+    "amount": -420.47
+  },
+  {
+    "date": "01/08/2019",
+    "description": "MENARD*ACJU94",
+    "amount": -600.32
+  },
+  {
+    "date": "01/08/2019",
+    "description": "SONIC SVEE10",
+    "amount": -39.83
+  },
+  {
+    "date": "01/09/2019",
+    "description": "DOLLAR TREE*34500",
+    "amount": -1365.28
+  },
+  {
+    "date": "01/10/2019",
+    "description": "DINE BRANDS GLOBAL 32636",
+    "amount": -282.0
+  },
+  {
+    "date": "01/12/2019",
+    "description": "ALLEN-FIGUEROA INVOICE QYLH35",
+    "amount": 211.84
+  },
+  {
+    "date": "01/12/2019",
+    "description": "J.C. PENNEY CO. MXZU39",
+    "amount": -1531.01
+  },
+  {
+    "date": "01/13/2019",
+    "description": "JUSTWORKS PAYROLL ZOJ257",
+    "amount": -260000.0
+  },
+  {
+    "date": "01/13/2019",
+    "description": "BIG LOTS YRZC10",
+    "amount": -1124.24
+  },
+  {
+    "date": "01/15/2019",
+    "description": "ALDI 919WHE",
+    "amount": -766.87
+  },
+  {
+    "date": "01/16/2019",
+    "description": "HOBBY LOBBY STORES 17329",
+    "amount": -894.54
+  },
+  {
+    "date": "01/16/2019",
+    "description": "MICHAELS STORES 93681",
+    "amount": -603.17
+  },
+  {
+    "date": "01/16/2019",
+    "description": "DOLLAR GENERAL 80442",
+    "amount": -1103.52
+  },
+  {
+    "date": "01/17/2019",
+    "description": "WINCO FOODS 85454",
+    "amount": -698.71
+  },
+  {
+    "date": "01/18/2019",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP JR8196",
+    "amount": -608.16
+  },
+  {
+    "date": "01/18/2019",
+    "description": "HOBBY LOBBY STORES 58621",
+    "amount": -878.33
+  },
+  {
+    "date": "01/19/2019",
+    "description": "WEGMANS FOOD MARKET",
+    "amount": -100.68
+  },
+  {
+    "date": "01/19/2019",
+    "description": "BED BATH & BEYOND 2B2149",
+    "amount": -1371.63
+  },
+  {
+    "date": "01/20/2019",
+    "description": "DOLLAR TREE*56104",
+    "amount": -1380.92
+  },
+  {
+    "date": "01/20/2019",
+    "description": "J.C. PENNEY CO. RRGZ72",
+    "amount": -1488.09
+  },
+  {
+    "date": "01/20/2019",
+    "description": "MACY'S EJNT86",
+    "amount": -69.24
+  },
+  {
+    "date": "01/21/2019",
+    "description": "ALIMENTATION COUCHE-TARD 81846",
+    "amount": -1684.23
+  },
+  {
+    "date": "01/22/2019",
+    "description": "DINE BRANDS GLOBAL 87225",
+    "amount": -297.09
+  },
+  {
+    "date": "01/23/2019",
+    "description": "IKEA NORTH AMERICAN SVCS.--45366",
+    "amount": -35.97
+  },
+  {
+    "date": "01/24/2019",
+    "description": "BIG LOTS LFDE46",
+    "amount": -1143.39
+  },
+  {
+    "date": "01/25/2019",
+    "description": "ULTA SALON, COSMETICS & FRAG 25212",
+    "amount": -1203.63
+  },
+  {
+    "date": "01/25/2019",
+    "description": "WINCO FOODS 52721",
+    "amount": -699.81
+  },
+  {
+    "date": "01/27/2019",
+    "description": "JUSTWORKS PAYROLL 024RPC",
+    "amount": -260000.0
+  },
+  {
+    "date": "01/28/2019",
+    "description": "APPLE STORE 872KIQ",
+    "amount": -689.85
+  },
+  {
+    "date": "01/29/2019",
+    "description": "PETCO ANIMAL SUPPLIES--HPEN46",
+    "amount": -881.84
+  },
+  {
+    "date": "01/30/2019",
+    "description": "ALIMENTATION COUCHE-TARD 30142",
+    "amount": -1689.81
+  },
+  {
+    "date": "01/30/2019",
+    "description": "BELK EBAJ90",
+    "amount": -16.08
+  },
+  {
+    "date": "02/01/2019",
+    "description": "WASHINGTON, GREEN AND OCONNE BILLPAY BKLA56",
+    "amount": -232.3
+  },
+  {
+    "date": "02/02/2019",
+    "description": "STARBUCKS 61904",
+    "amount": -778.11
+  },
+  {
+    "date": "02/02/2019",
+    "description": "J.C. PENNEY CO. YDEA50",
+    "amount": -1520.09
+  },
+  {
+    "date": "02/04/2019",
+    "description": "VERIZON WIRELESS",
+    "amount": -101.8
+  },
+  {
+    "date": "02/04/2019",
+    "description": "ULTA SALON, COSMETICS & FRAG 65617",
+    "amount": -1191.01
+  },
+  {
+    "date": "02/05/2019",
+    "description": "THE KROGER CO. DRAK53",
+    "amount": -1212.27
+  },
+  {
+    "date": "02/08/2019",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 1ERJ30",
+    "amount": -701.32
+  },
+  {
+    "date": "02/09/2019",
+    "description": "BURGER KING WORLDWIDE 48485",
+    "amount": -37.73
+  },
+  {
+    "date": "02/10/2019",
+    "description": "JUSTWORKS PAYROLL CJJ758",
+    "amount": -260000.0
+  },
+  {
+    "date": "02/11/2019",
+    "description": "MENARD*RDJK53",
+    "amount": -589.23
+  },
+  {
+    "date": "02/11/2019",
+    "description": "APPLE STORE 26G\u202259",
+    "amount": -688.67
+  },
+  {
+    "date": "02/11/2019",
+    "description": "NEIMAN MARCUS 35044S",
+    "amount": -52.13
+  },
+  {
+    "date": "02/12/2019",
+    "description": "STARBUCKS 21246",
+    "amount": -754.66
+  },
+  {
+    "date": "02/12/2019",
+    "description": "KING-RAMOS PAYMT FOR SVCS 856B",
+    "amount": 1835752.96
+  },
+  {
+    "date": "02/13/2019",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP 1468",
+    "amount": -547.6
+  },
+  {
+    "date": "02/15/2019",
+    "description": "ASCENA RETAIL GROUP--MQUO86",
+    "amount": -997.89
+  },
+  {
+    "date": "02/15/2019",
+    "description": "ULTA SALON, COSMETICS & FRAG 88776",
+    "amount": -1210.84
+  },
+  {
+    "date": "02/16/2019",
+    "description": "SEARS HOLDINGS 611456",
+    "amount": -775.51
+  },
+  {
+    "date": "02/16/2019",
+    "description": "CVS HEALTH CORPORATION NCRT62",
+    "amount": -23.0
+  },
+  {
+    "date": "02/16/2019",
+    "description": "PETSMART--16841",
+    "amount": -21.35
+  },
+  {
+    "date": "02/18/2019",
+    "description": "VERIZON WIRELESS",
+    "amount": -102.27
+  },
+  {
+    "date": "02/18/2019",
+    "description": "ASCENA RETAIL GROUP--ZIWR46",
+    "amount": -1008.4
+  },
+  {
+    "date": "02/18/2019",
+    "description": "CVS HEALTH CORPORATION VQAG84",
+    "amount": -50.12
+  },
+  {
+    "date": "02/19/2019",
+    "description": "7-ELEVEN CUBO23",
+    "amount": -813.09
+  },
+  {
+    "date": "02/20/2019",
+    "description": "ALLEN-FIGUEROA INVOICE XXZB95",
+    "amount": 170.18
+  },
+  {
+    "date": "02/20/2019",
+    "description": "BRANCH, MYERS AND MORGAN MEMBERSHIP RQGE33",
+    "amount": -662.07
+  },
+  {
+    "date": "02/23/2019",
+    "description": "BASS PRO",
+    "amount": -102.42
+  },
+  {
+    "date": "02/23/2019",
+    "description": "STARBUCKS 40821",
+    "amount": -756.32
+  },
+  {
+    "date": "02/24/2019",
+    "description": "JUSTWORKS PAYROLL 90OX21",
+    "amount": -260000.0
+  },
+  {
+    "date": "02/24/2019",
+    "description": "GIANT EAGLE",
+    "amount": -101.92
+  },
+  {
+    "date": "02/25/2019",
+    "description": "SEARS HOLDINGS 46KP71",
+    "amount": -781.01
+  },
+  {
+    "date": "02/25/2019",
+    "description": "DOLLAR GENERAL 89214",
+    "amount": -1083.26
+  },
+  {
+    "date": "02/26/2019",
+    "description": "ASCENA RETAIL GROUP--STXD25",
+    "amount": -1006.86
+  },
+  {
+    "date": "02/26/2019",
+    "description": "7-ELEVEN MRIM78",
+    "amount": -819.8
+  }
+]
