@@ -12,14 +12,16 @@ You have been provided a data file `transactions.json` which contains a list of 
 
 ## Task 1: Finding Sequences of Transactions
 Create a function which analyzes the transactions and identify groups of transactions that are part of a sequence. Transactions are part of a sequence if: 
-(1) The transaction descriptions are similar 
+1. The transaction descriptions are similar 
+
 AND
-(2) The timing of the transactions occur in regular intervals 
+
+2. The timing of the transactions occur in regular intervals 
+
 Note that it is not necessary for a transaction to be part of a sequence. No transaction should be part of more than 1 sequence. 
 
 ## Task 2: Save the transactions and sequence data in a data structure
-The data structure can be of your choosing but needs to contain the following properties: 
-- For any given transaction, the data structure should be able to lookup the other transactions that are part of the same sequence, if any.
+The data structure can be of your choosing. A requirement of this data structure is that for any given transaction, the data structure should be able to quickly lookup the other transactions that are part of the same sequence, if any.
 
 ## Task 3: Detect Anomalies (Bonus)
 For each found sequence of transactions, attempt to detect "anomolies" which can be either: 
