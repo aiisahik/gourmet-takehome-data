@@ -30,11 +30,6 @@ Note that it is not necessary for a transaction to be part of a sequence. No tra
 ## Task 2: Save the transactions and sequence data in a data structure
 The data structure can be of your choosing. A requirement of this data structure is that for any given transaction, the data structure should be able to quickly lookup the other transactions that are part of the same sequence, if any.
 
-## Task 3: Detect Anomalies
-For each found sequence of transactions, attempt to detect "anomolies". 
-An anomaly is a transaction in the sequence has an amount that is unusual given the amounts of the other transactions in the same sequence.
-Note that not all sequences have an anomally. 
-
 ## Submitting your answer: 
 To submit your answer, send the files or a link to the repository to jie@gourmetgrowth.com. 
 
