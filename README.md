@@ -16,7 +16,9 @@ Create a function which analyzes the transactions and identify groups of transac
 
 AND
 
-2. The timing of the transactions occur in regular intervals 
+2. The timing of the transactions occur in regular intervals. Small deviations in the timing of the transactions by 2-3 days should not break a sequence. 
+
+3. There are at least 4 transactions in the sequence. 
 
 Note that it is not necessary for a transaction to be part of a sequence. No transaction should be part of more than 1 sequence. 
 
@@ -24,13 +26,12 @@ Note that it is not necessary for a transaction to be part of a sequence. No tra
 The data structure can be of your choosing. A requirement of this data structure is that for any given transaction, the data structure should be able to quickly lookup the other transactions that are part of the same sequence, if any.
 
 ## Task 3: Detect Anomalies (Bonus)
-For each found sequence of transactions, attempt to detect "anomolies" which can be either: 
-- A transaction in the sequence has an amount that is unusual given the amounts of the other transactions in the same sequence
-- A date on which a transaction in the sequence was expected to occur but is abscent. 
-Note that not all sequences have an anomally and no sequence has more than one anomally. 
+For each found sequence of transactions, attempt to detect "anomolies". 
+An anomaly is a transaction in the sequence has an amount that is unusual given the amounts of the other transactions in the same sequence.
+Note that not all sequences have an anomally. 
 
 ## Submitting your answer: 
-To submit your answer, commit your code to a git repository and simply send a link to the repository to jie@gourmetgrowth.com. 
+To submit your answer, send the files or a link to the repository to jie@gourmetgrowth.com. 
 
 
 
