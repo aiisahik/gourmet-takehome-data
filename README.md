@@ -1,6 +1,7 @@
 # Coding Takehome 
 
 ## Rules 
+- The solution should be written in Python
 - You may use any online non-human resource including stackoverflow, tutorials, documentation, open source libraries, etc
 - However, you should not use any library or function that specializes in anomaly detection
 
