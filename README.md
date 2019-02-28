@@ -9,7 +9,8 @@
 You have been provided a data file `transactions.json` which contains a list of transactions, each transaction containing 
 - a date (format: `mm-dd-yyyy`), 
 - a string description
-- an amount
+- a transaction amount
+
 The list of transactions are already sorted by date (earliest date first).
 
 ## Task 1: Finding Sequences of Transactions
