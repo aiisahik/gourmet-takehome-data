@@ -7,9 +7,10 @@
 
 ## transactions.json
 You have been provided a data file `transactions.json` which contains a list of transactions, each transaction containing 
-- a date, 
+- a date (format: `mm-dd-yyyy`), 
 - a string description
 - an amount
+The list of transactions are already sorted by date (earliest date first).
 
 ## Task 1: Finding Sequences of Transactions
 Create a function which analyzes the transactions and identify groups of transactions that are part of a sequence. Transactions are part of a sequence if: 
