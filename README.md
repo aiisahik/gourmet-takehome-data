@@ -20,6 +20,8 @@ AND
 
 2. The timing of the transactions occur in regular intervals. Small deviations in the timing of the transactions by 2-3 days should not break a sequence. 
 
+AND
+
 3. There are at least 4 transactions in the sequence. 
 
 Note that it is not necessary for a transaction to be part of a sequence. No transaction should be part of more than 1 sequence. 
@@ -27,7 +29,7 @@ Note that it is not necessary for a transaction to be part of a sequence. No tra
 ## Task 2: Save the transactions and sequence data in a data structure
 The data structure can be of your choosing. A requirement of this data structure is that for any given transaction, the data structure should be able to quickly lookup the other transactions that are part of the same sequence, if any.
 
-## Task 3: Detect Anomalies (Bonus)
+## Task 3: Detect Anomalies
 For each found sequence of transactions, attempt to detect "anomolies". 
 An anomaly is a transaction in the sequence has an amount that is unusual given the amounts of the other transactions in the same sequence.
 Note that not all sequences have an anomally. 
