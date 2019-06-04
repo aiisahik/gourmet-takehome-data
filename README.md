@@ -22,7 +22,7 @@ Create a function which analyzes the transactions and identify groups of transac
 
 2. The timing of the transactions occur in regular intervals. Small deviations in the timing of the transactions by 2-3 days should not break a sequence. 
 
-3. There are at list 4 transactions in the set
+3. There are at least 4 transactions in the set
 
 4. No two transactions in the set are less than 4 days apart. 
 
