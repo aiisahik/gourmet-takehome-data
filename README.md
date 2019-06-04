@@ -15,27 +15,21 @@ You have been provided a data file `transactions.json` which contains a list of 
 
 The list of transactions are already sorted by date (earliest date first).
 
-## Task 1: Finding Sequences of Transactions
-Create a function which analyzes the transactions and identify groups of transactions that are part of a sequence. A set of Transactions is considered a "sequence" if: 
+## Part 1: Finding Sequences of Transactions
+Create a function which analyzes the transactions and identify groups of transactions that are part of a sequence. A set of Transactions is considered a *"sequence"* if the following conditions are met: 
 
 1. The transaction descriptions are similar
 
-AND
-
 2. The timing of the transactions occur in regular intervals. Small deviations in the timing of the transactions by 2-3 days should not break a sequence. 
-
-AND
 
 3. There are at list 4 transactions in the set
 
-AND
-
 4. No two transactions in the set are less than 4 days apart. 
 
-Note that it is not necessary for a transaction to be part of a sequence.
+*Note: that it is not necessary for a transaction to be part of a sequence.*
 
 
-## Task 2: Save the transactions and sequence data in a data structure
+## Part 2: Save the transactions and sequence data in a data structure
 The data structure can be of your choosing. A requirement of this data structure is that for any given transaction, the data structure should be able to quickly lookup the other transactions that are part of the same sequence, if any. 
 
 Notes: 
