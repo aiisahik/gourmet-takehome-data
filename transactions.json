@@ -1,5987 +1,2752 @@
 [
   {
     "date": "01/01/2017",
-    "description": "PEREZ-RODGERS INVOICED PAYABLES",
-    "amount": 1154824.37
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 522789.97
   },
   {
     "date": "01/01/2017",
-    "description": "CHAMBERS, ROBINSON AND MOSLE PAYMT FOR SVCS",
-    "amount": 937635.75
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 433307.49
   },
   {
     "date": "01/02/2017",
-    "description": "JUSTWORKS PAYROLL MSZ596",
-    "amount": -420000.0
+    "description": "JUSTWORKS PAYROLL JBZ965",
+    "amount": -270000.0
   },
   {
     "date": "01/02/2017",
-    "description": "BEST BUY",
-    "amount": -98.87
+    "description": "MENARD",
+    "amount": -98.5
   },
   {
     "date": "01/02/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -98.55
-  },
-  {
-    "date": "01/02/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.54
-  },
-  {
-    "date": "01/02/2017",
-    "description": "DILLARD'S",
-    "amount": -103.16
-  },
-  {
-    "date": "01/02/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -97.49
-  },
-  {
-    "date": "01/06/2017",
-    "description": "JACK IN THE BOX 92495",
-    "amount": 85.54
-  },
-  {
-    "date": "01/06/2017",
-    "description": "DICK'S SPORTING GOODS 02020",
-    "amount": -1638.75
-  },
-  {
-    "date": "01/06/2017",
-    "description": "THORNTON, MARTIN AND MENDEZ SOW 38870",
-    "amount": 429138.63
-  },
-  {
-    "date": "01/07/2017",
-    "description": "SAKS FIFTH AVENUE 73987",
-    "amount": -1310.65
-  },
-  {
-    "date": "01/07/2017",
-    "description": "DICK'S SPORTING GOODS 09952",
-    "amount": -1672.2
-  },
-  {
-    "date": "01/09/2017",
-    "description": "DISCOUNT TIRE XRWF42",
-    "amount": -934.44
-  },
-  {
-    "date": "01/10/2017",
-    "description": "DARDEN RESTAURANTS--LTW459",
-    "amount": -1104.59
-  },
-  {
-    "date": "01/11/2017",
-    "description": "ACADEMY 03326",
-    "amount": -1014.77
-  },
-  {
-    "date": "01/12/2017",
-    "description": "QURATE RETAIL GROUP*92542",
-    "amount": -1403.85
-  },
-  {
-    "date": "01/12/2017",
-    "description": "DICK'S SPORTING GOODS 52914",
-    "amount": -1659.61
-  },
-  {
-    "date": "01/13/2017",
-    "description": "SHELL OIL COMPANY 59168",
-    "amount": -609.34
-  },
-  {
-    "date": "01/13/2017",
-    "description": "DICK'S SPORTING GOODS 46529",
-    "amount": -1650.61
-  },
-  {
-    "date": "01/14/2017",
-    "description": "THE HOME DEPOT 6132",
-    "amount": -1395.85
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.38
   },
   {
     "date": "01/15/2017",
-    "description": "DISCOUNT TIRE AZBV94",
-    "amount": -928.29
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE RUEK215",
+    "amount": -1106.92
+  },
+  {
+    "date": "01/15/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 614748.97
   },
   {
     "date": "01/16/2017",
-    "description": "JUSTWORKS PAYROLL YNU590",
-    "amount": -420000.0
-  },
-  {
-    "date": "01/16/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.16
-  },
-  {
-    "date": "01/16/2017",
-    "description": "DILLARD'S",
-    "amount": -98.36
-  },
-  {
-    "date": "01/17/2017",
-    "description": "TRACTOR SUPPLY CO. 00970",
-    "amount": -355.68
-  },
-  {
-    "date": "01/18/2017",
-    "description": "OFFICE DEPOT*19425",
-    "amount": -49.42
+    "description": "JUSTWORKS PAYROLL MGV722",
+    "amount": -270000.0
   },
   {
     "date": "01/20/2017",
-    "description": "CVS HEALTH CORPORATION YCHB75",
-    "amount": -892.2
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 8705YV",
+    "amount": -461.37
   },
   {
-    "date": "01/21/2017",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY BSRO70",
-    "amount": -286.21
-  },
-  {
-    "date": "01/22/2017",
-    "description": "TRACTOR SUPPLY CO. 30460",
-    "amount": -364.58
-  },
-  {
-    "date": "01/22/2017",
-    "description": "SHELL OIL COMPANY 08842",
-    "amount": -597.37
-  },
-  {
-    "date": "01/22/2017",
-    "description": "JACK IN THE BOX 53376",
-    "amount": 77.51
-  },
-  {
-    "date": "01/22/2017",
-    "description": "L BRANDS GENQ20",
-    "amount": -1179.27
-  },
-  {
-    "date": "01/23/2017",
-    "description": "SPEEDWAY 39846",
-    "amount": -507.61
-  },
-  {
-    "date": "01/25/2017",
-    "description": "TARGET 44166",
-    "amount": -675.02
-  },
-  {
-    "date": "01/25/2017",
-    "description": "THE HOME DEPOT UJW024",
-    "amount": -1383.11
-  },
-  {
-    "date": "01/26/2017",
-    "description": "CHICK-FIL-A AFUQ27",
-    "amount": -1422.5
-  },
-  {
-    "date": "01/26/2017",
-    "description": "SAKS FIFTH AVENUE 62818",
-    "amount": -1317.0
-  },
-  {
-    "date": "01/26/2017",
-    "description": "QURATE RETAIL GROUP*40042",
-    "amount": -1416.17
-  },
-  {
-    "date": "01/27/2017",
-    "description": "WENDY'S 36232",
-    "amount": -1024.47
-  },
-  {
-    "date": "01/27/2017",
-    "description": "SHELL OIL COMPANY 22970",
-    "amount": -613.48
+    "date": "01/24/2017",
+    "description": "HALL-CLARK MEMBERSHIP 86216",
+    "amount": 356.98
   },
   {
     "date": "01/28/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT UQJD59",
-    "amount": -551.5
+    "description": "DOLLAR GENERAL*55322",
+    "amount": -1097.96
   },
   {
     "date": "01/29/2017",
-    "description": "QURATE RETAIL GROUP*04810",
-    "amount": -1420.95
-  },
-  {
-    "date": "01/30/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.28
-  },
-  {
-    "date": "01/30/2017",
-    "description": "DILLARD'S",
-    "amount": -99.22
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 561506.21
   },
   {
     "date": "01/31/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT HCPI37",
-    "amount": -735.68
+    "description": "JUSTWORKS PAYROLL 82BU24",
+    "amount": -270000.0
   },
   {
     "date": "01/31/2017",
-    "description": "JUSTWORKS PAYROLL 440HEL",
-    "amount": -420000.0
-  },
-  {
-    "date": "01/31/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -99.05
-  },
-  {
-    "date": "01/31/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -99.77
-  },
-  {
-    "date": "02/01/2017",
-    "description": "DARDEN RESTAURANTS--59CK53",
-    "amount": -1092.2
-  },
-  {
-    "date": "02/01/2017",
-    "description": "SPEEDWAY 98357",
-    "amount": -501.33
-  },
-  {
-    "date": "02/02/2017",
-    "description": "QURATE RETAIL GROUP*94784",
-    "amount": -1399.55
-  },
-  {
-    "date": "02/04/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 45260",
-    "amount": -1204.03
-  },
-  {
-    "date": "02/05/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT IZQU13",
-    "amount": -776.69
-  },
-  {
-    "date": "02/05/2017",
-    "description": "ACADEMY 76306",
-    "amount": -1014.86
-  },
-  {
-    "date": "02/07/2017",
-    "description": "DUNKIN' BRANDS GROUP FQBP64",
-    "amount": -773.28
-  },
-  {
-    "date": "02/08/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP ZBV040",
-    "amount": 619.97
-  },
-  {
-    "date": "02/08/2017",
-    "description": "DARDEN RESTAURANTS--LGJ164",
-    "amount": -1075.74
-  },
-  {
-    "date": "02/10/2017",
-    "description": "QURATE RETAIL GROUP*01159",
-    "amount": -1406.09
-  },
-  {
-    "date": "02/12/2017",
-    "description": "CVS HEALTH CORPORATION JRYX20",
-    "amount": -875.68
-  },
-  {
-    "date": "02/13/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -97.71
-  },
-  {
-    "date": "02/13/2017",
-    "description": "DILLARD'S",
-    "amount": -96.48
-  },
-  {
-    "date": "02/13/2017",
-    "description": "SHELL OIL COMPANY 59115",
-    "amount": -606.68
-  },
-  {
-    "date": "02/13/2017",
-    "description": "RITE AID 508KT2",
-    "amount": -75.78
-  },
-  {
-    "date": "02/13/2017",
-    "description": "HOBBY LOBBY STORES 07733",
-    "amount": -25.45
-  },
-  {
-    "date": "02/14/2017",
-    "description": "GAMESTOP 11546",
-    "amount": -924.33
-  },
-  {
-    "date": "02/15/2017",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY HVVL36",
-    "amount": -257.4
-  },
-  {
-    "date": "02/15/2017",
-    "description": "JUSTWORKS PAYROLL JRQ286",
-    "amount": -420000.0
-  },
-  {
-    "date": "02/15/2017",
-    "description": "WENDY'S 23094",
-    "amount": -1016.18
-  },
-  {
-    "date": "02/15/2017",
-    "description": "GAP--79342",
-    "amount": -849.78
-  },
-  {
-    "date": "02/17/2017",
-    "description": "THE HOME DEPOT VYP454",
-    "amount": -1383.17
-  },
-  {
-    "date": "02/18/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP BXJ346",
-    "amount": 611.29
-  },
-  {
-    "date": "02/18/2017",
-    "description": "WILLIAMS-SONOMA KEZC52",
-    "amount": -712.26
-  },
-  {
-    "date": "02/19/2017",
-    "description": "WENDY'S 82901",
-    "amount": -1009.52
-  },
-  {
-    "date": "02/19/2017",
-    "description": "JACK IN THE BOX 73191",
-    "amount": 59.03
-  },
-  {
-    "date": "02/20/2017",
-    "description": "GAP--32545",
-    "amount": -838.28
-  },
-  {
-    "date": "02/21/2017",
-    "description": "NORDSTROM 857344",
-    "amount": -200.65
-  },
-  {
-    "date": "02/23/2017",
-    "description": "DUNKIN' BRANDS GROUP QWTP10",
-    "amount": -748.3
-  },
-  {
-    "date": "02/23/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 59960",
-    "amount": -1193.6
-  },
-  {
-    "date": "02/26/2017",
-    "description": "THE HOME DEPOT IUX157",
-    "amount": -1392.74
-  },
-  {
-    "date": "02/27/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.39
-  },
-  {
-    "date": "02/27/2017",
-    "description": "DILLARD'S",
-    "amount": -105.08
-  },
-  {
-    "date": "03/01/2017",
-    "description": "WILLIAMS-SONOMA EHFC09",
-    "amount": -705.07
-  },
-  {
-    "date": "03/01/2017",
-    "description": "THE HOME DEPOT 556844",
-    "amount": -1374.81
-  },
-  {
-    "date": "03/02/2017",
-    "description": "JUSTWORKS PAYROLL 403578",
-    "amount": -420000.0
-  },
-  {
-    "date": "03/02/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -99.23
-  },
-  {
-    "date": "03/02/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -102.43
-  },
-  {
-    "date": "03/02/2017",
-    "description": "ACADEMY 97105",
-    "amount": -1012.19
-  },
-  {
-    "date": "03/03/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT KHBY95",
-    "amount": -653.36
-  },
-  {
-    "date": "03/03/2017",
-    "description": "THE HOME DEPOT 568347",
-    "amount": -1381.05
-  },
-  {
-    "date": "03/05/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*KJJ086",
-    "amount": -1180.09
-  },
-  {
-    "date": "03/07/2017",
-    "description": "SHELL OIL COMPANY 09682",
-    "amount": -601.1
-  },
-  {
-    "date": "03/09/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 136HM",
-    "amount": 886.49
-  },
-  {
-    "date": "03/09/2017",
-    "description": "DISCOUNT TIRE VRIX14",
-    "amount": -927.79
-  },
-  {
-    "date": "03/11/2017",
-    "description": "ACADEMY 35073",
-    "amount": -1033.74
-  },
-  {
-    "date": "03/12/2017",
-    "description": "L BRANDS NIUU75",
-    "amount": -1179.58
-  },
-  {
-    "date": "03/12/2017",
-    "description": "DOLLAR GENERAL 70817",
-    "amount": -20.5
-  },
-  {
-    "date": "03/13/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -101.04
-  },
-  {
-    "date": "03/13/2017",
-    "description": "DILLARD'S",
-    "amount": -105.09
-  },
-  {
-    "date": "03/13/2017",
-    "description": "MENARD--CVCD34",
-    "amount": -603.37
-  },
-  {
-    "date": "03/13/2017",
-    "description": "SPEEDWAY 83509",
-    "amount": -493.68
-  },
-  {
-    "date": "03/14/2017",
-    "description": "AT&T WIRELESS 48523",
-    "amount": -1151.78
-  },
-  {
-    "date": "03/15/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT ITEO01",
-    "amount": -663.0
-  },
-  {
-    "date": "03/16/2017",
-    "description": "AT&T WIRELESS 48594",
-    "amount": -1139.41
-  },
-  {
-    "date": "03/17/2017",
-    "description": "JUSTWORKS PAYROLL 177HHG",
-    "amount": -420000.0
-  },
-  {
-    "date": "03/18/2017",
-    "description": "BOONE PLC*INVOICE*YAI612",
-    "amount": -911.74
-  },
-  {
-    "date": "03/19/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*2675RA",
-    "amount": -1211.01
-  },
-  {
-    "date": "03/19/2017",
-    "description": "GAMESTOP 43100",
-    "amount": -936.79
-  },
-  {
-    "date": "03/19/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 56810",
-    "amount": -1198.32
-  },
-  {
-    "date": "03/19/2017",
-    "description": "GAP--94128",
-    "amount": -850.33
-  },
-  {
-    "date": "03/20/2017",
-    "description": "SHELL OIL COMPANY 75567",
-    "amount": -619.42
-  },
-  {
-    "date": "03/20/2017",
-    "description": "JACK IN THE BOX 10539",
-    "amount": 80.26
-  },
-  {
-    "date": "03/22/2017",
-    "description": "JACK IN THE BOX 94407",
-    "amount": 86.24
-  },
-  {
-    "date": "03/23/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP TJG767",
-    "amount": 566.33
-  },
-  {
-    "date": "03/23/2017",
-    "description": "QURATE RETAIL GROUP*65890",
-    "amount": -1408.57
-  },
-  {
-    "date": "03/24/2017",
-    "description": "NORDSTROM HAZ164",
-    "amount": -209.08
-  },
-  {
-    "date": "03/24/2017",
-    "description": "DUNKIN' BRANDS GROUP WQED04",
-    "amount": -762.72
-  },
-  {
-    "date": "03/27/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.25
-  },
-  {
-    "date": "03/27/2017",
-    "description": "DILLARD'S",
-    "amount": -97.47
-  },
-  {
-    "date": "03/27/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 17373",
-    "amount": -1188.58
-  },
-  {
-    "date": "03/28/2017",
-    "description": "DICK'S SPORTING GOODS 68797",
-    "amount": -1652.27
-  },
-  {
-    "date": "03/31/2017",
-    "description": "WILLIAMS-SONOMA RETU26",
-    "amount": -687.52
-  },
-  {
-    "date": "04/01/2017",
-    "description": "JUSTWORKS PAYROLL 2SU801",
-    "amount": -420000.0
-  },
-  {
-    "date": "04/01/2017",
-    "description": "BEST BUY",
-    "amount": -103.58
-  },
-  {
-    "date": "04/01/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -95.84
-  },
-  {
-    "date": "04/01/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -96.89
-  },
-  {
-    "date": "04/01/2017",
-    "description": "PANERA BREAD COMPANY XBCY59",
-    "amount": -43.59
-  },
-  {
-    "date": "04/01/2017",
-    "description": "PEREZ-RODGERS INVOICED PAYABLES",
-    "amount": 1015768.32
-  },
-  {
-    "date": "04/01/2017",
-    "description": "CHAMBERS, ROBINSON AND MOSLE PAYMT FOR SVCS",
-    "amount": 838970.89
-  },
-  {
-    "date": "04/01/2017",
-    "description": "MCMAHON INC*AR*XAFP58",
-    "amount": 541273.82
-  },
-  {
-    "date": "04/03/2017",
-    "description": "JACK IN THE BOX 93398",
-    "amount": 70.92
-  },
-  {
-    "date": "04/06/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT YWHV60",
-    "amount": -581.41
-  },
-  {
-    "date": "04/06/2017",
-    "description": "DISCOUNT TIRE YMXZ79",
-    "amount": -935.24
-  },
-  {
-    "date": "04/07/2017",
-    "description": "SHELL OIL COMPANY 73658",
-    "amount": -590.88
-  },
-  {
-    "date": "04/07/2017",
-    "description": "ASCENA RETAIL GROUP--PRYJ77",
-    "amount": -984.43
-  },
-  {
-    "date": "04/07/2017",
-    "description": "SAKS FIFTH AVENUE 09349",
-    "amount": -1343.8
-  },
-  {
-    "date": "04/08/2017",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY VQHQ52",
-    "amount": -201.54
-  },
-  {
-    "date": "04/10/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.26
-  },
-  {
-    "date": "04/10/2017",
-    "description": "DILLARD'S",
-    "amount": -99.03
-  },
-  {
-    "date": "04/10/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 84974",
-    "amount": -1193.29
-  },
-  {
-    "date": "04/12/2017",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY BALT41",
-    "amount": -329.05
-  },
-  {
-    "date": "04/12/2017",
-    "description": "MENARD--BALN17",
-    "amount": -595.87
-  },
-  {
-    "date": "04/12/2017",
-    "description": "TARGET 47344",
-    "amount": -663.38
-  },
-  {
-    "date": "04/12/2017",
-    "description": "WENDY'S 31742",
-    "amount": -1015.43
-  },
-  {
-    "date": "04/13/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 47682",
-    "amount": -1201.15
-  },
-  {
-    "date": "04/14/2017",
-    "description": "TRACTOR SUPPLY CO. 91352",
-    "amount": -342.41
-  },
-  {
-    "date": "04/16/2017",
-    "description": "DUNKIN' BRANDS GROUP CYOO68",
-    "amount": -731.34
-  },
-  {
-    "date": "04/17/2017",
-    "description": "JUSTWORKS PAYROLL U04QSL",
-    "amount": -420000.0
-  },
-  {
-    "date": "04/18/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*76BAL4",
-    "amount": -1080.72
-  },
-  {
-    "date": "04/18/2017",
-    "description": "ASCENA RETAIL GROUP--WCOR57",
-    "amount": -979.34
-  },
-  {
-    "date": "04/18/2017",
-    "description": "THE HOME DEPOT M521WW",
-    "amount": -1394.04
-  },
-  {
-    "date": "04/19/2017",
-    "description": "SAKS FIFTH AVENUE 76760",
-    "amount": -1324.96
-  },
-  {
-    "date": "04/20/2017",
-    "description": "DISCOUNT TIRE GAHJ14",
-    "amount": -949.28
-  },
-  {
-    "date": "04/20/2017",
-    "description": "FARLEY-COHEN--CREDIT--425181",
-    "amount": 457976.58
-  },
-  {
-    "date": "04/21/2017",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY BMJA06",
-    "amount": -318.79
-  },
-  {
-    "date": "04/21/2017",
-    "description": "TRACTOR SUPPLY CO. 49160",
-    "amount": -356.77
-  },
-  {
-    "date": "04/21/2017",
-    "description": "WILLIAMS-SONOMA WOWG19",
-    "amount": -717.08
-  },
-  {
-    "date": "04/22/2017",
-    "description": "DARDEN RESTAURANTS--976532",
-    "amount": -1107.09
-  },
-  {
-    "date": "04/23/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*DBD661",
-    "amount": -1287.4
-  },
-  {
-    "date": "04/23/2017",
-    "description": "AT&T WIRELESS 10709",
-    "amount": -1140.25
-  },
-  {
-    "date": "04/24/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.1
-  },
-  {
-    "date": "04/24/2017",
-    "description": "DILLARD'S",
-    "amount": -101.46
-  },
-  {
-    "date": "04/24/2017",
-    "description": "SHELL OIL COMPANY 70788",
-    "amount": -619.23
-  },
-  {
-    "date": "04/24/2017",
-    "description": "GAP--02539",
-    "amount": -850.85
-  },
-  {
-    "date": "04/25/2017",
-    "description": "TARGET 77372",
-    "amount": -643.37
-  },
-  {
-    "date": "04/26/2017",
-    "description": "WENDY'S 49941",
-    "amount": -1033.32
-  },
-  {
-    "date": "04/26/2017",
-    "description": "JACK IN THE BOX 60549",
-    "amount": 77.58
-  },
-  {
-    "date": "04/26/2017",
-    "description": "QURATE RETAIL GROUP*57020",
-    "amount": -1418.29
-  },
-  {
-    "date": "04/27/2017",
-    "description": "THE HOME DEPOT 621ZLH",
-    "amount": -1403.83
-  },
-  {
-    "date": "04/28/2017",
-    "description": "WILLIAMS-SONOMA EQXL28",
-    "amount": -701.99
-  },
-  {
-    "date": "04/28/2017",
-    "description": "ASCENA RETAIL GROUP--SSGQ04",
-    "amount": -1006.02
-  },
-  {
-    "date": "04/29/2017",
-    "description": "L BRANDS QJUG76",
-    "amount": -1192.18
-  },
-  {
-    "date": "04/30/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*5446IA",
-    "amount": -955.42
-  },
-  {
-    "date": "05/01/2017",
-    "description": "JUSTWORKS PAYROLL C23YJB",
-    "amount": -420000.0
-  },
-  {
-    "date": "05/01/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -98.92
-  },
-  {
-    "date": "05/01/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -101.58
-  },
-  {
-    "date": "05/01/2017",
-    "description": "SAKS FIFTH AVENUE 27374",
-    "amount": -1333.36
-  },
-  {
-    "date": "05/02/2017",
-    "description": "DARDEN RESTAURANTS--WYT562",
-    "amount": -1094.34
-  },
-  {
-    "date": "05/03/2017",
-    "description": "MENARD--XHAV06",
-    "amount": -598.46
-  },
-  {
-    "date": "05/03/2017",
-    "description": "L BRANDS NZXY82",
-    "amount": -1179.84
-  },
-  {
-    "date": "05/04/2017",
-    "description": "TRACTOR SUPPLY CO. 25129",
-    "amount": -351.61
-  },
-  {
-    "date": "05/04/2017",
-    "description": "NORDSTROM 58FX20",
-    "amount": -213.66
-  },
-  {
-    "date": "05/04/2017",
-    "description": "DICK'S SPORTING GOODS 71508",
-    "amount": -1642.36
-  },
-  {
-    "date": "05/06/2017",
-    "description": "CHICK-FIL-A GJBJ10",
-    "amount": -1415.18
-  },
-  {
-    "date": "05/06/2017",
-    "description": "SUPERVALU 89Q864",
-    "amount": -29.0
-  },
-  {
-    "date": "05/08/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -101.54
-  },
-  {
-    "date": "05/08/2017",
-    "description": "DILLARD'S",
-    "amount": -97.75
-  },
-  {
-    "date": "05/08/2017",
-    "description": "CHICK-FIL-A OLYJ98",
-    "amount": -1421.15
-  },
-  {
-    "date": "05/08/2017",
-    "description": "KOHL'S 33694",
-    "amount": -26.62
-  },
-  {
-    "date": "05/13/2017",
-    "description": "TJX COMPANIES 41794",
-    "amount": -34.05
-  },
-  {
-    "date": "05/14/2017",
-    "description": "WILLIAMS-SONOMA ANTV24",
-    "amount": -708.92
-  },
-  {
-    "date": "05/15/2017",
-    "description": "MENARD--YSVT02",
-    "amount": -600.68
-  },
-  {
-    "date": "05/15/2017",
-    "description": "SPEEDWAY 92982",
-    "amount": -499.26
-  },
-  {
-    "date": "05/15/2017",
-    "description": "DISCOUNT TIRE BFOO77",
-    "amount": -948.94
-  },
-  {
-    "date": "05/16/2017",
-    "description": "JUSTWORKS PAYROLL 01DK25",
-    "amount": -420000.0
-  },
-  {
-    "date": "05/16/2017",
-    "description": "MENARD--WERO88",
-    "amount": -604.92
-  },
-  {
-    "date": "05/16/2017",
-    "description": "CHICK-FIL-A FPWL02",
-    "amount": -1416.11
-  },
-  {
-    "date": "05/16/2017",
-    "description": "QURATE RETAIL GROUP*30510",
-    "amount": -1430.41
-  },
-  {
-    "date": "05/17/2017",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY DGDN91",
-    "amount": -263.66
-  },
-  {
-    "date": "05/18/2017",
-    "description": "NORDSTROM 681WJN",
-    "amount": -221.04
-  },
-  {
-    "date": "05/18/2017",
-    "description": "DICK'S SPORTING GOODS 14544",
-    "amount": -1659.94
-  },
-  {
-    "date": "05/21/2017",
-    "description": "TOYS R US NENQ77",
-    "amount": -16.77
-  },
-  {
-    "date": "05/22/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.7
-  },
-  {
-    "date": "05/22/2017",
-    "description": "DILLARD'S",
-    "amount": -101.57
-  },
-  {
-    "date": "05/22/2017",
-    "description": "SHELL OIL COMPANY 19630",
-    "amount": -619.79
-  },
-  {
-    "date": "05/22/2017",
-    "description": "SAKS FIFTH AVENUE 43213",
-    "amount": -1348.95
-  },
-  {
-    "date": "05/22/2017",
-    "description": "DUNKIN' BRANDS GROUP FFKR91",
-    "amount": -772.33
-  },
-  {
-    "date": "05/25/2017",
-    "description": "ASCENA RETAIL GROUP--QZDY65",
-    "amount": -1001.17
-  },
-  {
-    "date": "05/26/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*160333",
-    "amount": -1163.48
-  },
-  {
-    "date": "05/26/2017",
-    "description": "THE HOME DEPOT 5QTP94",
-    "amount": -1400.5
-  },
-  {
-    "date": "05/27/2017",
-    "description": "TRACTOR SUPPLY CO. 83090",
-    "amount": -353.4
-  },
-  {
-    "date": "05/27/2017",
-    "description": "SAKS FIFTH AVENUE 26303",
-    "amount": -1321.6
-  },
-  {
-    "date": "05/27/2017",
-    "description": "DUNKIN' BRANDS GROUP ZZAA47",
-    "amount": -760.53
-  },
-  {
-    "date": "05/29/2017",
-    "description": "AMAZON*VJMN64",
-    "amount": -15.14
-  },
-  {
-    "date": "05/30/2017",
-    "description": "DICK'S SPORTING GOODS 55544",
-    "amount": -1650.47
-  },
-  {
-    "date": "05/31/2017",
-    "description": "JUSTWORKS PAYROLL 9QCU56",
-    "amount": -420000.0
-  },
-  {
-    "date": "05/31/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -99.58
-  },
-  {
-    "date": "05/31/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -102.35
-  },
-  {
-    "date": "05/31/2017",
-    "description": "ASCENA RETAIL GROUP--UISO06",
-    "amount": -1014.65
-  },
-  {
-    "date": "05/31/2017",
-    "description": "ACADEMY 41203",
-    "amount": -1013.97
-  },
-  {
-    "date": "06/01/2017",
-    "description": "GAMESTOP 64856",
-    "amount": -924.3
-  },
-  {
-    "date": "06/01/2017",
-    "description": "H-E-B GROCERY MSKW06",
-    "amount": -12.19
-  },
-  {
-    "date": "06/03/2017",
-    "description": "TARGET 08050",
-    "amount": -659.6
-  },
-  {
-    "date": "06/05/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -104.72
-  },
-  {
-    "date": "06/05/2017",
-    "description": "DILLARD'S",
-    "amount": -99.74
-  },
-  {
-    "date": "06/08/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT FNCS03",
-    "amount": -793.49
-  },
-  {
-    "date": "06/08/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 8V5851",
-    "amount": 540.16
-  },
-  {
-    "date": "06/09/2017",
-    "description": "J.C. PENNEY CO. WKGH35",
-    "amount": -38.66
-  },
-  {
-    "date": "06/11/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT ZNFQ13",
-    "amount": -885.14
-  },
-  {
-    "date": "06/12/2017",
-    "description": "CVS HEALTH CORPORATION OLSZ89",
-    "amount": -872.56
-  },
-  {
-    "date": "06/13/2017",
-    "description": "AVB BRANDSOURCE 66492",
-    "amount": -46.7
-  },
-  {
-    "date": "06/15/2017",
-    "description": "JUSTWORKS PAYROLL 7VH69",
-    "amount": -420000.0
-  },
-  {
-    "date": "06/15/2017",
-    "description": "WENDY'S 51241",
-    "amount": -1000.39
-  },
-  {
-    "date": "06/15/2017",
-    "description": "THE HOME DEPOT 8EZ511",
-    "amount": -1381.04
-  },
-  {
-    "date": "06/15/2017",
-    "description": "SPEEDWAY 05666",
-    "amount": -493.53
-  },
-  {
-    "date": "06/15/2017",
-    "description": "DISCOUNT TIRE KXJQ99",
-    "amount": -944.26
-  },
-  {
-    "date": "06/15/2017",
-    "description": "DUNKIN' BRANDS GROUP WFMS26",
-    "amount": -771.45
-  },
-  {
-    "date": "06/16/2017",
-    "description": "SAKS FIFTH AVENUE 02790",
-    "amount": -1318.7
-  },
-  {
-    "date": "06/16/2017",
-    "description": "LEE AND SONS RECEIVABLES YGPV80",
-    "amount": 273663.98
-  },
-  {
-    "date": "06/17/2017",
-    "description": "ASCENA RETAIL GROUP--FJPO79",
-    "amount": -992.04
-  },
-  {
-    "date": "06/18/2017",
-    "description": "L BRANDS ZIBX88",
-    "amount": -1172.77
-  },
-  {
-    "date": "06/19/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.98
-  },
-  {
-    "date": "06/19/2017",
-    "description": "DILLARD'S",
-    "amount": -95.07
-  },
-  {
-    "date": "06/20/2017",
-    "description": "YUM! BRANDS--HEB322",
-    "amount": -7.91
-  },
-  {
-    "date": "06/21/2017",
-    "description": "GAMESTOP 14441",
-    "amount": -911.71
-  },
-  {
-    "date": "06/21/2017",
-    "description": "KENT-LEE RECEIVABLES 818XJZ",
-    "amount": 539982.7
-  },
-  {
-    "date": "06/22/2017",
-    "description": "DICK'S SPORTING GOODS 11091",
-    "amount": -1633.33
-  },
-  {
-    "date": "06/24/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT ORTA91",
-    "amount": -710.62
-  },
-  {
-    "date": "06/24/2017",
-    "description": "CHICK-FIL-A YQYO86",
-    "amount": -1420.74
-  },
-  {
-    "date": "06/24/2017",
-    "description": "SHELL OIL COMPANY 42102",
-    "amount": -592.75
-  },
-  {
-    "date": "06/24/2017",
-    "description": "HUERTA-DELEON PAYMT PYBU84",
-    "amount": 1400798.59
-  },
-  {
-    "date": "06/25/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT VZAO30",
-    "amount": -699.37
-  },
-  {
-    "date": "06/25/2017",
-    "description": "JACK IN THE BOX 80540",
-    "amount": 88.31
-  },
-  {
-    "date": "06/25/2017",
-    "description": "REYES-SIMS AR NRDS97",
-    "amount": 304378.79
-  },
-  {
-    "date": "06/27/2017",
-    "description": "NORDSTROM 6U713",
-    "amount": -205.38
-  },
-  {
-    "date": "06/27/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 01302",
-    "amount": -1197.08
-  },
-  {
-    "date": "06/29/2017",
-    "description": "DUNKIN' BRANDS GROUP GRKX40",
-    "amount": -751.75
-  },
-  {
-    "date": "06/30/2017",
-    "description": "JUSTWORKS PAYROLL 653ALP",
-    "amount": -420000.0
-  },
-  {
-    "date": "06/30/2017",
-    "description": "BEST BUY",
-    "amount": -102.2
-  },
-  {
-    "date": "06/30/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -99.52
-  },
-  {
-    "date": "06/30/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -98.16
-  },
-  {
-    "date": "06/30/2017",
-    "description": "CHICK-FIL-A CKAM83",
-    "amount": -1425.74
-  },
-  {
-    "date": "06/30/2017",
-    "description": "PEREZ-RODGERS INVOICED PAYABLES",
-    "amount": 1056247.06
-  },
-  {
-    "date": "06/30/2017",
-    "description": "CHAMBERS, ROBINSON AND MOSLE PAYMT FOR SVCS",
-    "amount": 1030889.29
-  },
-  {
-    "date": "07/01/2017",
-    "description": "JACK IN THE BOX 35419",
-    "amount": 73.78
-  },
-  {
-    "date": "07/03/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT AQQD41",
-    "amount": -790.1
-  },
-  {
-    "date": "07/03/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*DIW114",
-    "amount": -1110.7
-  },
-  {
-    "date": "07/03/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -103.9
-  },
-  {
-    "date": "07/03/2017",
-    "description": "DILLARD'S",
-    "amount": -98.97
-  },
-  {
-    "date": "07/03/2017",
-    "description": "CHICK-FIL-A FXNX00",
-    "amount": -1411.38
-  },
-  {
-    "date": "07/04/2017",
-    "description": "BOONE PLC*INVOICE*5OI401",
-    "amount": -644.34
-  },
-  {
-    "date": "07/04/2017",
-    "description": "CHICK-FIL-A CVNM58",
-    "amount": -1422.23
-  },
-  {
-    "date": "07/06/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 39IC1",
-    "amount": 500.5
-  },
-  {
-    "date": "07/08/2017",
-    "description": "DARDEN RESTAURANTS--HRS976",
-    "amount": -1099.2
-  },
-  {
-    "date": "07/08/2017",
-    "description": "SAKS FIFTH AVENUE 23591",
-    "amount": -1334.29
-  },
-  {
-    "date": "07/10/2017",
-    "description": "CVS HEALTH CORPORATION AQXH04",
-    "amount": -887.56
-  },
-  {
-    "date": "07/11/2017",
-    "description": "DICK'S SPORTING GOODS 59332",
-    "amount": -1648.6
-  },
-  {
-    "date": "07/14/2017",
-    "description": "WENDY'S 87252",
-    "amount": -1003.84
-  },
-  {
-    "date": "07/14/2017",
-    "description": "MILLER-LEE*PAYMT*C777ZJ",
-    "amount": 866930.26
-  },
-  {
-    "date": "07/15/2017",
-    "description": "JUSTWORKS PAYROLL 269Q",
-    "amount": -420000.0
-  },
-  {
-    "date": "07/16/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT EWHC19",
-    "amount": -706.41
-  },
-  {
-    "date": "07/17/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.9
-  },
-  {
-    "date": "07/17/2017",
-    "description": "DILLARD'S",
-    "amount": -101.46
-  },
-  {
-    "date": "07/17/2017",
-    "description": "JACK IN THE BOX 37498",
-    "amount": 83.26
-  },
-  {
-    "date": "07/19/2017",
-    "description": "DARDEN RESTAURANTS--BV0331",
-    "amount": -1081.63
-  },
-  {
-    "date": "07/19/2017",
-    "description": "DUNKIN' BRANDS GROUP BCZN96",
-    "amount": -733.04
-  },
-  {
-    "date": "07/20/2017",
-    "description": "DARDEN RESTAURANTS--QBE807",
-    "amount": -1091.07
-  },
-  {
-    "date": "07/20/2017",
-    "description": "SPEEDWAY 98461",
-    "amount": -508.01
-  },
-  {
-    "date": "07/20/2017",
-    "description": "BED BATH & BEYOND--ZJM386",
-    "amount": -15.49
-  },
-  {
-    "date": "07/21/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP T892MG",
-    "amount": 629.1
-  },
-  {
-    "date": "07/21/2017",
-    "description": "PETSMART 67507",
-    "amount": -30.3
-  },
-  {
-    "date": "07/24/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT YDQG44",
-    "amount": -846.71
-  },
-  {
-    "date": "07/24/2017",
-    "description": "L BRANDS ZWPL92",
-    "amount": -1185.83
-  },
-  {
-    "date": "07/24/2017",
-    "description": "HUERTA-DELEON PAYMT YASC14",
-    "amount": 1365199.41
-  },
-  {
-    "date": "07/26/2017",
-    "description": "THE KROGER CO. FGEW59",
-    "amount": -46.27
-  },
-  {
-    "date": "07/28/2017",
-    "description": "SAKS FIFTH AVENUE 64911",
-    "amount": -1326.86
-  },
-  {
-    "date": "07/28/2017",
-    "description": "MILLER-LEE*PAYMT*HVM388",
-    "amount": 955641.09
-  },
-  {
-    "date": "07/29/2017",
-    "description": "TARGET 60730",
-    "amount": -678.21
-  },
-  {
-    "date": "07/29/2017",
-    "description": "WENDY'S 84684",
-    "amount": -1024.88
-  },
-  {
-    "date": "07/29/2017",
-    "description": "THE HOME DEPOT LOL719",
-    "amount": -1397.41
-  },
-  {
-    "date": "07/30/2017",
-    "description": "JACK IN THE BOX 41908",
-    "amount": 79.89
-  },
-  {
-    "date": "07/31/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT XVHI67",
-    "amount": -784.74
-  },
-  {
-    "date": "07/31/2017",
-    "description": "JUSTWORKS PAYROLL F413HS",
-    "amount": -420000.0
-  },
-  {
-    "date": "07/31/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -99.9
-  },
-  {
-    "date": "07/31/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.23
-  },
-  {
-    "date": "07/31/2017",
-    "description": "DILLARD'S",
-    "amount": -97.24
-  },
-  {
-    "date": "07/31/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -103.03
-  },
-  {
-    "date": "07/31/2017",
-    "description": "WENDY'S 18384",
-    "amount": -1014.04
-  },
-  {
-    "date": "08/02/2017",
-    "description": "TRACTOR SUPPLY CO. 27855",
-    "amount": -365.52
-  },
-  {
-    "date": "08/02/2017",
-    "description": "DISCOUNT TIRE JSHS84",
-    "amount": -933.83
-  },
-  {
-    "date": "08/03/2017",
-    "description": "CVS HEALTH CORPORATION WHIG87",
-    "amount": -864.61
-  },
-  {
-    "date": "08/04/2017",
-    "description": "TRACTOR SUPPLY CO. 00763",
-    "amount": -347.58
-  },
-  {
-    "date": "08/04/2017",
-    "description": "TARGET 12696",
-    "amount": -684.92
-  },
-  {
-    "date": "08/06/2017",
-    "description": "TRACTOR SUPPLY CO. 43187",
-    "amount": -343.56
-  },
-  {
-    "date": "08/06/2017",
-    "description": "DISCOUNT TIRE SCLD47",
-    "amount": -929.23
-  },
-  {
-    "date": "08/07/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT GXQJ88",
-    "amount": -668.09
-  },
-  {
-    "date": "08/07/2017",
-    "description": "THE HOME DEPOT 2972QI",
-    "amount": -1400.88
-  },
-  {
-    "date": "08/08/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 0IIB03",
-    "amount": 495.66
-  },
-  {
-    "date": "08/09/2017",
-    "description": "ASCENA RETAIL GROUP--XQIR96",
-    "amount": -1001.74
-  },
-  {
-    "date": "08/09/2017",
-    "description": "SPEEDWAY 11258",
-    "amount": -508.07
-  },
-  {
-    "date": "08/09/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 57993",
-    "amount": -1179.24
-  },
-  {
-    "date": "08/09/2017",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT VASU46",
-    "amount": 1451872.12
-  },
-  {
-    "date": "08/11/2017",
-    "description": "MENARD--FISC93",
-    "amount": -602.67
-  },
-  {
-    "date": "08/11/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 85255",
-    "amount": -1186.39
-  },
-  {
-    "date": "08/11/2017",
-    "description": "MILLER-LEE*PAYMT*861LDZ",
-    "amount": 1068024.73
-  },
-  {
-    "date": "08/13/2017",
-    "description": "QURATE RETAIL GROUP*10094",
-    "amount": -1418.09
-  },
-  {
-    "date": "08/14/2017",
-    "description": "JUSTWORKS PAYROLL WZU241",
-    "amount": -420000.0
-  },
-  {
-    "date": "08/14/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -96.8
-  },
-  {
-    "date": "08/14/2017",
-    "description": "DILLARD'S",
-    "amount": -102.11
-  },
-  {
-    "date": "08/14/2017",
-    "description": "TRACTOR SUPPLY CO. 56450",
-    "amount": -369.22
-  },
-  {
-    "date": "08/14/2017",
-    "description": "GAP--71541",
-    "amount": -848.43
-  },
-  {
-    "date": "08/16/2017",
-    "description": "SHELL OIL COMPANY 34640",
-    "amount": -605.73
-  },
-  {
-    "date": "08/16/2017",
-    "description": "THE HOME DEPOT 36P579",
-    "amount": -1367.38
-  },
-  {
-    "date": "08/17/2017",
-    "description": "DISCOUNT TIRE VGKQ10",
-    "amount": -927.94
-  },
-  {
-    "date": "08/19/2017",
-    "description": "GAP--79809",
-    "amount": -850.35
-  },
-  {
-    "date": "08/19/2017",
-    "description": "WINCO FOODS 24566",
-    "amount": -26.84
-  },
-  {
-    "date": "08/23/2017",
-    "description": "HUERTA-DELEON PAYMT QGMZ82",
-    "amount": 1383771.11
-  },
-  {
-    "date": "08/24/2017",
-    "description": "SHELL OIL COMPANY 13694",
-    "amount": -597.39
-  },
-  {
-    "date": "08/24/2017",
-    "description": "ACADEMY 31431",
-    "amount": -993.67
-  },
-  {
-    "date": "08/25/2017",
-    "description": "L BRANDS HUIV45",
-    "amount": -1166.35
-  },
-  {
-    "date": "08/25/2017",
-    "description": "MILLER-LEE*PAYMT*786260",
-    "amount": 913664.76
-  },
-  {
-    "date": "08/26/2017",
-    "description": "SHELL OIL COMPANY 83121",
-    "amount": -612.95
-  },
-  {
-    "date": "08/27/2017",
-    "description": "MACY'S--KPOY61",
-    "amount": -41.59
-  },
-  {
-    "date": "08/28/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -101.14
-  },
-  {
-    "date": "08/28/2017",
-    "description": "DILLARD'S",
-    "amount": -100.47
-  },
-  {
-    "date": "08/28/2017",
-    "description": "TARGET 93468",
-    "amount": -668.57
-  },
-  {
-    "date": "08/28/2017",
-    "description": "L BRANDS CGTJ52",
-    "amount": -1168.96
-  },
-  {
-    "date": "08/29/2017",
-    "description": "JUSTWORKS PAYROLL KOW815",
-    "amount": -420000.0
-  },
-  {
-    "date": "08/29/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -98.96
-  },
-  {
-    "date": "08/29/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -101.13
-  },
-  {
-    "date": "08/29/2017",
-    "description": "SAKS FIFTH AVENUE 32664",
-    "amount": -1317.21
-  },
-  {
-    "date": "08/30/2017",
-    "description": "MENARD--QICZ07",
-    "amount": -609.29
-  },
-  {
-    "date": "08/31/2017",
-    "description": "L BRANDS PYFP24",
-    "amount": -1172.16
-  },
-  {
-    "date": "08/31/2017",
-    "description": "GAP--83272",
-    "amount": -833.06
-  },
-  {
-    "date": "09/03/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT EEXF99",
-    "amount": -661.19
-  },
-  {
-    "date": "09/03/2017",
-    "description": "NORDSTROM ZUA671",
-    "amount": -203.42
-  },
-  {
-    "date": "09/05/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT QVAE84",
-    "amount": -813.56
-  },
-  {
-    "date": "09/05/2017",
-    "description": "DISCOUNT TIRE UWNM89",
-    "amount": -934.26
-  },
-  {
-    "date": "09/06/2017",
-    "description": "BOONE PLC*INVOICE*879RCF",
-    "amount": -722.48
-  },
-  {
-    "date": "09/08/2017",
-    "description": "DARDEN RESTAURANTS--9506RK",
-    "amount": -1099.17
-  },
-  {
-    "date": "09/08/2017",
-    "description": "CVS HEALTH CORPORATION FQSA44",
-    "amount": -858.08
-  },
-  {
-    "date": "09/08/2017",
-    "description": "MILLER-LEE*PAYMT*OGA215",
-    "amount": 934455.16
-  },
-  {
-    "date": "09/08/2017",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT CHUG79",
-    "amount": 1460583.16
-  },
-  {
-    "date": "09/10/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*760YIG",
-    "amount": -1299.25
-  },
-  {
-    "date": "09/10/2017",
-    "description": "ACADEMY 63356",
-    "amount": -1025.39
-  },
-  {
-    "date": "09/10/2017",
-    "description": "DISCOUNT TIRE OXZL05",
-    "amount": -931.83
-  },
-  {
-    "date": "09/11/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*6805AX",
-    "amount": -1112.08
-  },
-  {
-    "date": "09/11/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -103.51
-  },
-  {
-    "date": "09/11/2017",
-    "description": "DILLARD'S",
-    "amount": -100.04
-  },
-  {
-    "date": "09/12/2017",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY XTOZ34",
-    "amount": -289.85
-  },
-  {
-    "date": "09/12/2017",
-    "description": "WILLIAMS-SONOMA HHPG28",
-    "amount": -710.28
-  },
-  {
-    "date": "09/13/2017",
-    "description": "JUSTWORKS PAYROLL 44M\u202292",
-    "amount": -420000.0
-  },
-  {
-    "date": "09/13/2017",
-    "description": "QURATE RETAIL GROUP*34973",
-    "amount": -1406.37
-  },
-  {
-    "date": "09/15/2017",
-    "description": "WENDY'S 24562",
-    "amount": -1027.12
-  },
-  {
-    "date": "09/18/2017",
-    "description": "SPEEDWAY 50917",
-    "amount": -490.56
-  },
-  {
-    "date": "09/20/2017",
-    "description": "AT&T WIRELESS 06772",
-    "amount": -1133.01
-  },
-  {
-    "date": "09/21/2017",
-    "description": "AT&T WIRELESS 17229",
-    "amount": -1150.83
-  },
-  {
-    "date": "09/21/2017",
-    "description": "RODRIGUEZ PLC 20548",
-    "amount": 1799479.65
-  },
-  {
-    "date": "09/22/2017",
-    "description": "HUERTA-DELEON PAYMT LSIL54",
-    "amount": 1293726.0
-  },
-  {
-    "date": "09/22/2017",
-    "description": "MILLER-LEE*PAYMT*0LYI21",
-    "amount": 977555.65
-  },
-  {
-    "date": "09/24/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT PNPV63",
-    "amount": -797.33
-  },
-  {
-    "date": "09/24/2017",
-    "description": "SPEEDWAY 47754",
-    "amount": -504.93
-  },
-  {
-    "date": "09/25/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 30V410",
-    "amount": 636.04
-  },
-  {
-    "date": "09/25/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -101.24
-  },
-  {
-    "date": "09/25/2017",
-    "description": "DILLARD'S",
-    "amount": -99.48
-  },
-  {
-    "date": "09/26/2017",
-    "description": "TRACTOR SUPPLY CO. 50354",
-    "amount": -369.38
-  },
-  {
-    "date": "09/27/2017",
-    "description": "MENARD--EEPR18",
-    "amount": -596.31
-  },
-  {
-    "date": "09/28/2017",
-    "description": "JUSTWORKS PAYROLL FJ2085",
-    "amount": -420000.0
-  },
-  {
-    "date": "09/28/2017",
-    "description": "BEST BUY",
-    "amount": -95.2
-  },
-  {
-    "date": "09/28/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -98.25
-  },
-  {
-    "date": "09/28/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -97.84
-  },
-  {
-    "date": "09/28/2017",
-    "description": "PEREZ-RODGERS INVOICED PAYABLES",
-    "amount": 1069908.8
-  },
-  {
-    "date": "09/28/2017",
-    "description": "CHAMBERS, ROBINSON AND MOSLE PAYMT FOR SVCS",
-    "amount": 1037331.85
-  },
-  {
-    "date": "09/28/2017",
-    "description": "MCMAHON INC*AR*ZQSY17",
-    "amount": 484914.14
-  },
-  {
-    "date": "09/29/2017",
-    "description": "NORDSTROM 353454",
-    "amount": -207.74
-  },
-  {
-    "date": "09/30/2017",
-    "description": "SHELL OIL COMPANY 21738",
-    "amount": -606.61
-  },
-  {
-    "date": "10/01/2017",
-    "description": "DARDEN RESTAURANTS--124GPY",
-    "amount": -1086.78
-  },
-  {
-    "date": "10/02/2017",
-    "description": "DICK'S SPORTING GOODS 19914",
-    "amount": -1658.62
-  },
-  {
-    "date": "10/03/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT VDDZ52",
-    "amount": -735.61
-  },
-  {
-    "date": "10/03/2017",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY DRPS50",
-    "amount": -209.54
-  },
-  {
-    "date": "10/05/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT LLRC78",
-    "amount": -811.48
-  },
-  {
-    "date": "10/05/2017",
-    "description": "MENARD--GXTJ44",
-    "amount": -599.61
-  },
-  {
-    "date": "10/05/2017",
-    "description": "NORDSTROM KQF010",
-    "amount": -207.64
-  },
-  {
-    "date": "10/05/2017",
-    "description": "THE HOME DEPOT KDL434",
-    "amount": -1386.56
-  },
-  {
-    "date": "10/06/2017",
-    "description": "CHICK-FIL-A URHY93",
-    "amount": -1409.89
-  },
-  {
-    "date": "10/06/2017",
-    "description": "MILLER-LEE*PAYMT*8VU897",
-    "amount": 1003165.54
-  },
-  {
-    "date": "10/08/2017",
-    "description": "QURATE RETAIL GROUP*88615",
-    "amount": -1399.37
-  },
-  {
-    "date": "10/09/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -102.27
-  },
-  {
-    "date": "10/09/2017",
-    "description": "DILLARD'S",
-    "amount": -101.82
-  },
-  {
-    "date": "10/09/2017",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT GYMU65",
-    "amount": 1327641.49
-  },
-  {
-    "date": "10/10/2017",
-    "description": "TOYS R US HHCW70",
-    "amount": -23.78
-  },
-  {
-    "date": "10/12/2017",
-    "description": "QURATE RETAIL GROUP*80361",
-    "amount": -1409.42
-  },
-  {
-    "date": "10/13/2017",
-    "description": "JUSTWORKS PAYROLL 249ZNY",
-    "amount": -420000.0
-  },
-  {
-    "date": "10/15/2017",
-    "description": "ACADEMY 68881",
-    "amount": -1019.94
-  },
-  {
-    "date": "10/15/2017",
-    "description": "BIG LOTS LURE01",
-    "amount": -52.69
-  },
-  {
-    "date": "10/16/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 9701NB",
-    "amount": 720.61
-  },
-  {
-    "date": "10/16/2017",
-    "description": "THE HOME DEPOT 2ML306",
-    "amount": -1390.59
-  },
-  {
-    "date": "10/17/2017",
-    "description": "AUTOZONE MYMR28",
-    "amount": -18.73
-  },
-  {
-    "date": "10/18/2017",
-    "description": "GAP--32746",
-    "amount": -852.77
-  },
-  {
-    "date": "10/19/2017",
-    "description": "ASCENA RETAIL GROUP--NCDT48",
-    "amount": -1001.27
-  },
-  {
-    "date": "10/20/2017",
-    "description": "MILLER-LEE*PAYMT*961HN",
-    "amount": 1140104.36
-  },
-  {
-    "date": "10/21/2017",
-    "description": "DISCOUNT TIRE FAET42",
-    "amount": -937.51
-  },
-  {
-    "date": "10/21/2017",
-    "description": "RODRIGUEZ PLC 79362",
-    "amount": 1885590.36
-  },
-  {
-    "date": "10/22/2017",
-    "description": "NORDSTROM MUG834",
-    "amount": -204.2
-  },
-  {
-    "date": "10/23/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -103.7
-  },
-  {
-    "date": "10/23/2017",
-    "description": "DILLARD'S",
-    "amount": -98.01
-  },
-  {
-    "date": "10/23/2017",
-    "description": "HUERTA-DELEON PAYMT BGHQ07",
-    "amount": 1458939.94
-  },
-  {
-    "date": "10/28/2017",
-    "description": "JUSTWORKS PAYROLL 9046",
-    "amount": -420000.0
-  },
-  {
-    "date": "10/28/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -101.34
-  },
-  {
-    "date": "10/28/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -99.2
-  },
-  {
-    "date": "10/28/2017",
-    "description": "WILLIAMS-SONOMA LTNM19",
-    "amount": -709.03
-  },
-  {
-    "date": "10/29/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*ZHG573",
-    "amount": -1172.74
-  },
-  {
-    "date": "10/30/2017",
-    "description": "MENARD--SUBD78",
-    "amount": -604.02
-  },
-  {
-    "date": "10/30/2017",
-    "description": "NORDSTROM RQE510",
-    "amount": -201.07
-  },
-  {
-    "date": "10/30/2017",
-    "description": "ACADEMY 90995",
-    "amount": -1014.27
-  },
-  {
-    "date": "10/31/2017",
-    "description": "SHELL OIL COMPANY 04798",
-    "amount": -607.3
-  },
-  {
-    "date": "11/01/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 86942",
-    "amount": -1186.24
-  },
-  {
-    "date": "11/03/2017",
-    "description": "WALMART VPXM88",
-    "amount": -31.71
-  },
-  {
-    "date": "11/03/2017",
-    "description": "MILLER-LEE*PAYMT*NRF643",
-    "amount": 888079.57
-  },
-  {
-    "date": "11/04/2017",
-    "description": "CHICK-FIL-A QWFY27",
-    "amount": -1406.16
-  },
-  {
-    "date": "11/04/2017",
-    "description": "JACK IN THE BOX 57083",
-    "amount": 93.04
-  },
-  {
-    "date": "11/04/2017",
-    "description": "SPEEDWAY 52233",
-    "amount": -485.88
-  },
-  {
-    "date": "11/06/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.7
-  },
-  {
-    "date": "11/06/2017",
-    "description": "DILLARD'S",
-    "amount": -102.79
-  },
-  {
-    "date": "11/07/2017",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT RYJP26",
-    "amount": 1316050.35
-  },
-  {
-    "date": "11/09/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 40204",
-    "amount": -1186.64
-  },
-  {
-    "date": "11/13/2017",
-    "description": "JUSTWORKS PAYROLL 4ZHC72",
-    "amount": -420000.0
-  },
-  {
-    "date": "11/13/2017",
-    "description": "AT&T WIRELESS 24170",
-    "amount": -1135.29
-  },
-  {
-    "date": "11/13/2017",
-    "description": "DARDEN RESTAURANTS--6D6W1P",
-    "amount": -1101.02
-  },
-  {
-    "date": "11/13/2017",
-    "description": "ACADEMY 42493",
-    "amount": -995.16
-  },
-  {
-    "date": "11/14/2017",
-    "description": "ASCENA RETAIL GROUP--EMBM68",
-    "amount": -988.46
-  },
-  {
-    "date": "11/17/2017",
-    "description": "CHICK-FIL-A XRXR97",
-    "amount": -1403.11
-  },
-  {
-    "date": "11/17/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 58198",
-    "amount": -1189.79
-  },
-  {
-    "date": "11/17/2017",
-    "description": "MILLER-LEE*PAYMT*125CSU",
-    "amount": 956991.24
-  },
-  {
-    "date": "11/18/2017",
-    "description": "GAMESTOP 25150",
-    "amount": -926.83
-  },
-  {
-    "date": "11/18/2017",
-    "description": "BED BATH & BEYOND--GPQ854",
-    "amount": -56.81
-  },
-  {
-    "date": "11/19/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 82237",
-    "amount": -1180.18
-  },
-  {
-    "date": "11/20/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.16
-  },
-  {
-    "date": "11/20/2017",
-    "description": "DILLARD'S",
-    "amount": -100.04
-  },
-  {
-    "date": "11/20/2017",
-    "description": "CVS HEALTH CORPORATION CENL54",
-    "amount": -873.75
-  },
-  {
-    "date": "11/20/2017",
-    "description": "RODRIGUEZ PLC 04553",
-    "amount": 1978676.47
-  },
-  {
-    "date": "11/21/2017",
-    "description": "WILLIAMS-SONOMA KBLT03",
-    "amount": -702.35
-  },
-  {
-    "date": "11/21/2017",
-    "description": "DARDEN RESTAURANTS--Z875LQ",
-    "amount": -1113.5
-  },
-  {
-    "date": "11/21/2017",
-    "description": "HUERTA-DELEON PAYMT VSMX24",
-    "amount": 1417656.38
-  },
-  {
-    "date": "11/22/2017",
-    "description": "WENDY'S 84607",
-    "amount": -1018.31
-  },
-  {
-    "date": "11/22/2017",
-    "description": "WILLIAMS-SONOMA VNCL99",
-    "amount": -706.33
-  },
-  {
-    "date": "11/23/2017",
-    "description": "JACK IN THE BOX 07040",
-    "amount": 73.6
-  },
-  {
-    "date": "11/25/2017",
-    "description": "AT&T WIRELESS 01878",
-    "amount": -1130.8
-  },
-  {
-    "date": "11/26/2017",
-    "description": "SHELL OIL COMPANY 03137",
-    "amount": -581.69
-  },
-  {
-    "date": "11/27/2017",
-    "description": "JUSTWORKS PAYROLL EWG715",
-    "amount": -420000.0
-  },
-  {
-    "date": "11/27/2017",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -100.44
-  },
-  {
-    "date": "11/27/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -96.83
-  },
-  {
-    "date": "11/27/2017",
-    "description": "CHICK-FIL-A JYRF65",
-    "amount": -1409.75
-  },
-  {
-    "date": "11/28/2017",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP HWF445",
-    "amount": 675.89
-  },
-  {
-    "date": "11/29/2017",
-    "description": "WENDY'S 53398",
-    "amount": -1033.11
-  },
-  {
-    "date": "11/29/2017",
-    "description": "SPEEDWAY 96390",
-    "amount": -469.95
-  },
-  {
-    "date": "11/29/2017",
-    "description": "L BRANDS ZBTJ80",
-    "amount": -1175.96
-  },
-  {
-    "date": "11/30/2017",
-    "description": "PEREZ AND SONS QKMV85",
-    "amount": 1443254.97
-  },
-  {
-    "date": "12/01/2017",
-    "description": "MILLER-LEE*PAYMT*VPT426",
-    "amount": 1010665.32
-  },
-  {
-    "date": "12/02/2017",
-    "description": "TRACTOR SUPPLY CO. 46756",
-    "amount": -373.71
-  },
-  {
-    "date": "12/02/2017",
-    "description": "NORDSTROM ZIK950",
-    "amount": -207.1
-  },
-  {
-    "date": "12/04/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.78
-  },
-  {
-    "date": "12/04/2017",
-    "description": "DILLARD'S",
-    "amount": -100.64
-  },
-  {
-    "date": "12/04/2017",
-    "description": "ASCENA RETAIL GROUP--ZWEL42",
-    "amount": -1008.44
-  },
-  {
-    "date": "12/06/2017",
-    "description": "CVS HEALTH CORPORATION EYMV56",
-    "amount": -865.87
-  },
-  {
-    "date": "12/06/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 08916",
-    "amount": -1187.07
-  },
-  {
-    "date": "12/07/2017",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT JWEH79",
-    "amount": 1474858.77
-  },
-  {
-    "date": "12/08/2017",
-    "description": "GAMESTOP 17055",
-    "amount": -924.34
-  },
-  {
-    "date": "12/08/2017",
-    "description": "TARGET 58998",
-    "amount": -659.61
-  },
-  {
-    "date": "12/08/2017",
-    "description": "DUNKIN' BRANDS GROUP UPPN67",
-    "amount": -764.32
-  },
-  {
-    "date": "12/09/2017",
-    "description": "DARDEN RESTAURANTS--ODP034",
-    "amount": -1088.24
-  },
-  {
-    "date": "12/10/2017",
-    "description": "NORDSTROM U22166",
-    "amount": -203.82
-  },
-  {
-    "date": "12/11/2017",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT JYKM53",
-    "amount": -849.17
-  },
-  {
-    "date": "12/11/2017",
-    "description": "MENARD--YKOG69",
-    "amount": -604.46
-  },
-  {
-    "date": "12/11/2017",
-    "description": "SPEEDWAY 84678",
-    "amount": -505.04
-  },
-  {
-    "date": "12/12/2017",
-    "description": "JUSTWORKS PAYROLL 84XH21",
-    "amount": -420000.0
-  },
-  {
-    "date": "12/13/2017",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*EP7844",
-    "amount": -1226.39
-  },
-  {
-    "date": "12/13/2017",
-    "description": "WENDY'S 71226",
-    "amount": -1014.29
-  },
-  {
-    "date": "12/13/2017",
-    "description": "SHELL OIL COMPANY 63433",
-    "amount": -603.37
-  },
-  {
-    "date": "12/13/2017",
-    "description": "QURATE RETAIL GROUP*56310",
-    "amount": -1414.4
-  },
-  {
-    "date": "12/15/2017",
-    "description": "TRACTOR SUPPLY CO. 00520",
-    "amount": -370.36
-  },
-  {
-    "date": "12/15/2017",
-    "description": "DARDEN RESTAURANTS--LT7852",
-    "amount": -1087.27
-  },
-  {
-    "date": "12/15/2017",
-    "description": "MILLER-LEE*PAYMT*SYO590",
-    "amount": 999658.54
-  },
-  {
-    "date": "12/16/2017",
-    "description": "THE HOME DEPOT 3SE864",
-    "amount": -1388.91
-  },
-  {
-    "date": "12/16/2017",
-    "description": "IKEA NORTH AMERICAN SVCS. 68622",
-    "amount": -1170.06
-  },
-  {
-    "date": "12/16/2017",
-    "description": "BURGER KING WORLDWIDE--06977",
-    "amount": -53.03
-  },
-  {
-    "date": "12/18/2017",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY POVO38",
-    "amount": -309.88
-  },
-  {
-    "date": "12/18/2017",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.49
-  },
-  {
-    "date": "12/18/2017",
-    "description": "DILLARD'S",
-    "amount": -98.58
-  },
-  {
-    "date": "12/18/2017",
-    "description": "TRACTOR SUPPLY CO. 96183",
-    "amount": -366.07
-  },
-  {
-    "date": "12/18/2017",
-    "description": "STARBUCKS 26729",
-    "amount": -77.71
-  },
-  {
-    "date": "12/19/2017",
-    "description": "SHELL OIL COMPANY 63524",
-    "amount": -609.02
-  },
-  {
-    "date": "12/20/2017",
-    "description": "ACADEMY 18977",
-    "amount": -1017.59
-  },
-  {
-    "date": "12/20/2017",
-    "description": "DICK'S SPORTING GOODS 59890",
-    "amount": -1654.5
-  },
-  {
-    "date": "12/20/2017",
-    "description": "RODRIGUEZ PLC 60027",
-    "amount": 1918013.01
-  },
-  {
-    "date": "12/21/2017",
-    "description": "ASCENA RETAIL GROUP--URWE28",
-    "amount": -993.8
-  },
-  {
-    "date": "12/21/2017",
-    "description": "JACK IN THE BOX 33583",
-    "amount": 74.33
-  },
-  {
-    "date": "12/21/2017",
-    "description": "HUERTA-DELEON PAYMT MCGT64",
-    "amount": 1503475.06
-  },
-  {
-    "date": "12/22/2017",
-    "description": "TRACTOR SUPPLY CO. 09843",
-    "amount": -360.5
-  },
-  {
-    "date": "12/23/2017",
-    "description": "NORDSTROM MUO042",
-    "amount": -209.27
-  },
-  {
-    "date": "12/24/2017",
-    "description": "GAMESTOP 92078",
-    "amount": -920.77
-  },
-  {
-    "date": "12/24/2017",
-    "description": "DICK'S SPORTING GOODS 68561",
-    "amount": -1644.67
-  },
-  {
-    "date": "12/26/2017",
-    "description": "WILLIAMS-SONOMA RZGV00",
-    "amount": -702.89
-  },
-  {
-    "date": "12/27/2017",
-    "description": "JUSTWORKS PAYROLL 249778",
-    "amount": -420000.0
-  },
-  {
-    "date": "12/27/2017",
-    "description": "BEST BUY",
-    "amount": -96.73
-  },
-  {
-    "date": "12/27/2017",
-    "description": "EXXON MOBIL CORPORATION",
+    "description": "ALIMENTATION COUCHE-TARD",
     "amount": -100.48
   },
   {
-    "date": "12/27/2017",
-    "description": "SEPHORA (LVMH)",
-    "amount": -98.19
+    "date": "02/08/2017",
+    "description": "PETCO ANIMAL SUPPLIES JSNB063",
+    "amount": -892.28
   },
   {
-    "date": "12/27/2017",
-    "description": "COSTCO NPPN82",
-    "amount": -48.91
+    "date": "02/12/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 462081.82
   },
   {
-    "date": "12/27/2017",
-    "description": "PEREZ-RODGERS INVOICED PAYABLES",
-    "amount": 1118294.13
+    "date": "02/15/2017",
+    "description": "JUSTWORKS PAYROLL 11X164",
+    "amount": -270000.0
   },
   {
-    "date": "12/27/2017",
-    "description": "CHAMBERS, ROBINSON AND MOSLE PAYMT FOR SVCS",
-    "amount": 1052782.05
+    "date": "02/17/2017",
+    "description": "DOLLAR GENERAL*34188",
+    "amount": -1119.35
   },
   {
-    "date": "12/29/2017",
-    "description": "DICK'S SPORTING GOODS 88825",
-    "amount": -1641.89
+    "date": "02/20/2017",
+    "description": "DOLLAR GENERAL*20683",
+    "amount": -1087.48
   },
   {
-    "date": "12/29/2017",
-    "description": "MILLER-LEE*PAYMT*461642",
-    "amount": 971174.12
+    "date": "02/22/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 56L748",
+    "amount": -409.92
   },
   {
-    "date": "12/30/2017",
-    "description": "PEREZ AND SONS QFVT23",
-    "amount": 1363892.84
+    "date": "02/23/2017",
+    "description": "HALL-CLARK MEMBERSHIP 91365",
+    "amount": -111.63
   },
   {
-    "date": "01/01/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.32
+    "date": "02/26/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 641494.3
   },
   {
-    "date": "01/01/2018",
-    "description": "DILLARD'S",
-    "amount": -98.77
+    "date": "03/02/2017",
+    "description": "JUSTWORKS PAYROLL 5OSI60",
+    "amount": -270000.0
   },
   {
-    "date": "01/01/2018",
-    "description": "MENARD--SXTJ99",
-    "amount": -598.04
-  },
-  {
-    "date": "01/02/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT AXBF64",
-    "amount": -807.92
-  },
-  {
-    "date": "01/02/2018",
-    "description": "QURATE RETAIL GROUP*98265",
-    "amount": -1413.59
-  },
-  {
-    "date": "01/02/2018",
-    "description": "DISCOUNT TIRE QBJL20",
-    "amount": -936.28
-  },
-  {
-    "date": "01/03/2018",
-    "description": "CVS HEALTH CORPORATION WBAG42",
-    "amount": -884.06
-  },
-  {
-    "date": "01/04/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 59L532",
-    "amount": 647.87
-  },
-  {
-    "date": "01/05/2018",
-    "description": "PETSMART 24619",
-    "amount": -53.69
-  },
-  {
-    "date": "01/06/2018",
-    "description": "TARGET 72499",
-    "amount": -671.6
-  },
-  {
-    "date": "01/06/2018",
-    "description": "SPEEDWAY 53529",
-    "amount": -487.7
-  },
-  {
-    "date": "01/06/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT RDCD37",
-    "amount": 1373287.28
-  },
-  {
-    "date": "01/08/2018",
-    "description": "CHICK-FIL-A EFIE12",
-    "amount": -1414.23
-  },
-  {
-    "date": "01/10/2018",
-    "description": "CHICK-FIL-A HAOE10",
-    "amount": -1414.71
-  },
-  {
-    "date": "01/10/2018",
-    "description": "MICHAELS STORES 70446",
-    "amount": -33.4
-  },
-  {
-    "date": "01/11/2018",
-    "description": "JUSTWORKS PAYROLL 770EOP",
-    "amount": -420000.0
-  },
-  {
-    "date": "01/12/2018",
-    "description": "DARDEN RESTAURANTS--1DE216",
-    "amount": -1075.12
-  },
-  {
-    "date": "01/12/2018",
-    "description": "MILLER-LEE*PAYMT*9RI433",
-    "amount": 904371.55
-  },
-  {
-    "date": "01/14/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT EPHT68",
-    "amount": -830.67
-  },
-  {
-    "date": "01/15/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT QQIP13",
-    "amount": -755.96
-  },
-  {
-    "date": "01/15/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.29
-  },
-  {
-    "date": "01/15/2018",
-    "description": "DILLARD'S",
-    "amount": -100.31
-  },
-  {
-    "date": "01/15/2018",
-    "description": "CHICK-FIL-A AKDK50",
-    "amount": -1403.92
-  },
-  {
-    "date": "01/18/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*QDJ494",
-    "amount": -1204.85
-  },
-  {
-    "date": "01/18/2018",
-    "description": "DUNKIN' BRANDS GROUP GBJH13",
-    "amount": -735.04
-  },
-  {
-    "date": "01/19/2018",
-    "description": "COSTCO IOFM70",
-    "amount": -47.52
-  },
-  {
-    "date": "01/19/2018",
-    "description": "RODRIGUEZ PLC 06404",
-    "amount": 1926651.36
-  },
-  {
-    "date": "01/20/2018",
-    "description": "DARDEN RESTAURANTS--1O2456",
-    "amount": -1078.09
-  },
-  {
-    "date": "01/20/2018",
-    "description": "HUERTA-DELEON PAYMT SPIX13",
-    "amount": 1424957.42
-  },
-  {
-    "date": "01/22/2018",
-    "description": "ASCENA RETAIL GROUP--ROEU04",
-    "amount": -996.26
-  },
-  {
-    "date": "01/23/2018",
-    "description": "DARDEN RESTAURANTS--16SU39",
-    "amount": -1112.53
-  },
-  {
-    "date": "01/23/2018",
-    "description": "SAKS FIFTH AVENUE 55752",
-    "amount": -1336.0
-  },
-  {
-    "date": "01/24/2018",
-    "description": "CHICK-FIL-A BKRB37",
-    "amount": -1417.63
-  },
-  {
-    "date": "01/25/2018",
-    "description": "WENDY'S 82379",
-    "amount": -1025.31
-  },
-  {
-    "date": "01/25/2018",
-    "description": "NORDSTROM 1562EQ",
-    "amount": -212.13
-  },
-  {
-    "date": "01/26/2018",
-    "description": "JUSTWORKS PAYROLL 5KYE70",
-    "amount": -420000.0
-  },
-  {
-    "date": "01/26/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -100.82
-  },
-  {
-    "date": "01/26/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -99.0
-  },
-  {
-    "date": "01/26/2018",
-    "description": "WENDY'S 08625",
-    "amount": -1011.14
-  },
-  {
-    "date": "01/26/2018",
-    "description": "ASCENA RETAIL GROUP--ZMFR65",
-    "amount": -998.51
-  },
-  {
-    "date": "01/26/2018",
-    "description": "MILLER-LEE*PAYMT*352IKC",
-    "amount": 1030140.44
-  },
-  {
-    "date": "01/27/2018",
-    "description": "AT&T WIRELESS 32198",
-    "amount": -1160.35
-  },
-  {
-    "date": "01/27/2018",
-    "description": "L BRANDS BOUI08",
-    "amount": -1185.38
-  },
-  {
-    "date": "01/29/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.05
-  },
-  {
-    "date": "01/29/2018",
-    "description": "DILLARD'S",
-    "amount": -98.9
-  },
-  {
-    "date": "01/29/2018",
-    "description": "CVS HEALTH CORPORATION NDRA48",
-    "amount": -858.56
-  },
-  {
-    "date": "01/29/2018",
-    "description": "PEREZ AND SONS BOJH93",
-    "amount": 1445087.98
-  },
-  {
-    "date": "01/31/2018",
-    "description": "ASCENA RETAIL GROUP--DHJS78",
-    "amount": -988.48
-  },
-  {
-    "date": "02/03/2018",
-    "description": "BOONE PLC*INVOICE*33VK26",
-    "amount": -570.37
-  },
-  {
-    "date": "02/03/2018",
-    "description": "TARGET 45244",
-    "amount": -670.43
-  },
-  {
-    "date": "02/03/2018",
-    "description": "NORDSTROM 6P5312",
-    "amount": -213.94
-  },
-  {
-    "date": "02/03/2018",
-    "description": "WALGREENS BOOTS ALLIANCE--IUGE07",
-    "amount": -12.01
-  },
-  {
-    "date": "02/04/2018",
-    "description": "JACK IN THE BOX 28610",
-    "amount": 78.07
-  },
-  {
-    "date": "02/05/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT ITSO29",
-    "amount": 1361275.31
-  },
-  {
-    "date": "02/07/2018",
-    "description": "TRACTOR SUPPLY CO. 81108",
-    "amount": -358.0
-  },
-  {
-    "date": "02/07/2018",
-    "description": "CHICK-FIL-A CRVG39",
-    "amount": -1408.41
-  },
-  {
-    "date": "02/07/2018",
-    "description": "REYES-SIMS AR XUPQ33",
-    "amount": 304033.37
-  },
-  {
-    "date": "02/09/2018",
-    "description": "MENARD--QGFU98",
-    "amount": -607.24
-  },
-  {
-    "date": "02/09/2018",
-    "description": "WEGMANS FOOD MARKET 39574",
-    "amount": -21.73
-  },
-  {
-    "date": "02/09/2018",
-    "description": "MILLER-LEE*PAYMT*ZEO864",
-    "amount": 927463.08
-  },
-  {
-    "date": "02/10/2018",
-    "description": "JUSTWORKS PAYROLL 743906",
-    "amount": -420000.0
-  },
-  {
-    "date": "02/10/2018",
-    "description": "ACADEMY 53763",
-    "amount": -1034.97
-  },
-  {
-    "date": "02/12/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 876BUH",
-    "amount": 636.58
-  },
-  {
-    "date": "02/12/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.95
-  },
-  {
-    "date": "02/12/2018",
-    "description": "DILLARD'S",
-    "amount": -99.18
-  },
-  {
-    "date": "02/12/2018",
-    "description": "L BRANDS XAJL05",
-    "amount": -1167.44
-  },
-  {
-    "date": "02/13/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT ZJEW99",
-    "amount": -621.59
-  },
-  {
-    "date": "02/13/2018",
-    "description": "TARGET 14652",
-    "amount": -663.19
-  },
-  {
-    "date": "02/13/2018",
-    "description": "CHICK-FIL-A GMRC57",
-    "amount": -1412.84
-  },
-  {
-    "date": "02/13/2018",
-    "description": "DICK'S SPORTING GOODS 70230",
-    "amount": -1642.93
-  },
-  {
-    "date": "02/14/2018",
-    "description": "WILLIAMS-SONOMA ODTW54",
-    "amount": -707.5
-  },
-  {
-    "date": "02/16/2018",
-    "description": "MENARD--XXSZ53",
-    "amount": -613.43
-  },
-  {
-    "date": "02/17/2018",
-    "description": "WENDY'S 87544",
-    "amount": -1015.68
-  },
-  {
-    "date": "02/17/2018",
-    "description": "DARDEN RESTAURANTS--525EHQ",
-    "amount": -1112.08
-  },
-  {
-    "date": "02/18/2018",
-    "description": "THE HOME DEPOT 37QE76",
-    "amount": -1375.14
-  },
-  {
-    "date": "02/19/2018",
-    "description": "GAMESTOP 17327",
-    "amount": -935.21
-  },
-  {
-    "date": "02/19/2018",
-    "description": "JACK IN THE BOX 00723",
-    "amount": 73.71
-  },
-  {
-    "date": "02/19/2018",
-    "description": "RODRIGUEZ PLC 28591",
-    "amount": 1911223.83
-  },
-  {
-    "date": "02/19/2018",
-    "description": "HUERTA-DELEON PAYMT SRWV55",
-    "amount": 1413707.63
-  },
-  {
-    "date": "02/20/2018",
-    "description": "TARGET 15727",
-    "amount": -667.34
-  },
-  {
-    "date": "02/20/2018",
-    "description": "THE HOME DEPOT 234T5",
-    "amount": -1394.59
-  },
-  {
-    "date": "02/22/2018",
-    "description": "ACADEMY 54387",
-    "amount": -1012.25
-  },
-  {
-    "date": "02/22/2018",
-    "description": "IKEA NORTH AMERICAN SVCS. 49091",
-    "amount": -1178.17
-  },
-  {
-    "date": "02/23/2018",
-    "description": "CHIPOTLE MEXICAN GRILL 506IEA",
-    "amount": -48.46
-  },
-  {
-    "date": "02/23/2018",
-    "description": "MILLER-LEE*PAYMT*213856",
-    "amount": 928668.43
-  },
-  {
-    "date": "02/24/2018",
-    "description": "AT&T WIRELESS 73517",
-    "amount": -1162.28
-  },
-  {
-    "date": "02/24/2018",
-    "description": "JACK IN THE BOX 07013",
-    "amount": 71.12
-  },
-  {
-    "date": "02/25/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT QRJU88",
-    "amount": -844.58
-  },
-  {
-    "date": "02/25/2018",
-    "description": "ASCENA RETAIL GROUP--WCRL54",
-    "amount": -1005.77
-  },
-  {
-    "date": "02/25/2018",
-    "description": "THE HOME DEPOT BC2381",
-    "amount": -1394.48
-  },
-  {
-    "date": "02/26/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 460RUZ",
-    "amount": 714.91
-  },
-  {
-    "date": "02/26/2018",
-    "description": "JUSTWORKS PAYROLL 264RSH",
-    "amount": -420000.0
-  },
-  {
-    "date": "02/26/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -99.84
-  },
-  {
-    "date": "02/26/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.94
-  },
-  {
-    "date": "02/26/2018",
-    "description": "DILLARD'S",
-    "amount": -98.19
-  },
-  {
-    "date": "02/26/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -100.73
-  },
-  {
-    "date": "02/27/2018",
-    "description": "MENARD--RBRQ71",
-    "amount": -633.38
-  },
-  {
-    "date": "02/27/2018",
-    "description": "SAKS FIFTH AVENUE 89468",
-    "amount": -1353.74
-  },
-  {
-    "date": "02/27/2018",
-    "description": "BELK VXPW88",
-    "amount": -29.62
-  },
-  {
-    "date": "02/28/2018",
-    "description": "ACADEMY 37265",
-    "amount": -1027.84
-  },
-  {
-    "date": "02/28/2018",
-    "description": "PEREZ AND SONS QHPF05",
-    "amount": 1619326.53
-  },
-  {
-    "date": "03/01/2018",
-    "description": "ACADEMY 27879",
-    "amount": -1013.29
-  },
-  {
-    "date": "03/02/2018",
-    "description": "TARGET 72880",
-    "amount": -689.66
-  },
-  {
-    "date": "03/05/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT BVTW45",
-    "amount": -773.28
-  },
-  {
-    "date": "03/05/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*44UM36",
-    "amount": -1065.0
-  },
-  {
-    "date": "03/05/2018",
-    "description": "GAP--75243",
-    "amount": -855.54
-  },
-  {
-    "date": "03/06/2018",
-    "description": "AT&T WIRELESS 06176",
-    "amount": -1127.35
-  },
-  {
-    "date": "03/07/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT YUHA39",
-    "amount": -673.65
-  },
-  {
-    "date": "03/07/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT HJFI37",
-    "amount": 1442457.26
-  },
-  {
-    "date": "03/08/2018",
-    "description": "THE HOME DEPOT 26YBI2",
-    "amount": -1391.31
-  },
-  {
-    "date": "03/09/2018",
-    "description": "NORDSTROM 6LK935",
-    "amount": -208.49
-  },
-  {
-    "date": "03/09/2018",
-    "description": "MILLER-LEE*PAYMT*771DD",
-    "amount": 984284.43
-  },
-  {
-    "date": "03/11/2018",
-    "description": "DOMINO'S PIZZA DNTN64",
-    "amount": -46.91
-  },
-  {
-    "date": "03/12/2018",
-    "description": "JUSTWORKS PAYROLL 331LYH",
-    "amount": -420000.0
-  },
-  {
-    "date": "03/12/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.41
-  },
-  {
-    "date": "03/12/2018",
-    "description": "DILLARD'S",
-    "amount": -101.23
-  },
-  {
-    "date": "03/14/2018",
-    "description": "DICK'S SPORTING GOODS 91874",
-    "amount": -1636.06
-  },
-  {
-    "date": "03/15/2018",
-    "description": "BOONE PLC*INVOICE*AB2494",
-    "amount": -746.1
-  },
-  {
-    "date": "03/15/2018",
-    "description": "TRACTOR SUPPLY CO. 28610",
-    "amount": -361.91
-  },
-  {
-    "date": "03/17/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 047K",
-    "amount": 609.61
-  },
-  {
-    "date": "03/20/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP AGP424",
-    "amount": 725.38
-  },
-  {
-    "date": "03/20/2018",
-    "description": "AT&T WIRELESS 59331",
-    "amount": -1154.66
-  },
-  {
-    "date": "03/20/2018",
-    "description": "RODRIGUEZ PLC 59862",
-    "amount": 1896493.54
-  },
-  {
-    "date": "03/21/2018",
-    "description": "WILLIAMS-SONOMA HUTA73",
-    "amount": -707.06
-  },
-  {
-    "date": "03/21/2018",
-    "description": "ASCENA RETAIL GROUP--YNMP98",
-    "amount": -1011.73
-  },
-  {
-    "date": "03/21/2018",
-    "description": "HUERTA-DELEON PAYMT WGBD30",
-    "amount": 1461816.03
-  },
-  {
-    "date": "03/22/2018",
-    "description": "AT&T WIRELESS 48053",
-    "amount": -1135.54
-  },
-  {
-    "date": "03/23/2018",
-    "description": "JACK IN THE BOX 11842",
-    "amount": 90.47
-  },
-  {
-    "date": "03/23/2018",
-    "description": "CVS HEALTH CORPORATION RSAO72",
-    "amount": -870.08
-  },
-  {
-    "date": "03/23/2018",
-    "description": "DISCOUNT TIRE BNIU02",
-    "amount": -957.87
-  },
-  {
-    "date": "03/23/2018",
-    "description": "MILLER-LEE*PAYMT*HIP587",
-    "amount": 979352.18
-  },
-  {
-    "date": "03/24/2018",
-    "description": "DICK'S SPORTING GOODS 43625",
-    "amount": -1671.62
-  },
-  {
-    "date": "03/25/2018",
-    "description": "DICK'S SPORTING GOODS 09195",
-    "amount": -1647.44
-  },
-  {
-    "date": "03/26/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.26
-  },
-  {
-    "date": "03/26/2018",
-    "description": "DILLARD'S",
-    "amount": -99.32
-  },
-  {
-    "date": "03/26/2018",
-    "description": "APPLE STORE 45I497",
-    "amount": -10.01
-  },
-  {
-    "date": "03/27/2018",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY AGNF99",
-    "amount": -336.15
-  },
-  {
-    "date": "03/27/2018",
-    "description": "JUSTWORKS PAYROLL 200748",
-    "amount": -420000.0
-  },
-  {
-    "date": "03/27/2018",
-    "description": "BEST BUY",
-    "amount": -96.58
-  },
-  {
-    "date": "03/27/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -103.64
-  },
-  {
-    "date": "03/27/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -99.65
-  },
-  {
-    "date": "03/27/2018",
-    "description": "PEREZ-RODGERS INVOICED PAYABLES",
-    "amount": 1028009.16
-  },
-  {
-    "date": "03/27/2018",
-    "description": "CHAMBERS, ROBINSON AND MOSLE PAYMT FOR SVCS",
-    "amount": 1100492.07
-  },
-  {
-    "date": "03/28/2018",
-    "description": "SHELL OIL COMPANY 10129",
-    "amount": -601.05
-  },
-  {
-    "date": "03/29/2018",
-    "description": "TRACTOR SUPPLY CO. 10184",
-    "amount": -370.26
-  },
-  {
-    "date": "03/30/2018",
-    "description": "TRACTOR SUPPLY CO. 07266",
-    "amount": -364.56
-  },
-  {
-    "date": "03/30/2018",
-    "description": "PEREZ AND SONS ZXPJ90",
-    "amount": 1547749.55
-  },
-  {
-    "date": "04/01/2018",
-    "description": "L BRANDS KKJT59",
-    "amount": -1162.04
-  },
-  {
-    "date": "04/02/2018",
-    "description": "WENDY'S 65855",
-    "amount": -1021.88
-  },
-  {
-    "date": "04/03/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT TNQU06",
-    "amount": -811.6
-  },
-  {
-    "date": "04/04/2018",
-    "description": "ASCENA RETAIL GROUP--DDKI88",
-    "amount": -1005.39
-  },
-  {
-    "date": "04/06/2018",
-    "description": "ACADEMY 88961",
-    "amount": -1017.17
-  },
-  {
-    "date": "04/06/2018",
-    "description": "MILLER-LEE*PAYMT*5Q4W3U",
-    "amount": 961877.54
-  },
-  {
-    "date": "04/06/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT RBFK71",
-    "amount": 1193855.47
-  },
-  {
-    "date": "04/09/2018",
-    "description": "BOONE PLC*INVOICE*Q47224",
-    "amount": -779.25
-  },
-  {
-    "date": "04/09/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -102.95
-  },
-  {
-    "date": "04/09/2018",
-    "description": "DILLARD'S",
-    "amount": -103.58
-  },
-  {
-    "date": "04/09/2018",
-    "description": "MENARD--LBWN92",
-    "amount": -605.38
-  },
-  {
-    "date": "04/10/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT QPCN40",
-    "amount": -775.21
-  },
-  {
-    "date": "04/10/2018",
-    "description": "ASCENA RETAIL GROUP--YVNT63",
-    "amount": -987.81
-  },
-  {
-    "date": "04/10/2018",
-    "description": "ALIMENTATION COUCHE-TARD--76371",
-    "amount": -34.13
-  },
-  {
-    "date": "04/11/2018",
-    "description": "JUSTWORKS PAYROLL M86302",
-    "amount": -420000.0
-  },
-  {
-    "date": "04/11/2018",
-    "description": "BJ'S WHOLESALE CLUB 7TIP31",
-    "amount": -42.62
-  },
-  {
-    "date": "04/13/2018",
-    "description": "VERIZON WIRELESS HLF681",
-    "amount": -23.19
-  },
-  {
-    "date": "04/14/2018",
-    "description": "DICK'S SPORTING GOODS 08928",
-    "amount": -1636.17
-  },
-  {
-    "date": "04/16/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*4ZV251",
-    "amount": -1240.19
-  },
-  {
-    "date": "04/17/2018",
-    "description": "GAP--68406",
-    "amount": -825.98
-  },
-  {
-    "date": "04/18/2018",
-    "description": "JACK IN THE BOX 60032",
-    "amount": 73.92
-  },
-  {
-    "date": "04/19/2018",
-    "description": "RODRIGUEZ PLC 87810",
-    "amount": 1764779.27
-  },
-  {
-    "date": "04/20/2018",
-    "description": "WILLIAMS-SONOMA FVJB51",
-    "amount": -699.42
-  },
-  {
-    "date": "04/20/2018",
-    "description": "HUERTA-DELEON PAYMT GSUF22",
-    "amount": 1333522.53
-  },
-  {
-    "date": "04/20/2018",
-    "description": "MILLER-LEE*PAYMT*345YHH",
-    "amount": 1078984.56
-  },
-  {
-    "date": "04/21/2018",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY MMMJ98",
-    "amount": -256.97
-  },
-  {
-    "date": "04/21/2018",
-    "description": "MENARD--HTMM21",
-    "amount": -597.82
-  },
-  {
-    "date": "04/21/2018",
-    "description": "GAMESTOP 11514",
-    "amount": -919.53
-  },
-  {
-    "date": "04/21/2018",
-    "description": "SPEEDWAY 36630",
-    "amount": -482.43
-  },
-  {
-    "date": "04/23/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
+    "date": "03/02/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
     "amount": -101.67
   },
   {
-    "date": "04/23/2018",
-    "description": "DILLARD'S",
-    "amount": -103.02
+    "date": "03/02/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 418000.56
   },
   {
-    "date": "04/23/2018",
-    "description": "QURATE RETAIL GROUP*64947",
-    "amount": -1408.23
+    "date": "03/03/2017",
+    "description": "WAKEFERN 10549",
+    "amount": -1277.3
   },
   {
-    "date": "04/24/2018",
-    "description": "CHICK-FIL-A GUDJ07",
-    "amount": -1419.01
+    "date": "03/09/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 387L",
+    "amount": -1345.33
   },
   {
-    "date": "04/24/2018",
-    "description": "ASCENA RETAIL GROUP--TXQS42",
-    "amount": -1006.31
+    "date": "03/12/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 609474.56
   },
   {
-    "date": "04/24/2018",
-    "description": "ACADEMY 23253",
-    "amount": -1027.3
+    "date": "03/14/2017",
+    "description": "DEAN PLC AR UGKZ240834",
+    "amount": 86673.05
   },
   {
-    "date": "04/26/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT VWMH56",
-    "amount": -751.77
+    "date": "03/17/2017",
+    "description": "JUSTWORKS PAYROLL 580TXX",
+    "amount": -270000.0
   },
   {
-    "date": "04/26/2018",
-    "description": "JUSTWORKS PAYROLL SE7591",
-    "amount": -420000.0
+    "date": "03/20/2017",
+    "description": "ALEXANDER LTD XQGH0240815440442",
+    "amount": 601196.53
   },
   {
-    "date": "04/26/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -98.01
+    "date": "03/22/2017",
+    "description": "WAKEFERN 66394",
+    "amount": -1280.21
   },
   {
-    "date": "04/26/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -102.24
+    "date": "03/23/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE GEZX0756066",
+    "amount": -1023.43
   },
   {
-    "date": "04/26/2018",
-    "description": "L BRANDS AUQN72",
-    "amount": -1170.51
+    "date": "03/23/2017",
+    "description": "HALL-CLARK MEMBERSHIP 25459",
+    "amount": 214.02
   },
   {
-    "date": "04/30/2018",
-    "description": "QURATE RETAIL GROUP*37013",
-    "amount": -1414.96
+    "date": "03/26/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 577334.22
   },
   {
-    "date": "04/30/2018",
-    "description": "PEREZ AND SONS UTNP51",
-    "amount": 1549343.31
+    "date": "04/01/2017",
+    "description": "HALL-CLARK MEMBERSHIP 22947",
+    "amount": 186.82
   },
   {
-    "date": "05/01/2018",
-    "description": "SAKS FIFTH AVENUE 78277",
-    "amount": -1328.7
+    "date": "04/01/2017",
+    "description": "JUSTWORKS PAYROLL 258I",
+    "amount": -270000.0
   },
   {
-    "date": "05/01/2018",
-    "description": "CVS HEALTH CORPORATION BGQJ50",
-    "amount": -870.53
+    "date": "04/01/2017",
+    "description": "MENARD",
+    "amount": -98.41
   },
   {
-    "date": "05/02/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP QWS764",
-    "amount": 762.96
-  },
-  {
-    "date": "05/03/2018",
-    "description": "LI-CHAVEZ AR CB8654",
-    "amount": 531755.79
-  },
-  {
-    "date": "05/03/2018",
-    "description": "ROTH-COHEN RECEIVABLES Y060XH",
-    "amount": 286899.71
-  },
-  {
-    "date": "05/04/2018",
-    "description": "SPEEDWAY 17180",
-    "amount": -495.98
-  },
-  {
-    "date": "05/04/2018",
-    "description": "MILLER-LEE*PAYMT*HRC795",
-    "amount": 950210.04
-  },
-  {
-    "date": "05/05/2018",
-    "description": "TARGET 74656",
-    "amount": -659.99
-  },
-  {
-    "date": "05/05/2018",
-    "description": "SAKS FIFTH AVENUE 55770",
-    "amount": -1354.87
-  },
-  {
-    "date": "05/06/2018",
-    "description": "AT&T WIRELESS 26982",
-    "amount": -1131.57
-  },
-  {
-    "date": "05/06/2018",
-    "description": "SHELL OIL COMPANY 31878",
-    "amount": -581.55
-  },
-  {
-    "date": "05/06/2018",
-    "description": "TRUE VALUE CO.*79934",
-    "amount": -10.54
-  },
-  {
-    "date": "05/07/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.98
-  },
-  {
-    "date": "05/07/2018",
-    "description": "DILLARD'S",
-    "amount": -100.56
-  },
-  {
-    "date": "05/07/2018",
-    "description": "DUNKIN' BRANDS GROUP HIGW60",
-    "amount": -752.36
-  },
-  {
-    "date": "05/07/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT PALP75",
-    "amount": 1403499.31
-  },
-  {
-    "date": "05/08/2018",
-    "description": "WILLIAMS-SONOMA KYHD31",
-    "amount": -706.38
-  },
-  {
-    "date": "05/08/2018",
-    "description": "QURATE RETAIL GROUP*36043",
-    "amount": -1402.7
-  },
-  {
-    "date": "05/09/2018",
-    "description": "THE HOME DEPOT KLG838",
-    "amount": -1393.85
-  },
-  {
-    "date": "05/09/2018",
-    "description": "ACADEMY 87142",
-    "amount": -1009.82
-  },
-  {
-    "date": "05/10/2018",
-    "description": "TRACTOR SUPPLY CO. 04750",
-    "amount": -366.73
-  },
-  {
-    "date": "05/11/2018",
-    "description": "JUSTWORKS PAYROLL 44AU17",
-    "amount": -420000.0
-  },
-  {
-    "date": "05/11/2018",
-    "description": "L BRANDS XFIF15",
-    "amount": -1184.15
-  },
-  {
-    "date": "05/12/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*657EDL",
-    "amount": -968.26
-  },
-  {
-    "date": "05/12/2018",
-    "description": "ASCENA RETAIL GROUP--MOFV35",
-    "amount": -972.43
-  },
-  {
-    "date": "05/12/2018",
-    "description": "SPEEDWAY 61730",
-    "amount": -487.69
-  },
-  {
-    "date": "05/12/2018",
-    "description": "DICK'S SPORTING GOODS 18923",
-    "amount": -1625.96
-  },
-  {
-    "date": "05/15/2018",
-    "description": "WENDY'S 53597",
-    "amount": -1008.67
-  },
-  {
-    "date": "05/15/2018",
-    "description": "GAP--19293",
-    "amount": -852.54
-  },
-  {
-    "date": "05/16/2018",
-    "description": "DISCOUNT TIRE AMGC50",
-    "amount": -954.74
-  },
-  {
-    "date": "05/17/2018",
-    "description": "YUM! BRANDS--NNI358",
-    "amount": -44.55
-  },
-  {
-    "date": "05/18/2018",
-    "description": "AT&T WIRELESS 49113",
-    "amount": -1145.9
-  },
-  {
-    "date": "05/18/2018",
-    "description": "MILLER-LEE*PAYMT*245H5",
-    "amount": 1009671.72
-  },
-  {
-    "date": "05/19/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT MBGR09",
-    "amount": -899.24
-  },
-  {
-    "date": "05/19/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 734KZX",
-    "amount": 550.37
-  },
-  {
-    "date": "05/19/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*NPL533",
-    "amount": -1181.57
-  },
-  {
-    "date": "05/19/2018",
-    "description": "AT&T WIRELESS 23720",
-    "amount": -1129.39
-  },
-  {
-    "date": "05/19/2018",
-    "description": "WILLIAMS-SONOMA VNVE96",
-    "amount": -703.07
-  },
-  {
-    "date": "05/19/2018",
-    "description": "APPLE STORE 95JZ89",
-    "amount": -80.04
-  },
-  {
-    "date": "05/19/2018",
-    "description": "RODRIGUEZ PLC 52421",
-    "amount": 1854155.57
-  },
-  {
-    "date": "05/20/2018",
-    "description": "AT&T WIRELESS 84629",
-    "amount": -1146.86
-  },
-  {
-    "date": "05/20/2018",
-    "description": "CVS HEALTH CORPORATION VDYE24",
-    "amount": -857.98
-  },
-  {
-    "date": "05/21/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT DEDT85",
-    "amount": -724.3
-  },
-  {
-    "date": "05/21/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.41
-  },
-  {
-    "date": "05/21/2018",
-    "description": "DILLARD'S",
-    "amount": -101.25
-  },
-  {
-    "date": "05/21/2018",
-    "description": "HUERTA-DELEON PAYMT MJDJ73",
-    "amount": 1459568.72
-  },
-  {
-    "date": "05/22/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 634SZY",
-    "amount": 581.38
-  },
-  {
-    "date": "05/22/2018",
-    "description": "DUNKIN' BRANDS GROUP KYNX01",
-    "amount": -757.07
-  },
-  {
-    "date": "05/23/2018",
-    "description": "ACADEMY 05543",
-    "amount": -1017.18
-  },
-  {
-    "date": "05/23/2018",
-    "description": "QURATE RETAIL GROUP*80283",
-    "amount": -1411.18
-  },
-  {
-    "date": "05/24/2018",
-    "description": "BOONE PLC*INVOICE*405UHX",
-    "amount": -825.49
-  },
-  {
-    "date": "05/24/2018",
-    "description": "GAP--00907",
-    "amount": -853.94
-  },
-  {
-    "date": "05/25/2018",
-    "description": "THE HOME DEPOT RAR379",
-    "amount": -1382.78
-  },
-  {
-    "date": "05/26/2018",
-    "description": "JUSTWORKS PAYROLL 710YVE",
-    "amount": -420000.0
-  },
-  {
-    "date": "05/26/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -98.72
-  },
-  {
-    "date": "05/26/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -98.74
-  },
-  {
-    "date": "05/28/2018",
-    "description": "ALBERTSONS COMPANIES*UCJB95",
-    "amount": -28.48
-  },
-  {
-    "date": "05/29/2018",
-    "description": "L BRANDS EKJV14",
-    "amount": -1188.57
-  },
-  {
-    "date": "05/29/2018",
-    "description": "PEREZ AND SONS FTAI88",
-    "amount": 1539876.27
-  },
-  {
-    "date": "05/31/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT ZSQS24",
-    "amount": -788.61
-  },
-  {
-    "date": "05/31/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*086221",
-    "amount": -1232.5
-  },
-  {
-    "date": "05/31/2018",
-    "description": "WENDY'S 67385",
-    "amount": -1020.28
-  },
-  {
-    "date": "05/31/2018",
-    "description": "7-ELEVEN TATR57",
-    "amount": -45.47
-  },
-  {
-    "date": "06/01/2018",
-    "description": "NORDSTROM 328XEC",
-    "amount": -207.08
-  },
-  {
-    "date": "06/01/2018",
-    "description": "MILLER-LEE*PAYMT*MXW457",
-    "amount": 1030343.4
-  },
-  {
-    "date": "06/02/2018",
-    "description": "NORDSTROM 933516",
-    "amount": -212.04
-  },
-  {
-    "date": "06/03/2018",
-    "description": "TRACTOR SUPPLY CO. 53896",
-    "amount": -353.81
-  },
-  {
-    "date": "06/03/2018",
-    "description": "CHICK-FIL-A PQKE80",
-    "amount": -1413.1
-  },
-  {
-    "date": "06/03/2018",
-    "description": "SPEEDWAY 01505",
-    "amount": -489.15
-  },
-  {
-    "date": "06/04/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -101.09
-  },
-  {
-    "date": "06/04/2018",
-    "description": "DILLARD'S",
-    "amount": -102.11
-  },
-  {
-    "date": "06/05/2018",
-    "description": "SAKS FIFTH AVENUE 97468",
-    "amount": -1335.96
-  },
-  {
-    "date": "06/05/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT YXKY49",
-    "amount": 1422250.14
-  },
-  {
-    "date": "06/06/2018",
-    "description": "CHICK-FIL-A TYNZ24",
-    "amount": -1395.38
-  },
-  {
-    "date": "06/06/2018",
-    "description": "DARDEN RESTAURANTS--606QAL",
-    "amount": -1115.37
-  },
-  {
-    "date": "06/06/2018",
-    "description": "JACK IN THE BOX 54169",
-    "amount": 93.56
-  },
-  {
-    "date": "06/07/2018",
-    "description": "OFFICE DEPOT*57980",
-    "amount": -29.39
-  },
-  {
-    "date": "06/09/2018",
-    "description": "DICK'S SPORTING GOODS 50707",
-    "amount": -1639.6
-  },
-  {
-    "date": "06/11/2018",
-    "description": "JUSTWORKS PAYROLL 7417KK",
-    "amount": -420000.0
-  },
-  {
-    "date": "06/12/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT THIK16",
-    "amount": -900.6
-  },
-  {
-    "date": "06/12/2018",
-    "description": "THE HOME DEPOT N84VSA",
-    "amount": -1397.75
-  },
-  {
-    "date": "06/13/2018",
-    "description": "NORDSTROM LNY506",
-    "amount": -207.53
-  },
-  {
-    "date": "06/14/2018",
-    "description": "JACK IN THE BOX 04688",
-    "amount": 74.65
-  },
-  {
-    "date": "06/15/2018",
-    "description": "MILLER-LEE*PAYMT*Z85032",
-    "amount": 998821.48
-  },
-  {
-    "date": "06/16/2018",
-    "description": "NORDSTROM 8340QW",
-    "amount": -214.87
-  },
-  {
-    "date": "06/16/2018",
-    "description": "L BRANDS VJXD02",
-    "amount": -1167.94
-  },
-  {
-    "date": "06/18/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.83
-  },
-  {
-    "date": "06/18/2018",
-    "description": "DILLARD'S",
-    "amount": -100.04
-  },
-  {
-    "date": "06/18/2018",
-    "description": "SHELL OIL COMPANY 53574",
-    "amount": -591.96
-  },
-  {
-    "date": "06/18/2018",
-    "description": "RODRIGUEZ PLC 18172",
-    "amount": 1888646.16
-  },
-  {
-    "date": "06/19/2018",
-    "description": "HUERTA-DELEON PAYMT WQXC90",
-    "amount": 1389503.18
-  },
-  {
-    "date": "06/20/2018",
-    "description": "SAKS FIFTH AVENUE 56953",
-    "amount": -1335.16
-  },
-  {
-    "date": "06/22/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT JYCY28",
-    "amount": -898.59
-  },
-  {
-    "date": "06/22/2018",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY MEGI28",
-    "amount": -209.86
-  },
-  {
-    "date": "06/22/2018",
-    "description": "GAMESTOP 80901",
-    "amount": -941.26
-  },
-  {
-    "date": "06/24/2018",
-    "description": "SAKS FIFTH AVENUE 33213",
-    "amount": -1328.35
-  },
-  {
-    "date": "06/25/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT SCZT04",
-    "amount": -767.61
-  },
-  {
-    "date": "06/25/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 2MQO72",
-    "amount": 714.39
-  },
-  {
-    "date": "06/25/2018",
-    "description": "JUSTWORKS PAYROLL 975893",
-    "amount": -420000.0
-  },
-  {
-    "date": "06/25/2018",
-    "description": "BEST BUY",
-    "amount": -102.58
-  },
-  {
-    "date": "06/25/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -96.89
-  },
-  {
-    "date": "06/25/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -94.62
-  },
-  {
-    "date": "06/25/2018",
-    "description": "ACADEMY 01680",
-    "amount": -1003.22
-  },
-  {
-    "date": "06/25/2018",
-    "description": "PEREZ-RODGERS INVOICED PAYABLES",
-    "amount": 1016683.48
-  },
-  {
-    "date": "06/25/2018",
-    "description": "CHAMBERS, ROBINSON AND MOSLE PAYMT FOR SVCS",
-    "amount": 951493.39
-  },
-  {
-    "date": "06/26/2018",
-    "description": "TRUE VALUE CO.*21715",
-    "amount": -28.32
-  },
-  {
-    "date": "06/27/2018",
-    "description": "CHICK-FIL-A NYLD37",
-    "amount": -1426.63
-  },
-  {
-    "date": "06/27/2018",
-    "description": "DISCOUNT TIRE MZTV71",
-    "amount": -948.54
-  },
-  {
-    "date": "06/27/2018",
-    "description": "DICK'S SPORTING GOODS 55842",
-    "amount": -1650.84
-  },
-  {
-    "date": "06/27/2018",
-    "description": "GAP--28842",
-    "amount": -837.37
-  },
-  {
-    "date": "06/28/2018",
-    "description": "ACADEMY 30787",
-    "amount": -1012.99
-  },
-  {
-    "date": "06/28/2018",
-    "description": "DICK'S SPORTING GOODS 82661",
-    "amount": -1642.36
-  },
-  {
-    "date": "06/28/2018",
-    "description": "PEREZ AND SONS IALI01",
-    "amount": 1402609.41
-  },
-  {
-    "date": "06/29/2018",
-    "description": "MILLER-LEE*PAYMT*538CQF",
-    "amount": 1037647.17
-  },
-  {
-    "date": "06/30/2018",
-    "description": "H-E-B GROCERY FXMA58",
-    "amount": -39.52
-  },
-  {
-    "date": "07/01/2018",
-    "description": "DUNKIN' BRANDS GROUP OLLX15",
-    "amount": -757.75
-  },
-  {
-    "date": "07/02/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.4
-  },
-  {
-    "date": "07/02/2018",
-    "description": "DILLARD'S",
-    "amount": -101.57
-  },
-  {
-    "date": "07/05/2018",
-    "description": "ASCENA RETAIL GROUP--ZQHE55",
-    "amount": -1006.33
-  },
-  {
-    "date": "07/05/2018",
-    "description": "WAKEFERN--53446",
-    "amount": -35.54
-  },
-  {
-    "date": "07/05/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT ERBM19",
-    "amount": 1347883.36
-  },
-  {
-    "date": "07/06/2018",
-    "description": "DUNKIN' BRANDS GROUP ETDG38",
-    "amount": -770.22
-  },
-  {
-    "date": "07/06/2018",
-    "description": "IKEA NORTH AMERICAN SVCS. 63121",
-    "amount": -1182.39
-  },
-  {
-    "date": "07/08/2018",
-    "description": "ROTH-COHEN RECEIVABLES 408O8",
-    "amount": 283207.58
-  },
-  {
-    "date": "07/10/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT YQVX84",
-    "amount": -658.38
-  },
-  {
-    "date": "07/10/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP HZT774",
-    "amount": 671.12
-  },
-  {
-    "date": "07/10/2018",
-    "description": "JUSTWORKS PAYROLL 920PW",
-    "amount": -420000.0
-  },
-  {
-    "date": "07/10/2018",
-    "description": "SPEEDWAY 02575",
-    "amount": -474.67
-  },
-  {
-    "date": "07/12/2018",
-    "description": "THE HOME DEPOT 541384",
-    "amount": -1386.42
-  },
-  {
-    "date": "07/12/2018",
-    "description": "SAKS FIFTH AVENUE 23906",
-    "amount": -1321.38
-  },
-  {
-    "date": "07/13/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP KGW149",
-    "amount": 652.8
-  },
-  {
-    "date": "07/13/2018",
-    "description": "MILLER-LEE*PAYMT*281LMC",
-    "amount": 914884.5
-  },
-  {
-    "date": "07/15/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT ZVUB04",
-    "amount": -811.63
-  },
-  {
-    "date": "07/16/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -97.87
-  },
-  {
-    "date": "07/16/2018",
-    "description": "DILLARD'S",
-    "amount": -99.19
-  },
-  {
-    "date": "07/17/2018",
-    "description": "QURATE RETAIL GROUP*11225",
-    "amount": -1423.1
-  },
-  {
-    "date": "07/17/2018",
-    "description": "WEGMANS FOOD MARKET 10776",
-    "amount": -23.77
-  },
-  {
-    "date": "07/18/2018",
-    "description": "DARDEN RESTAURANTS--800040",
-    "amount": -1093.98
-  },
-  {
-    "date": "07/18/2018",
-    "description": "IKEA NORTH AMERICAN SVCS. 11861",
-    "amount": -1179.51
-  },
-  {
-    "date": "07/18/2018",
-    "description": "RODRIGUEZ PLC 77759",
-    "amount": 1826385.9
-  },
-  {
-    "date": "07/19/2018",
-    "description": "HUERTA-DELEON PAYMT CTML14",
-    "amount": 1330305.35
-  },
-  {
-    "date": "07/21/2018",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY DZYI48",
-    "amount": -218.62
-  },
-  {
-    "date": "07/21/2018",
-    "description": "THE HOME DEPOT ED8055",
-    "amount": -1370.11
-  },
-  {
-    "date": "07/22/2018",
-    "description": "ALBERTSONS COMPANIES*OXFX69",
-    "amount": -53.23
-  },
-  {
-    "date": "07/23/2018",
-    "description": "L BRANDS IXNI62",
-    "amount": -1194.33
-  },
-  {
-    "date": "07/24/2018",
-    "description": "GAMESTOP 21518",
-    "amount": -929.87
-  },
-  {
-    "date": "07/24/2018",
-    "description": "SHELL OIL COMPANY 89000",
-    "amount": -589.24
-  },
-  {
-    "date": "07/25/2018",
-    "description": "JUSTWORKS PAYROLL X462SG",
-    "amount": -420000.0
-  },
-  {
-    "date": "07/25/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -100.72
-  },
-  {
-    "date": "07/25/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -100.03
-  },
-  {
-    "date": "07/26/2018",
-    "description": "TARGET 56580",
-    "amount": -681.71
-  },
-  {
-    "date": "07/27/2018",
-    "description": "MILLER-LEE*PAYMT*479LAD",
-    "amount": 922082.47
-  },
-  {
-    "date": "07/28/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT YCZK69",
-    "amount": -746.9
-  },
-  {
-    "date": "07/28/2018",
-    "description": "L BRANDS ODBJ64",
-    "amount": -1185.14
-  },
-  {
-    "date": "07/28/2018",
-    "description": "PEREZ AND SONS QVVK29",
-    "amount": 1441715.46
-  },
-  {
-    "date": "07/30/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -101.03
-  },
-  {
-    "date": "07/30/2018",
-    "description": "DILLARD'S",
-    "amount": -101.82
-  },
-  {
-    "date": "07/30/2018",
-    "description": "WILLIAMS-SONOMA EHPA73",
-    "amount": -705.49
-  },
-  {
-    "date": "07/30/2018",
-    "description": "DARDEN RESTAURANTS--HV7321",
-    "amount": -1103.72
-  },
-  {
-    "date": "08/01/2018",
-    "description": "SPEEDWAY 03868",
-    "amount": -504.54
-  },
-  {
-    "date": "08/02/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*CDZ141",
-    "amount": -1194.51
-  },
-  {
-    "date": "08/04/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT QNRN63",
-    "amount": 1378894.39
-  },
-  {
-    "date": "08/06/2018",
-    "description": "DARDEN RESTAURANTS--W466PP",
-    "amount": -1095.52
-  },
-  {
-    "date": "08/06/2018",
-    "description": "JACK IN THE BOX 08771",
-    "amount": 77.81
-  },
-  {
-    "date": "08/07/2018",
-    "description": "GAMESTOP 83207",
-    "amount": -931.42
-  },
-  {
-    "date": "08/07/2018",
-    "description": "TARGET 22010",
-    "amount": -667.57
-  },
-  {
-    "date": "08/08/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*2I992",
-    "amount": -1267.38
-  },
-  {
-    "date": "08/09/2018",
-    "description": "JUSTWORKS PAYROLL 686CMF",
-    "amount": -420000.0
-  },
-  {
-    "date": "08/09/2018",
-    "description": "CHICK-FIL-A CYXN72",
-    "amount": -1422.26
-  },
-  {
-    "date": "08/10/2018",
-    "description": "CHICK-FIL-A DUTZ77",
-    "amount": -1402.48
-  },
-  {
-    "date": "08/10/2018",
-    "description": "MILLER-LEE*PAYMT*JCA296",
-    "amount": 934884.22
-  },
-  {
-    "date": "08/11/2018",
-    "description": "GAP--67253",
-    "amount": -832.98
-  },
-  {
-    "date": "08/12/2018",
-    "description": "GAMESTOP 73496",
-    "amount": -920.23
-  },
-  {
-    "date": "08/13/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.85
-  },
-  {
-    "date": "08/13/2018",
-    "description": "DILLARD'S",
-    "amount": -99.94
-  },
-  {
-    "date": "08/13/2018",
-    "description": "NORDSTROM 312IEP",
-    "amount": -200.84
-  },
-  {
-    "date": "08/14/2018",
-    "description": "SUBWAY*VPVN07",
-    "amount": -35.07
-  },
-  {
-    "date": "08/15/2018",
-    "description": "THE HOME DEPOT O592HS",
-    "amount": -1377.35
-  },
-  {
-    "date": "08/17/2018",
-    "description": "WENDY'S 12344",
-    "amount": -1011.84
-  },
-  {
-    "date": "08/17/2018",
-    "description": "RODRIGUEZ PLC 46180",
-    "amount": 1769314.65
-  },
-  {
-    "date": "08/18/2018",
-    "description": "NORDSTROM RRK372",
-    "amount": -205.47
-  },
-  {
-    "date": "08/18/2018",
-    "description": "SPEEDWAY 62905",
-    "amount": -505.59
-  },
-  {
-    "date": "08/18/2018",
-    "description": "HUERTA-DELEON PAYMT ISAN60",
-    "amount": 1317249.36
-  },
-  {
-    "date": "08/19/2018",
-    "description": "SPEEDWAY 78247",
-    "amount": -483.72
-  },
-  {
-    "date": "08/21/2018",
-    "description": "TARGET 35836",
-    "amount": -678.63
-  },
-  {
-    "date": "08/21/2018",
-    "description": "L BRANDS XYON86",
-    "amount": -1167.94
-  },
-  {
-    "date": "08/22/2018",
-    "description": "ASCENA RETAIL GROUP--BJTG91",
-    "amount": -1001.09
-  },
-  {
-    "date": "08/23/2018",
-    "description": "CHICK-FIL-A SHUQ70",
-    "amount": -1397.92
-  },
-  {
-    "date": "08/24/2018",
-    "description": "JUSTWORKS PAYROLL HER255",
-    "amount": -420000.0
-  },
-  {
-    "date": "08/24/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -97.02
-  },
-  {
-    "date": "08/24/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -100.49
-  },
-  {
-    "date": "08/24/2018",
-    "description": "CVS HEALTH CORPORATION PJYY03",
-    "amount": -854.68
-  },
-  {
-    "date": "08/24/2018",
-    "description": "DISCOUNT TIRE WEYV49",
-    "amount": -941.96
-  },
-  {
-    "date": "08/24/2018",
-    "description": "MILLER-LEE*PAYMT*921PBN",
-    "amount": 947416.52
-  },
-  {
-    "date": "08/25/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP CDF336",
-    "amount": 715.34
-  },
-  {
-    "date": "08/25/2018",
-    "description": "HOBBY LOBBY STORES 75609",
-    "amount": -50.26
-  },
-  {
-    "date": "08/26/2018",
-    "description": "WALMART QWWP26",
-    "amount": -63.13
-  },
-  {
-    "date": "08/27/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.93
-  },
-  {
-    "date": "08/27/2018",
-    "description": "DILLARD'S",
-    "amount": -98.59
-  },
-  {
-    "date": "08/27/2018",
-    "description": "PEREZ AND SONS OZRM21",
-    "amount": 1536446.46
-  },
-  {
-    "date": "08/29/2018",
-    "description": "CVS HEALTH CORPORATION LDUD60",
-    "amount": -845.95
-  },
-  {
-    "date": "08/31/2018",
-    "description": "NORDSTROM OUX151",
-    "amount": -219.71
-  },
-  {
-    "date": "08/31/2018",
-    "description": "ASCENA RETAIL GROUP--DURF17",
-    "amount": -987.48
-  },
-  {
-    "date": "08/31/2018",
-    "description": "DARDEN RESTAURANTS--XDE778",
-    "amount": -1088.65
-  },
-  {
-    "date": "09/02/2018",
-    "description": "ACADEMY 70521",
-    "amount": -1022.65
-  },
-  {
-    "date": "09/03/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT XCJU10",
-    "amount": -778.54
-  },
-  {
-    "date": "09/03/2018",
-    "description": "L BRANDS JSFH04",
-    "amount": -1170.79
-  },
-  {
-    "date": "09/03/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT EYZV18",
-    "amount": 1418551.75
-  },
-  {
-    "date": "09/04/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT LSBL59",
-    "amount": -629.33
-  },
-  {
-    "date": "09/05/2018",
-    "description": "VERIZON WIRELESS 229PEA",
-    "amount": -44.52
-  },
-  {
-    "date": "09/05/2018",
-    "description": "HY-VEE 3YM627",
-    "amount": -28.69
-  },
-  {
-    "date": "09/06/2018",
-    "description": "BOONE PLC*INVOICE*XMA130",
-    "amount": -701.96
-  },
-  {
-    "date": "09/06/2018",
-    "description": "WILLIAMS-SONOMA YXEI81",
-    "amount": -697.4
-  },
-  {
-    "date": "09/07/2018",
-    "description": "MILLER-LEE*PAYMT*3DT99",
-    "amount": 1046110.19
-  },
-  {
-    "date": "09/08/2018",
-    "description": "JUSTWORKS PAYROLL MRDL67",
-    "amount": -420000.0
-  },
-  {
-    "date": "09/08/2018",
-    "description": "SPEEDWAY 62797",
-    "amount": -496.6
-  },
-  {
-    "date": "09/08/2018",
-    "description": "IKEA NORTH AMERICAN SVCS. 46819",
-    "amount": -1178.4
-  },
-  {
-    "date": "09/09/2018",
-    "description": "WILLIAMS-SONOMA UOVR87",
-    "amount": -730.39
-  },
-  {
-    "date": "09/09/2018",
-    "description": "GAP--34569",
-    "amount": -842.23
-  },
-  {
-    "date": "09/09/2018",
-    "description": "SOUTHEASTERN GROCERS JXM319",
-    "amount": -6.23
-  },
-  {
-    "date": "09/10/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT YHGR07",
-    "amount": -865.94
-  },
-  {
-    "date": "09/10/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.73
-  },
-  {
-    "date": "09/10/2018",
-    "description": "DILLARD'S",
-    "amount": -98.7
-  },
-  {
-    "date": "09/10/2018",
-    "description": "TARGET 13830",
-    "amount": -660.68
-  },
-  {
-    "date": "09/10/2018",
-    "description": "L BRANDS HPGT04",
-    "amount": -1181.8
-  },
-  {
-    "date": "09/12/2018",
-    "description": "GAMESTOP 19693",
-    "amount": -914.63
-  },
-  {
-    "date": "09/12/2018",
-    "description": "DARDEN RESTAURANTS--9ADR58",
-    "amount": -1089.47
-  },
-  {
-    "date": "09/13/2018",
-    "description": "SHELL OIL COMPANY 17297",
-    "amount": -606.81
-  },
-  {
-    "date": "09/13/2018",
-    "description": "IKEA NORTH AMERICAN SVCS. 79661",
-    "amount": -1169.36
-  },
-  {
-    "date": "09/14/2018",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY RGFZ69",
-    "amount": -219.84
-  },
-  {
-    "date": "09/14/2018",
-    "description": "ASCENA RETAIL GROUP--TEMP05",
-    "amount": -1006.52
-  },
-  {
-    "date": "09/15/2018",
-    "description": "GAMESTOP 99666",
-    "amount": -920.34
-  },
-  {
-    "date": "09/16/2018",
-    "description": "CVS HEALTH CORPORATION WIME66",
-    "amount": -868.39
-  },
-  {
-    "date": "09/17/2018",
-    "description": "ALIMENTATION COUCHE-TARD--25801",
-    "amount": -29.5
-  },
-  {
-    "date": "09/17/2018",
-    "description": "RODRIGUEZ PLC 73893",
-    "amount": 2077771.68
-  },
-  {
-    "date": "09/17/2018",
-    "description": "HUERTA-DELEON PAYMT CAER82",
-    "amount": 1411074.07
-  },
-  {
-    "date": "09/21/2018",
-    "description": "AT&T WIRELESS 66460",
-    "amount": -1136.89
-  },
-  {
-    "date": "09/21/2018",
-    "description": "TARGET 88137",
-    "amount": -667.69
-  },
-  {
-    "date": "09/21/2018",
-    "description": "MILLER-LEE*PAYMT*908LCF",
-    "amount": 757011.55
-  },
-  {
-    "date": "09/22/2018",
-    "description": "ACADEMY 10453",
-    "amount": -1034.67
-  },
-  {
-    "date": "09/22/2018",
-    "description": "DUNKIN' BRANDS GROUP MENJ05",
-    "amount": -763.5
-  },
-  {
-    "date": "09/22/2018",
-    "description": "THORNTON, MARTIN AND MENDEZ SOW 81056",
-    "amount": 447049.75
-  },
-  {
-    "date": "09/23/2018",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY QEDB88",
-    "amount": -311.98
-  },
-  {
-    "date": "09/23/2018",
-    "description": "PEREZ-RODGERS INVOICED PAYABLES",
-    "amount": 1108441.81
-  },
-  {
-    "date": "09/24/2018",
-    "description": "JUSTWORKS PAYROLL QGC680",
-    "amount": -420000.0
-  },
-  {
-    "date": "09/24/2018",
-    "description": "BEST BUY",
-    "amount": -101.79
-  },
-  {
-    "date": "09/24/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -101.99
-  },
-  {
-    "date": "09/24/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -102.49
-  },
-  {
-    "date": "09/24/2018",
-    "description": "DILLARD'S",
-    "amount": -97.81
-  },
-  {
-    "date": "09/24/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -99.09
-  },
-  {
-    "date": "09/25/2018",
-    "description": "DICK'S SPORTING GOODS 09121",
-    "amount": -1668.73
-  },
-  {
-    "date": "09/26/2018",
-    "description": "PEREZ AND SONS ZWYM31",
-    "amount": 1486616.39
-  },
-  {
-    "date": "09/29/2018",
-    "description": "GAMESTOP 07985",
-    "amount": -932.88
-  },
-  {
-    "date": "10/01/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT MTJM51",
-    "amount": -745.97
-  },
-  {
-    "date": "10/02/2018",
-    "description": "SHELL OIL COMPANY 67246",
-    "amount": -587.13
-  },
-  {
-    "date": "10/03/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT TLAY09",
-    "amount": 1371976.6
-  },
-  {
-    "date": "10/04/2018",
-    "description": "ACADEMY 26006",
-    "amount": -1025.42
-  },
-  {
-    "date": "10/04/2018",
-    "description": "GAP--93534",
-    "amount": -848.34
-  },
-  {
-    "date": "10/05/2018",
-    "description": "DINE BRANDS GLOBAL 56028",
-    "amount": -70.43
-  },
-  {
-    "date": "10/05/2018",
-    "description": "MILLER-LEE*PAYMT*1PY442",
-    "amount": 1011218.4
-  },
-  {
-    "date": "10/06/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT GWCQ90",
-    "amount": -892.4
-  },
-  {
-    "date": "10/06/2018",
-    "description": "WILLIAMS-SONOMA ITXY54",
-    "amount": -704.03
-  },
-  {
-    "date": "10/06/2018",
-    "description": "QURATE RETAIL GROUP*21233",
-    "amount": -1421.18
-  },
-  {
-    "date": "10/08/2018",
-    "description": "JUSTWORKS PAYROLL HPC516",
-    "amount": -420000.0
-  },
-  {
-    "date": "10/08/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -102.72
-  },
-  {
-    "date": "10/08/2018",
-    "description": "DILLARD'S",
-    "amount": -103.34
-  },
-  {
-    "date": "10/08/2018",
-    "description": "SHELL OIL COMPANY 95942",
-    "amount": -623.65
-  },
-  {
-    "date": "10/08/2018",
-    "description": "JACK IN THE BOX 67874",
-    "amount": 86.74
-  },
-  {
-    "date": "10/08/2018",
-    "description": "THE HOME DEPOT J6244B",
-    "amount": -1378.93
-  },
-  {
-    "date": "10/10/2018",
-    "description": "DUNKIN' BRANDS GROUP KVKO33",
-    "amount": -755.95
-  },
-  {
-    "date": "10/11/2018",
-    "description": "CVS HEALTH CORPORATION HJAI50",
-    "amount": -871.08
-  },
-  {
-    "date": "10/12/2018",
-    "description": "TARGET 46604",
-    "amount": -663.04
-  },
-  {
-    "date": "10/13/2018",
-    "description": "MENARD--CCHP04",
-    "amount": -616.64
-  },
-  {
-    "date": "10/15/2018",
-    "description": "TRACTOR SUPPLY CO. 49063",
-    "amount": -364.32
-  },
-  {
-    "date": "10/16/2018",
-    "description": "SHELL OIL COMPANY 69435",
-    "amount": -609.87
-  },
-  {
-    "date": "10/16/2018",
-    "description": "IKEA NORTH AMERICAN SVCS. 21295",
-    "amount": -1189.29
-  },
-  {
-    "date": "10/16/2018",
-    "description": "RODRIGUEZ PLC 59305",
-    "amount": 1916032.75
-  },
-  {
-    "date": "10/17/2018",
-    "description": "QURATE RETAIL GROUP*54247",
-    "amount": -1420.41
-  },
-  {
-    "date": "10/17/2018",
-    "description": "L BRANDS JPTB55",
-    "amount": -1177.49
-  },
-  {
-    "date": "10/17/2018",
-    "description": "HUERTA-DELEON PAYMT WQKC84",
-    "amount": 1324222.76
-  },
-  {
-    "date": "10/18/2018",
-    "description": "CVS HEALTH CORPORATION BVLK82",
-    "amount": -857.86
-  },
-  {
-    "date": "10/19/2018",
-    "description": "MILLER-LEE*PAYMT*504V",
-    "amount": 911905.22
-  },
-  {
-    "date": "10/20/2018",
-    "description": "ACE HARDWARE MMSS38",
-    "amount": -43.73
-  },
-  {
-    "date": "10/21/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 096484",
-    "amount": 576.53
-  },
-  {
-    "date": "10/21/2018",
-    "description": "WENDY'S 99857",
-    "amount": -1024.37
-  },
-  {
-    "date": "10/22/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -103.14
-  },
-  {
-    "date": "10/22/2018",
-    "description": "DILLARD'S",
-    "amount": -98.82
-  },
-  {
-    "date": "10/22/2018",
-    "description": "SOUTHEASTERN GROCERS 168LLN",
-    "amount": -71.91
-  },
-  {
-    "date": "10/23/2018",
-    "description": "JUSTWORKS PAYROLL WWS370",
-    "amount": -420000.0
-  },
-  {
-    "date": "10/23/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -100.84
-  },
-  {
-    "date": "10/23/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -102.38
-  },
-  {
-    "date": "10/23/2018",
-    "description": "L BRANDS RNXK71",
-    "amount": -1168.93
-  },
-  {
-    "date": "10/24/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT OFLW91",
-    "amount": -794.7
-  },
-  {
-    "date": "10/26/2018",
-    "description": "MACY'S--AVQO66",
-    "amount": -50.6
-  },
-  {
-    "date": "10/26/2018",
-    "description": "PEREZ AND SONS NZSB15",
-    "amount": 1522559.6
-  },
-  {
-    "date": "10/27/2018",
-    "description": "QURATE RETAIL GROUP*07078",
-    "amount": -1418.07
-  },
-  {
-    "date": "10/28/2018",
-    "description": "TARGET 54791",
-    "amount": -658.01
-  },
-  {
-    "date": "10/28/2018",
-    "description": "DARDEN RESTAURANTS--45VG9",
-    "amount": -1090.57
-  },
-  {
-    "date": "10/28/2018",
-    "description": "CVS HEALTH CORPORATION KSHD16",
-    "amount": -867.64
-  },
-  {
-    "date": "10/28/2018",
-    "description": "GAP--37121",
-    "amount": -845.11
-  },
-  {
-    "date": "10/29/2018",
-    "description": "SHELL OIL COMPANY 18735",
-    "amount": -627.58
-  },
-  {
-    "date": "10/30/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*ZHM770",
-    "amount": -1145.99
-  },
-  {
-    "date": "10/30/2018",
-    "description": "DARDEN RESTAURANTS--48IT78",
-    "amount": -1099.8
-  },
-  {
-    "date": "11/02/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT QJXK58",
-    "amount": -668.33
-  },
-  {
-    "date": "11/02/2018",
-    "description": "AT&T WIRELESS 75594",
-    "amount": -1120.36
-  },
-  {
-    "date": "11/02/2018",
-    "description": "MILLER-LEE*PAYMT*YFK923",
-    "amount": 1013283.1
-  },
-  {
-    "date": "11/02/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT MWLH63",
-    "amount": 1314761.42
-  },
-  {
-    "date": "11/05/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
+    "date": "04/01/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
     "amount": -99.28
   },
   {
-    "date": "11/05/2018",
-    "description": "DILLARD'S",
-    "amount": -103.21
+    "date": "04/04/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--33458",
+    "amount": -933.79
   },
   {
-    "date": "11/05/2018",
-    "description": "NORDSTROM 939998",
-    "amount": -215.98
+    "date": "04/07/2017",
+    "description": "PETCO ANIMAL SUPPLIES DUWN7290537789123",
+    "amount": -893.14
   },
   {
-    "date": "11/05/2018",
-    "description": "DARDEN RESTAURANTS--9ENI60",
-    "amount": -1088.24
+    "date": "04/09/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 679376.96
   },
   {
-    "date": "11/07/2018",
-    "description": "JUSTWORKS PAYROLL SXA403",
-    "amount": -420000.0
+    "date": "04/10/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE AGPX55112",
+    "amount": -815.88
   },
   {
-    "date": "11/10/2018",
-    "description": "WILLIAMS-SONOMA KJVM80",
-    "amount": -689.63
+    "date": "04/17/2017",
+    "description": "JUSTWORKS PAYROLL 038XGH",
+    "amount": -270000.0
   },
   {
-    "date": "11/10/2018",
-    "description": "JACK IN THE BOX 30260",
-    "amount": 83.17
+    "date": "04/19/2017",
+    "description": "ALEXANDER LTD JGVH892178608",
+    "amount": 599621.45
   },
   {
-    "date": "11/10/2018",
-    "description": "DICK'S SPORTING GOODS 84104",
-    "amount": -1659.63
+    "date": "04/21/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 712ERL",
+    "amount": -675.8
   },
   {
-    "date": "11/11/2018",
-    "description": "DISCOUNT TIRE LJEC58",
-    "amount": -925.28
+    "date": "04/22/2017",
+    "description": "FLOYD, LOVE AND MORRISON RECEIVABLES KIMK7259485050949",
+    "amount": 33589.22
   },
   {
-    "date": "11/11/2018",
-    "description": "DEFENSE COMMISSARY AGENCY--OUPQ80",
-    "amount": -28.0
+    "date": "04/23/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE ITJF329501",
+    "amount": -1085.05
   },
   {
-    "date": "11/12/2018",
-    "description": "MENARD--CUMC77",
-    "amount": -601.95
+    "date": "04/23/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 618826.22
   },
   {
-    "date": "11/14/2018",
-    "description": "ACADEMY 95734",
-    "amount": -1005.96
+    "date": "04/30/2017",
+    "description": "HALL-CLARK MEMBERSHIP 71499",
+    "amount": 102.05
   },
   {
-    "date": "11/15/2018",
-    "description": "DARDEN RESTAURANTS--WYT493",
-    "amount": -1081.04
+    "date": "05/01/2017",
+    "description": "JUSTWORKS PAYROLL 647QL",
+    "amount": -270000.0
   },
   {
-    "date": "11/15/2018",
-    "description": "RODRIGUEZ PLC 57412",
-    "amount": 1801876.5
+    "date": "05/01/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -97.25
   },
   {
-    "date": "11/16/2018",
-    "description": "HUERTA-DELEON PAYMT VSCK55",
-    "amount": 1444315.03
+    "date": "05/01/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 407040.95
   },
   {
-    "date": "11/16/2018",
-    "description": "MILLER-LEE*PAYMT*933IP8",
-    "amount": 939486.94
+    "date": "05/07/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 565519.81
   },
   {
-    "date": "11/17/2018",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT BZVY64",
-    "amount": -887.16
+    "date": "05/08/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE FELQ38108761765",
+    "amount": -1089.26
   },
   {
-    "date": "11/17/2018",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY MNFS85",
-    "amount": -237.08
+    "date": "05/16/2017",
+    "description": "JUSTWORKS PAYROLL BDS884",
+    "amount": -270000.0
   },
   {
-    "date": "11/17/2018",
-    "description": "TRACTOR SUPPLY CO. 60069",
-    "amount": -348.89
+    "date": "05/17/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 79U749",
+    "amount": -354.25
   },
   {
-    "date": "11/17/2018",
-    "description": "DUNKIN' BRANDS GROUP LGBG28",
-    "amount": -755.95
+    "date": "05/18/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT HUS3743",
+    "amount": -1296.28
   },
   {
-    "date": "11/18/2018",
-    "description": "DICK'S SPORTING GOODS 97542",
-    "amount": -1654.54
+    "date": "05/18/2017",
+    "description": "WAKEFERN 52879",
+    "amount": -1258.45
   },
   {
-    "date": "11/19/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.1
+    "date": "05/19/2017",
+    "description": "ALEXANDER LTD NJUT1834896",
+    "amount": 729194.0
   },
   {
-    "date": "11/19/2018",
-    "description": "DILLARD'S",
-    "amount": -100.85
+    "date": "05/20/2017",
+    "description": "GAMESTOP 92777",
+    "amount": -33.69
   },
   {
-    "date": "11/19/2018",
-    "description": "WINCO FOODS 51591",
-    "amount": -47.03
+    "date": "05/21/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT CBY6076",
+    "amount": -538.57
   },
   {
-    "date": "11/20/2018",
-    "description": "ACE HARDWARE LSHG50",
-    "amount": -39.65
+    "date": "05/21/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 646491.7
   },
   {
-    "date": "11/21/2018",
-    "description": "AT&T WIRELESS 25851",
-    "amount": -1141.97
+    "date": "05/22/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE HRNT355319785905",
+    "amount": -1106.68
   },
   {
-    "date": "11/21/2018",
-    "description": "J.C. PENNEY CO. BVNL69",
-    "amount": -31.99
+    "date": "05/25/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--HCSC78587",
+    "amount": 216383.98
   },
   {
-    "date": "11/22/2018",
-    "description": "JUSTWORKS PAYROLL 62Z650",
-    "amount": -420000.0
+    "date": "05/27/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--95953",
+    "amount": -716.57
   },
   {
-    "date": "11/22/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -99.69
+    "date": "05/31/2017",
+    "description": "JUSTWORKS PAYROLL FRN659",
+    "amount": -270000.0
   },
   {
-    "date": "11/22/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -98.23
+    "date": "05/31/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.93
   },
   {
-    "date": "11/22/2018",
-    "description": "ACADEMY 84892",
-    "amount": -1031.56
+    "date": "06/04/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 545343.43
   },
   {
-    "date": "11/22/2018",
-    "description": "DUNKIN' BRANDS GROUP YXTY91",
-    "amount": -762.72
+    "date": "06/08/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--TSUK103992503",
+    "amount": 243230.62
   },
   {
-    "date": "11/24/2018",
-    "description": "ACADEMY 69438",
-    "amount": -1021.61
+    "date": "06/10/2017",
+    "description": "PETCO ANIMAL SUPPLIES DSHZ984",
+    "amount": -896.69
   },
   {
-    "date": "11/25/2018",
-    "description": "SPEEDWAY 51261",
-    "amount": -495.72
+    "date": "06/12/2017",
+    "description": "PETCO ANIMAL SUPPLIES SSGD439525235290",
+    "amount": -889.87
   },
   {
-    "date": "11/26/2018",
-    "description": "DUNKIN' BRANDS GROUP RRYH18",
-    "amount": -770.49
+    "date": "06/15/2017",
+    "description": "JUSTWORKS PAYROLL 774OMX",
+    "amount": -270000.0
   },
   {
-    "date": "11/26/2018",
-    "description": "PEREZ AND SONS PGDY88",
-    "amount": 1681353.64
+    "date": "06/17/2017",
+    "description": "DOLLAR GENERAL*59943",
+    "amount": -1107.69
   },
   {
-    "date": "11/27/2018",
-    "description": "ACADEMY 25848",
-    "amount": -1031.98
+    "date": "06/18/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 235ZMB",
+    "amount": -583.79
   },
   {
-    "date": "11/27/2018",
-    "description": "MICHAELS STORES 50285",
-    "amount": -23.35
+    "date": "06/18/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 629976.54
   },
   {
-    "date": "11/30/2018",
-    "description": "GAMESTOP 60330",
-    "amount": -894.81
+    "date": "06/19/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--89129",
+    "amount": -649.13
   },
   {
-    "date": "11/30/2018",
-    "description": "MILLER-LEE*PAYMT*62UHS2",
-    "amount": 1108828.63
+    "date": "06/19/2017",
+    "description": "ALEXANDER LTD FCQU1369484133378",
+    "amount": 662101.62
   },
   {
-    "date": "12/01/2018",
-    "description": "CVS HEALTH CORPORATION XBBS56",
-    "amount": -858.56
+    "date": "06/22/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--LRMT2567039005411",
+    "amount": 183955.27
   },
   {
-    "date": "12/03/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
+    "date": "06/23/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT F448WM",
+    "amount": -369.2
+  },
+  {
+    "date": "06/26/2017",
+    "description": "DOLLAR GENERAL*80169",
+    "amount": -1097.27
+  },
+  {
+    "date": "06/27/2017",
+    "description": "DOLLAR GENERAL*47308",
+    "amount": -1096.79
+  },
+  {
+    "date": "06/29/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 827HTA",
+    "amount": -527.29
+  },
+  {
+    "date": "06/29/2017",
+    "description": "PETCO ANIMAL SUPPLIES KYTL48262452",
+    "amount": -896.43
+  },
+  {
+    "date": "06/30/2017",
+    "description": "JUSTWORKS PAYROLL ZYP359",
+    "amount": -270000.0
+  },
+  {
+    "date": "06/30/2017",
+    "description": "MENARD",
+    "amount": -96.2
+  },
+  {
+    "date": "06/30/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
     "amount": -101.1
   },
   {
-    "date": "12/03/2018",
-    "description": "DILLARD'S",
-    "amount": -102.36
+    "date": "06/30/2017",
+    "description": "WAKEFERN 59344",
+    "amount": -1268.66
   },
   {
-    "date": "12/03/2018",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT YIUX44",
-    "amount": 1301050.13
+    "date": "06/30/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 340860.54
   },
   {
-    "date": "12/04/2018",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP KSN456",
-    "amount": 554.55
+    "date": "07/02/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 584154.64
   },
   {
-    "date": "12/04/2018",
-    "description": "TRACTOR SUPPLY CO. 42897",
-    "amount": -350.9
+    "date": "07/06/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 787J",
+    "amount": -1256.71
   },
   {
-    "date": "12/07/2018",
-    "description": "JUSTWORKS PAYROLL CT0986",
-    "amount": -420000.0
+    "date": "07/06/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--BMKX6134706774404",
+    "amount": 183964.68
   },
   {
-    "date": "12/09/2018",
-    "description": "CVS HEALTH CORPORATION FXFV20",
-    "amount": -858.65
+    "date": "07/07/2017",
+    "description": "COOPER GROUP*AR*97025",
+    "amount": 480742.55
   },
   {
-    "date": "12/09/2018",
-    "description": "DOMINO'S PIZZA MMGG80",
-    "amount": -33.86
+    "date": "07/11/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT UPS7685",
+    "amount": -1172.59
   },
   {
-    "date": "12/10/2018",
-    "description": "TARGET 10719",
-    "amount": -667.52
+    "date": "07/14/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT TTR389",
+    "amount": -330.98
   },
   {
-    "date": "12/10/2018",
-    "description": "DISCOUNT TIRE TXSZ99",
-    "amount": -937.84
+    "date": "07/14/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 979IV",
+    "amount": -1218.11
   },
   {
-    "date": "12/11/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*152SOQ",
-    "amount": -1178.13
+    "date": "07/15/2017",
+    "description": "JUSTWORKS PAYROLL YNM3527",
+    "amount": -270000.0
   },
   {
-    "date": "12/11/2018",
-    "description": "AT&T WIRELESS 10698",
-    "amount": -1143.84
+    "date": "07/16/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 590891.71
   },
   {
-    "date": "12/12/2018",
-    "description": "DARDEN RESTAURANTS--4DE769",
-    "amount": -1096.2
+    "date": "07/18/2017",
+    "description": "ALEXANDER LTD ERFR7415980087133",
+    "amount": 647307.3
   },
   {
-    "date": "12/14/2018",
-    "description": "DISCOUNT TIRE GELV49",
-    "amount": -926.0
+    "date": "07/20/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 262771Q",
+    "amount": -1210.29
   },
   {
-    "date": "12/14/2018",
-    "description": "MILLER-LEE*PAYMT*023IBA",
-    "amount": 1020990.36
+    "date": "07/20/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--PPZR8951571266850",
+    "amount": 92957.22
   },
   {
-    "date": "12/15/2018",
-    "description": "AT&T WIRELESS 56087",
-    "amount": -1145.53
+    "date": "07/30/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 502880.39
   },
   {
-    "date": "12/15/2018",
-    "description": "NORDSTROM 2NQC87",
-    "amount": -208.48
+    "date": "07/31/2017",
+    "description": "JUSTWORKS PAYROLL PMB2956",
+    "amount": -270000.0
   },
   {
-    "date": "12/15/2018",
-    "description": "RODRIGUEZ PLC 57077",
-    "amount": 2056728.59
+    "date": "07/31/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.6
   },
   {
-    "date": "12/16/2018",
-    "description": "DICK'S SPORTING GOODS 06246",
-    "amount": -1649.45
+    "date": "08/01/2017",
+    "description": "PETCO ANIMAL SUPPLIES OGJB190",
+    "amount": -887.92
   },
   {
-    "date": "12/16/2018",
-    "description": "BURLINGTON COAT FACTORY MWLK20",
-    "amount": -14.58
+    "date": "08/03/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--NGYK53",
+    "amount": 181276.35
   },
   {
-    "date": "12/17/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.98
+    "date": "08/04/2017",
+    "description": "BOOKER, SANCHEZ AND WOLFE AR 38X8365",
+    "amount": 392409.67
   },
   {
-    "date": "12/17/2018",
-    "description": "DILLARD'S",
-    "amount": -99.04
+    "date": "08/06/2017",
+    "description": "HALL-CLARK MEMBERSHIP 01477",
+    "amount": 119.74
   },
   {
-    "date": "12/17/2018",
-    "description": "WENDY'S 25487",
-    "amount": -1007.28
+    "date": "08/12/2017",
+    "description": "DEAN PLC AR DRVG247241244",
+    "amount": 85188.59
   },
   {
-    "date": "12/17/2018",
-    "description": "IKEA NORTH AMERICAN SVCS. 83167",
-    "amount": -1162.93
+    "date": "08/13/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 604900.75
   },
   {
-    "date": "12/17/2018",
-    "description": "HUERTA-DELEON PAYMT RLNY56",
-    "amount": 1335766.97
+    "date": "08/14/2017",
+    "description": "JUSTWORKS PAYROLL 617XXB",
+    "amount": -270000.0
   },
   {
-    "date": "12/18/2018",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*E90057",
-    "amount": -1214.22
+    "date": "08/17/2017",
+    "description": "ALEXANDER LTD WVHV9348917221308",
+    "amount": 555473.47
   },
   {
-    "date": "12/18/2018",
-    "description": "L BRANDS AORV01",
-    "amount": -1178.67
+    "date": "08/17/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--WUQC2432528345290",
+    "amount": 216391.9
   },
   {
-    "date": "12/18/2018",
-    "description": "IKEA NORTH AMERICAN SVCS. 28762",
-    "amount": -1166.48
+    "date": "08/20/2017",
+    "description": "WAKEFERN 75125",
+    "amount": -1282.24
   },
   {
-    "date": "12/19/2018",
-    "description": "CHICK-FIL-A XCQX73",
-    "amount": -1423.95
+    "date": "08/23/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 473TVE",
+    "amount": -522.06
   },
   {
-    "date": "12/22/2018",
-    "description": "JUSTWORKS PAYROLL FVL369",
-    "amount": -420000.0
+    "date": "08/25/2017",
+    "description": "DOLLAR GENERAL*92092",
+    "amount": -1096.95
   },
   {
-    "date": "12/22/2018",
-    "description": "BEST BUY",
-    "amount": -97.57
+    "date": "08/27/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 755232.9
   },
   {
-    "date": "12/22/2018",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -100.33
+    "date": "08/29/2017",
+    "description": "JUSTWORKS PAYROLL 835630M",
+    "amount": -270000.0
   },
   {
-    "date": "12/22/2018",
-    "description": "SEPHORA (LVMH)",
-    "amount": -98.57
+    "date": "08/29/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -102.77
   },
   {
-    "date": "12/22/2018",
-    "description": "SHELL OIL COMPANY 16776",
-    "amount": -595.97
+    "date": "08/29/2017",
+    "description": "DOLLAR GENERAL*96057",
+    "amount": -1092.02
   },
   {
-    "date": "12/23/2018",
-    "description": "GAP--67310",
-    "amount": -851.25
+    "date": "08/29/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 312241.24
   },
   {
-    "date": "12/24/2018",
-    "description": "BOONE PLC*INVOICE*868569",
-    "amount": -829.19
+    "date": "08/31/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--WHZA6068744673543",
+    "amount": 224739.03
   },
   {
-    "date": "12/24/2018",
-    "description": "GAP--08684",
-    "amount": -859.13
+    "date": "09/03/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT CMS8625",
+    "amount": -1357.93
   },
   {
-    "date": "12/25/2018",
-    "description": "PEREZ AND SONS PSQG41",
-    "amount": 1683468.54
+    "date": "09/05/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE TIMW5862297230224",
+    "amount": -905.47
   },
   {
-    "date": "12/26/2018",
-    "description": "BASS PRO*63812",
-    "amount": -24.7
+    "date": "09/10/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 592671.53
   },
   {
-    "date": "12/27/2018",
-    "description": "FARLEY-COHEN--CREDIT--PHT993",
-    "amount": 456405.24
+    "date": "09/13/2017",
+    "description": "JUSTWORKS PAYROLL 422SU",
+    "amount": -270000.0
   },
   {
-    "date": "12/28/2018",
-    "description": "TARGET 35784",
-    "amount": -679.12
+    "date": "09/14/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--35858",
+    "amount": -686.78
   },
   {
-    "date": "12/28/2018",
-    "description": "ASCENA RETAIL GROUP--GNZQ10",
-    "amount": -995.64
+    "date": "09/14/2017",
+    "description": "PETCO ANIMAL SUPPLIES DFYF7430953012734",
+    "amount": -897.65
   },
   {
-    "date": "12/28/2018",
-    "description": "MILLER-LEE*PAYMT*LWJ053",
-    "amount": 935261.13
+    "date": "09/14/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--VXTU3028014676878",
+    "amount": 251714.0
   },
   {
-    "date": "12/29/2018",
-    "description": "DUNKIN' BRANDS GROUP FUCU79",
-    "amount": -765.4
+    "date": "09/16/2017",
+    "description": "ALEXANDER LTD UZBD89361080805",
+    "amount": 595206.68
   },
   {
-    "date": "12/30/2018",
-    "description": "THE HOME DEPOT 088900",
-    "amount": -1396.62
+    "date": "09/18/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE UACN17988",
+    "amount": -1072.02
   },
   {
-    "date": "12/31/2018",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -99.35
+    "date": "09/20/2017",
+    "description": "HALL-CLARK MEMBERSHIP 81520",
+    "amount": 103.22
   },
   {
-    "date": "12/31/2018",
-    "description": "DILLARD'S",
-    "amount": -99.38
+    "date": "09/24/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 592761.47
   },
   {
-    "date": "01/01/2019",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT UJYA65",
-    "amount": -717.24
+    "date": "09/25/2017",
+    "description": "WAKEFERN 97091",
+    "amount": -1287.05
   },
   {
-    "date": "01/01/2019",
-    "description": "BROWN, NOLAN AND BRYAN BILLPAY GIOB22",
-    "amount": -291.48
+    "date": "09/28/2017",
+    "description": "JUSTWORKS PAYROLL WMI363",
+    "amount": -270000.0
   },
   {
-    "date": "01/01/2019",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT IPFX14",
-    "amount": 279455.0077
+    "date": "09/28/2017",
+    "description": "MENARD",
+    "amount": -99.7
   },
   {
-    "date": "01/03/2019",
-    "description": "PUBLIX SUPER MARKETS UTUQ68",
-    "amount": -44.4
+    "date": "09/28/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.23
   },
   {
-    "date": "01/04/2019",
-    "description": "SMITH GROUP CREDIT CARD PAYMENT ZZZL19",
-    "amount": -924.99
+    "date": "09/28/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--EILZ03",
+    "amount": 238551.36
   },
   {
-    "date": "01/05/2019",
-    "description": "QURATE RETAIL GROUP*50660",
-    "amount": -1416.87
+    "date": "10/08/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 636512.01
   },
   {
-    "date": "01/07/2019",
-    "description": "JUSTWORKS PAYROLL ODV290",
-    "amount": -420000.0
+    "date": "10/12/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--AOUW6044022866",
+    "amount": 180469.61
   },
   {
-    "date": "01/07/2019",
-    "description": "AT&T WIRELESS 77835",
-    "amount": -1149.81
+    "date": "10/13/2017",
+    "description": "JUSTWORKS PAYROLL 27YJ3",
+    "amount": -270000.0
   },
   {
-    "date": "01/08/2019",
-    "description": "BJ'S WHOLESALE CLUB 544NGL",
+    "date": "10/15/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT D27HXR",
+    "amount": -1285.16
+  },
+  {
+    "date": "10/16/2017",
+    "description": "ALEXANDER LTD VSSB5074879810833",
+    "amount": 611090.33
+  },
+  {
+    "date": "10/16/2017",
+    "description": "KING, BROWNING AND WARD PAYMT RR2326",
+    "amount": 551218.56
+  },
+  {
+    "date": "10/22/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 582089.23
+  },
+  {
+    "date": "10/26/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--GCIM589141084599",
+    "amount": 175605.24
+  },
+  {
+    "date": "10/28/2017",
+    "description": "JUSTWORKS PAYROLL KCE874",
+    "amount": -270000.0
+  },
+  {
+    "date": "10/28/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -98.77
+  },
+  {
+    "date": "10/28/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 425623.61
+  },
+  {
+    "date": "10/29/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE RIAT0460556724",
+    "amount": -1118.99
+  },
+  {
+    "date": "10/30/2017",
+    "description": "WAKEFERN 31304",
+    "amount": -1266.09
+  },
+  {
+    "date": "10/30/2017",
+    "description": "KING, BROWNING AND WARD PAYMT KSA204",
+    "amount": 708536.86
+  },
+  {
+    "date": "10/31/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT MAI161",
+    "amount": -584.94
+  },
+  {
+    "date": "11/05/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 676658.53
+  },
+  {
+    "date": "11/05/2017",
+    "description": "WILLIAMSON, SERRANO AND DOYL SOW RCC291",
+    "amount": 335963.81
+  },
+  {
+    "date": "11/07/2017",
+    "description": "WAKEFERN 04337",
+    "amount": -1279.69
+  },
+  {
+    "date": "11/09/2017",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE HKWA999279478",
+    "amount": -999.78
+  },
+  {
+    "date": "11/09/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 3WO82",
+    "amount": -588.42
+  },
+  {
+    "date": "11/09/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--AZSG91274",
+    "amount": 180650.7
+  },
+  {
+    "date": "11/13/2017",
+    "description": "JUSTWORKS PAYROLL 6296",
+    "amount": -270000.0
+  },
+  {
+    "date": "11/13/2017",
+    "description": "KING, BROWNING AND WARD PAYMT 12VG12",
+    "amount": 583571.71
+  },
+  {
+    "date": "11/15/2017",
+    "description": "ALEXANDER LTD RDMS3532307025030",
+    "amount": 656281.04
+  },
+  {
+    "date": "11/17/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT PWH0901",
+    "amount": -1051.42
+  },
+  {
+    "date": "11/19/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 543190.35
+  },
+  {
+    "date": "11/20/2017",
+    "description": "PETCO ANIMAL SUPPLIES YOIO1729300608617",
+    "amount": -906.05
+  },
+  {
+    "date": "11/21/2017",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 964ASHN",
+    "amount": -1250.26
+  },
+  {
+    "date": "11/23/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--KDLM6291",
+    "amount": 179368.15
+  },
+  {
+    "date": "11/27/2017",
+    "description": "JUSTWORKS PAYROLL 53POE7",
+    "amount": -270000.0
+  },
+  {
+    "date": "11/27/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.59
+  },
+  {
+    "date": "11/27/2017",
+    "description": "KING, BROWNING AND WARD PAYMT 21BH638",
+    "amount": 461523.35
+  },
+  {
+    "date": "11/30/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 458LUP",
+    "amount": -479.27
+  },
+  {
+    "date": "12/03/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 615834.47
+  },
+  {
+    "date": "12/07/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--LRVP0660178766226",
+    "amount": 185713.29
+  },
+  {
+    "date": "12/11/2017",
+    "description": "KING, BROWNING AND WARD PAYMT 844GCN",
+    "amount": 644411.85
+  },
+  {
+    "date": "12/12/2017",
+    "description": "JUSTWORKS PAYROLL 64103R",
+    "amount": -270000.0
+  },
+  {
+    "date": "12/15/2017",
+    "description": "ALEXANDER LTD WTGQ632000771",
+    "amount": 597294.41
+  },
+  {
+    "date": "12/16/2017",
+    "description": "DOLLAR GENERAL*86755",
+    "amount": -1107.01
+  },
+  {
+    "date": "12/16/2017",
+    "description": "JIMENEZ-VANG PAYMT 67584",
+    "amount": 1392658.91
+  },
+  {
+    "date": "12/17/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 568649.64
+  },
+  {
+    "date": "12/21/2017",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--ZHOU39885467",
+    "amount": 189180.43
+  },
+  {
+    "date": "12/24/2017",
+    "description": "POOLE AND SONS*RECEIVABLES*JGKK3375123529514",
+    "amount": 438278.6
+  },
+  {
+    "date": "12/25/2017",
+    "description": "SANCHEZ-YOUNG--BILLPAY--81403",
+    "amount": -908.56
+  },
+  {
+    "date": "12/25/2017",
+    "description": "KING, BROWNING AND WARD PAYMT MYC498",
+    "amount": 585453.31
+  },
+  {
+    "date": "12/27/2017",
+    "description": "JUSTWORKS PAYROLL A890JO",
+    "amount": -270000.0
+  },
+  {
+    "date": "12/27/2017",
+    "description": "MENARD",
+    "amount": -99.97
+  },
+  {
+    "date": "12/27/2017",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.58
+  },
+  {
+    "date": "12/27/2017",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 328803.67
+  },
+  {
+    "date": "12/30/2017",
+    "description": "JIMENEZ-VANG PAYMT 38465",
+    "amount": 1466668.61
+  },
+  {
+    "date": "12/31/2017",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 58DFU9",
+    "amount": -342.22
+  },
+  {
+    "date": "12/31/2017",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 609508.86
+  },
+  {
+    "date": "01/01/2018",
+    "description": "MARSHALL LTD YCTM6851100",
+    "amount": 1264660.27
+  },
+  {
+    "date": "01/04/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--XNHJ410",
+    "amount": 188869.7
+  },
+  {
+    "date": "01/08/2018",
+    "description": "KING, BROWNING AND WARD PAYMT GJH957",
+    "amount": 756454.54
+  },
+  {
+    "date": "01/11/2018",
+    "description": "JUSTWORKS PAYROLL 6095600",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/12/2018",
+    "description": "DOLLAR GENERAL*69188",
+    "amount": -1099.12
+  },
+  {
+    "date": "01/13/2018",
+    "description": "JIMENEZ-VANG PAYMT 11208",
+    "amount": 1299194.38
+  },
+  {
+    "date": "01/14/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 641961.56
+  },
+  {
+    "date": "01/15/2018",
+    "description": "ALEXANDER LTD BNFV5476953383",
+    "amount": 745907.62
+  },
+  {
+    "date": "01/18/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--KPFI497941",
+    "amount": 197767.28
+  },
+  {
+    "date": "01/22/2018",
+    "description": "KING, BROWNING AND WARD PAYMT SWL0922",
+    "amount": 640104.41
+  },
+  {
+    "date": "01/25/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 091293",
+    "amount": -611.75
+  },
+  {
+    "date": "01/25/2018",
+    "description": "HALL-CLARK MEMBERSHIP 49491",
+    "amount": 157.95
+  },
+  {
+    "date": "01/26/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 30WZ40",
+    "amount": -582.16
+  },
+  {
+    "date": "01/26/2018",
+    "description": "JUSTWORKS PAYROLL 87U635",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/26/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.61
+  },
+  {
+    "date": "01/27/2018",
+    "description": "JIMENEZ-VANG PAYMT 20387",
+    "amount": 1432334.64
+  },
+  {
+    "date": "01/28/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 684408.35
+  },
+  {
+    "date": "01/30/2018",
+    "description": "HALL-CLARK MEMBERSHIP 79001",
+    "amount": 125.27
+  },
+  {
+    "date": "01/30/2018",
+    "description": "MARSHALL LTD SSKS8606646927319",
+    "amount": 1460110.13
+  },
+  {
+    "date": "02/01/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--UUHH9567207565",
+    "amount": 248418.07
+  },
+  {
+    "date": "02/03/2018",
+    "description": "HALL-CLARK MEMBERSHIP 49151",
+    "amount": 242.74
+  },
+  {
+    "date": "02/05/2018",
+    "description": "MCDONALD'S LFV530",
+    "amount": -32.29
+  },
+  {
+    "date": "02/05/2018",
+    "description": "KING, BROWNING AND WARD PAYMT RWX0476",
+    "amount": 696378.9
+  },
+  {
+    "date": "02/09/2018",
+    "description": "DOLLAR GENERAL*61883",
+    "amount": -1095.39
+  },
+  {
+    "date": "02/10/2018",
+    "description": "JUSTWORKS PAYROLL 68SB10",
+    "amount": -270000.0
+  },
+  {
+    "date": "02/10/2018",
+    "description": "JIMENEZ-VANG PAYMT 33719",
+    "amount": 1444278.57
+  },
+  {
+    "date": "02/11/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 559865.9
+  },
+  {
+    "date": "02/13/2018",
+    "description": "DOLLAR GENERAL*77426",
+    "amount": -1093.83
+  },
+  {
+    "date": "02/13/2018",
+    "description": "ALEXANDER LTD FAPW953410167266",
+    "amount": 684756.36
+  },
+  {
+    "date": "02/15/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--NCIE234",
+    "amount": 209971.52
+  },
+  {
+    "date": "02/18/2018",
+    "description": "PETCO ANIMAL SUPPLIES WSEA2978902537193",
+    "amount": -890.9
+  },
+  {
+    "date": "02/19/2018",
+    "description": "KING, BROWNING AND WARD PAYMT IRT5195",
+    "amount": 554105.41
+  },
+  {
+    "date": "02/24/2018",
+    "description": "JIMENEZ-VANG PAYMT 09204",
+    "amount": 1341161.79
+  },
+  {
+    "date": "02/25/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE VGUX3237368595454",
+    "amount": -935.01
+  },
+  {
+    "date": "02/25/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 574658.81
+  },
+  {
+    "date": "02/25/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 347731.86
+  },
+  {
+    "date": "02/26/2018",
+    "description": "JUSTWORKS PAYROLL 4P697",
+    "amount": -270000.0
+  },
+  {
+    "date": "02/26/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.15
+  },
+  {
+    "date": "02/27/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE UFHX6228031288626",
+    "amount": -858.83
+  },
+  {
+    "date": "03/01/2018",
+    "description": "HALL-CLARK MEMBERSHIP 06671",
+    "amount": 50.26
+  },
+  {
+    "date": "03/01/2018",
+    "description": "MARSHALL LTD MLBK89406056673",
+    "amount": 1376840.73
+  },
+  {
+    "date": "03/01/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--BSIZ83169",
+    "amount": 183403.24
+  },
+  {
+    "date": "03/04/2018",
+    "description": "PETCO ANIMAL SUPPLIES TGRC98918",
+    "amount": -881.0
+  },
+  {
+    "date": "03/05/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 989IZO",
+    "amount": 644953.14
+  },
+  {
+    "date": "03/06/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 8WY20",
+    "amount": -449.35
+  },
+  {
+    "date": "03/07/2018",
+    "description": "HOWARD, ROMERO AND SCHWARTZ CREDIT 888IDS",
+    "amount": 270732.4
+  },
+  {
+    "date": "03/10/2018",
+    "description": "JIMENEZ-VANG PAYMT 38251",
+    "amount": 1362704.07
+  },
+  {
+    "date": "03/11/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 525237.16
+  },
+  {
+    "date": "03/12/2018",
+    "description": "JUSTWORKS PAYROLL AZT6258",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/14/2018",
+    "description": "DOLLAR GENERAL*86934",
+    "amount": -1103.54
+  },
+  {
+    "date": "03/15/2018",
+    "description": "ALEXANDER LTD HQKU16",
+    "amount": 671571.71
+  },
+  {
+    "date": "03/15/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--YTKQ3081251620683",
+    "amount": 212227.19
+  },
+  {
+    "date": "03/19/2018",
+    "description": "HALL-CLARK MEMBERSHIP 75788",
+    "amount": 125.24
+  },
+  {
+    "date": "03/19/2018",
+    "description": "KING, BROWNING AND WARD PAYMT XXG291",
+    "amount": 602644.46
+  },
+  {
+    "date": "03/21/2018",
+    "description": "GAMESTOP 77158",
+    "amount": -19.76
+  },
+  {
+    "date": "03/23/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE EBUU23317438357",
+    "amount": -1087.18
+  },
+  {
+    "date": "03/24/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE PUPD43",
+    "amount": -932.55
+  },
+  {
+    "date": "03/24/2018",
+    "description": "JIMENEZ-VANG PAYMT 40383",
+    "amount": 1324338.96
+  },
+  {
+    "date": "03/25/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 667916.61
+  },
+  {
+    "date": "03/27/2018",
+    "description": "JUSTWORKS PAYROLL JYL943",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/27/2018",
+    "description": "MENARD",
+    "amount": -99.25
+  },
+  {
+    "date": "03/27/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -94.18
+  },
+  {
+    "date": "03/29/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--FSJE750744545424",
+    "amount": 186534.16
+  },
+  {
+    "date": "03/31/2018",
+    "description": "MARSHALL LTD CSWD144823738552",
+    "amount": 1359971.86
+  },
+  {
+    "date": "04/02/2018",
+    "description": "KING, BROWNING AND WARD PAYMT MUJ812",
+    "amount": 654568.07
+  },
+  {
+    "date": "04/07/2018",
+    "description": "JIMENEZ-VANG PAYMT 66768",
+    "amount": 1280764.41
+  },
+  {
+    "date": "04/08/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 664552.0
+  },
+  {
+    "date": "04/11/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE XYNY017550",
+    "amount": -979.73
+  },
+  {
+    "date": "04/11/2018",
+    "description": "JUSTWORKS PAYROLL 666840W",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/12/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--RGPJ1134849907394",
+    "amount": 212809.98
+  },
+  {
+    "date": "04/14/2018",
+    "description": "ALEXANDER LTD DFZZ5299407732422",
+    "amount": 641667.61
+  },
+  {
+    "date": "04/16/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 617XHH",
+    "amount": 671150.41
+  },
+  {
+    "date": "04/18/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT KA7U7C",
+    "amount": -1263.99
+  },
+  {
+    "date": "04/19/2018",
+    "description": "WAKEFERN 63752",
+    "amount": -1267.22
+  },
+  {
+    "date": "04/20/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT T8943W",
+    "amount": -1252.14
+  },
+  {
+    "date": "04/21/2018",
+    "description": "JIMENEZ-VANG PAYMT 33186",
+    "amount": 1444851.52
+  },
+  {
+    "date": "04/22/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 653520.91
+  },
+  {
+    "date": "04/26/2018",
+    "description": "JUSTWORKS PAYROLL 619JZYO",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/26/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.8
+  },
+  {
+    "date": "04/26/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 392280.56
+  },
+  {
+    "date": "04/26/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--YUNZ435930032",
+    "amount": 179335.2
+  },
+  {
+    "date": "04/28/2018",
+    "description": "WAKEFERN 52797",
+    "amount": -1260.59
+  },
+  {
+    "date": "04/28/2018",
+    "description": "DOLLAR GENERAL*85698",
+    "amount": -1110.47
+  },
+  {
+    "date": "04/30/2018",
+    "description": "MARSHALL LTD BEIT609044073107",
+    "amount": 1391842.55
+  },
+  {
+    "date": "04/30/2018",
+    "description": "KING, BROWNING AND WARD PAYMT EA3793",
+    "amount": 609565.82
+  },
+  {
+    "date": "05/01/2018",
+    "description": "HALL-CLARK MEMBERSHIP 04003",
+    "amount": 210.6
+  },
+  {
+    "date": "05/02/2018",
+    "description": "PETSMART--00589",
     "amount": -35.6
   },
   {
-    "date": "01/11/2019",
-    "description": "TRACTOR SUPPLY CO. 35925",
-    "amount": -390.73
+    "date": "05/05/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--31963",
+    "amount": -804.35
   },
   {
-    "date": "01/11/2019",
-    "description": "MILLER-LEE*PAYMT*038CZX",
-    "amount": 1016621.19
+    "date": "05/05/2018",
+    "description": "JIMENEZ-VANG PAYMT 86977",
+    "amount": 1314090.9
+  },
+  {
+    "date": "05/06/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 566874.02
+  },
+  {
+    "date": "05/07/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 7O54877",
+    "amount": -1319.0
+  },
+  {
+    "date": "05/07/2018",
+    "description": "WAKEFERN 02778",
+    "amount": -1269.01
+  },
+  {
+    "date": "05/10/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--IFUO36586065030",
+    "amount": 205529.28
+  },
+  {
+    "date": "05/11/2018",
+    "description": "HALL-CLARK MEMBERSHIP 98982",
+    "amount": 212.11
+  },
+  {
+    "date": "05/11/2018",
+    "description": "JUSTWORKS PAYROLL 6518",
+    "amount": -270000.0
+  },
+  {
+    "date": "05/14/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE DMEU681258",
+    "amount": -874.49
+  },
+  {
+    "date": "05/14/2018",
+    "description": "PETCO ANIMAL SUPPLIES LTDT1169325748918",
+    "amount": -908.18
+  },
+  {
+    "date": "05/14/2018",
+    "description": "ALEXANDER LTD LTVS7349387858396",
+    "amount": 671945.29
+  },
+  {
+    "date": "05/14/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 5YEM30",
+    "amount": 609646.23
+  },
+  {
+    "date": "05/19/2018",
+    "description": "JIMENEZ-VANG PAYMT 95608",
+    "amount": 1400185.54
+  },
+  {
+    "date": "05/20/2018",
+    "description": "PETCO ANIMAL SUPPLIES PZNH5711587427509",
+    "amount": -892.47
+  },
+  {
+    "date": "05/20/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 576264.12
+  },
+  {
+    "date": "05/24/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--MYJQ33599017",
+    "amount": 179217.14
+  },
+  {
+    "date": "05/26/2018",
+    "description": "JUSTWORKS PAYROLL 98EBX8",
+    "amount": -270000.0
+  },
+  {
+    "date": "05/26/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -99.69
+  },
+  {
+    "date": "05/26/2018",
+    "description": "DOLLAR GENERAL*02002",
+    "amount": -1102.32
+  },
+  {
+    "date": "05/28/2018",
+    "description": "PETCO ANIMAL SUPPLIES ZPSL878391846",
+    "amount": -901.68
+  },
+  {
+    "date": "05/28/2018",
+    "description": "KING, BROWNING AND WARD PAYMT XOJ2098",
+    "amount": 571922.49
+  },
+  {
+    "date": "05/30/2018",
+    "description": "MARSHALL LTD CYPO22",
+    "amount": 1413529.97
+  },
+  {
+    "date": "06/02/2018",
+    "description": "HALL-CLARK MEMBERSHIP 38547",
+    "amount": 89.05
+  },
+  {
+    "date": "06/02/2018",
+    "description": "JIMENEZ-VANG PAYMT 73318",
+    "amount": 1388006.14
+  },
+  {
+    "date": "06/03/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 598423.42
+  },
+  {
+    "date": "06/04/2018",
+    "description": "HALL-CLARK MEMBERSHIP 46999",
+    "amount": 148.71
+  },
+  {
+    "date": "06/06/2018",
+    "description": "MCDONALD'S MCR535",
+    "amount": -18.87
+  },
+  {
+    "date": "06/07/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--HKRI94",
+    "amount": 218073.75
+  },
+  {
+    "date": "06/08/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 689488",
+    "amount": -679.76
+  },
+  {
+    "date": "06/11/2018",
+    "description": "JUSTWORKS PAYROLL HZW7801",
+    "amount": -270000.0
+  },
+  {
+    "date": "06/11/2018",
+    "description": "KING, BROWNING AND WARD PAYMT XRO263",
+    "amount": 611202.18
+  },
+  {
+    "date": "06/13/2018",
+    "description": "ALEXANDER LTD NFLT8140664491016",
+    "amount": 607271.23
+  },
+  {
+    "date": "06/14/2018",
+    "description": "DOLLAR GENERAL*72905",
+    "amount": -1093.2
+  },
+  {
+    "date": "06/16/2018",
+    "description": "JIMENEZ-VANG PAYMT 65031",
+    "amount": 1328640.1
+  },
+  {
+    "date": "06/17/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT O5497R",
+    "amount": -1254.91
+  },
+  {
+    "date": "06/17/2018",
+    "description": "PETCO ANIMAL SUPPLIES QCMA87693514977",
+    "amount": -877.72
+  },
+  {
+    "date": "06/17/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 608392.29
+  },
+  {
+    "date": "06/21/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--TEQV5729226",
+    "amount": 51288.28
+  },
+  {
+    "date": "06/25/2018",
+    "description": "JUSTWORKS PAYROLL YI59133",
+    "amount": -270000.0
+  },
+  {
+    "date": "06/25/2018",
+    "description": "MENARD",
+    "amount": -96.15
+  },
+  {
+    "date": "06/25/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -97.44
+  },
+  {
+    "date": "06/25/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 267945.14
+  },
+  {
+    "date": "06/25/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 4CJ4388",
+    "amount": 613150.93
+  },
+  {
+    "date": "06/28/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 191767",
+    "amount": -1204.04
+  },
+  {
+    "date": "06/28/2018",
+    "description": "HOLT GROUP RECEIVABLES QJIE360598",
+    "amount": 84622.26
+  },
+  {
+    "date": "06/29/2018",
+    "description": "MARSHALL LTD MPRL5020489594",
+    "amount": 1369957.36
+  },
+  {
+    "date": "06/30/2018",
+    "description": "JIMENEZ-VANG PAYMT 19169",
+    "amount": 1413193.12
+  },
+  {
+    "date": "07/01/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 710482.3
+  },
+  {
+    "date": "07/04/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT CBA117",
+    "amount": -1298.26
+  },
+  {
+    "date": "07/05/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--MPZE600029081355",
+    "amount": 216458.33
+  },
+  {
+    "date": "07/09/2018",
+    "description": "KING, BROWNING AND WARD PAYMT YEH088",
+    "amount": 688776.19
+  },
+  {
+    "date": "07/10/2018",
+    "description": "JUSTWORKS PAYROLL 10H1023",
+    "amount": -270000.0
+  },
+  {
+    "date": "07/13/2018",
+    "description": "WAKEFERN 69635",
+    "amount": -1279.66
+  },
+  {
+    "date": "07/13/2018",
+    "description": "DOLLAR GENERAL*20467",
+    "amount": -1116.78
+  },
+  {
+    "date": "07/13/2018",
+    "description": "ALEXANDER LTD MGPJ068096",
+    "amount": 753845.9
+  },
+  {
+    "date": "07/14/2018",
+    "description": "JIMENEZ-VANG PAYMT 89183",
+    "amount": 1413407.49
+  },
+  {
+    "date": "07/15/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 554690.45
+  },
+  {
+    "date": "07/19/2018",
+    "description": "WAKEFERN 44050",
+    "amount": -1273.06
+  },
+  {
+    "date": "07/19/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--RBHS4312490895024",
+    "amount": 184484.76
+  },
+  {
+    "date": "07/21/2018",
+    "description": "PETCO ANIMAL SUPPLIES SRVP56710",
+    "amount": -897.12
+  },
+  {
+    "date": "07/23/2018",
+    "description": "KING, BROWNING AND WARD PAYMT O569639",
+    "amount": 633185.98
+  },
+  {
+    "date": "07/25/2018",
+    "description": "JUSTWORKS PAYROLL D848538",
+    "amount": -270000.0
+  },
+  {
+    "date": "07/25/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.09
+  },
+  {
+    "date": "07/28/2018",
+    "description": "JIMENEZ-VANG PAYMT 10862",
+    "amount": 1283035.02
+  },
+  {
+    "date": "07/29/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 541617.53
+  },
+  {
+    "date": "07/30/2018",
+    "description": "MARSHALL LTD HRWG09931972245",
+    "amount": 1363840.39
+  },
+  {
+    "date": "07/31/2018",
+    "description": "WAKEFERN 40707",
+    "amount": -1295.89
+  },
+  {
+    "date": "08/01/2018",
+    "description": "PETCO ANIMAL SUPPLIES KSBL2425193",
+    "amount": -858.15
+  },
+  {
+    "date": "08/02/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--KZQQ9185751626405",
+    "amount": 237836.46
+  },
+  {
+    "date": "08/06/2018",
+    "description": "KING, BROWNING AND WARD PAYMT IT43904",
+    "amount": 573041.83
+  },
+  {
+    "date": "08/08/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT ZZJ586",
+    "amount": -958.44
+  },
+  {
+    "date": "08/09/2018",
+    "description": "JUSTWORKS PAYROLL MSJ668",
+    "amount": -270000.0
+  },
+  {
+    "date": "08/11/2018",
+    "description": "JIMENEZ-VANG PAYMT 09760",
+    "amount": 1432774.95
+  },
+  {
+    "date": "08/12/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 614251.45
+  },
+  {
+    "date": "08/13/2018",
+    "description": "ALEXANDER LTD QENZ20911498",
+    "amount": 708609.33
+  },
+  {
+    "date": "08/16/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--YCCK44",
+    "amount": 190922.44
+  },
+  {
+    "date": "08/20/2018",
+    "description": "KING, BROWNING AND WARD PAYMT HYB867",
+    "amount": 748281.25
+  },
+  {
+    "date": "08/24/2018",
+    "description": "JUSTWORKS PAYROLL 486KGL",
+    "amount": -270000.0
+  },
+  {
+    "date": "08/24/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.71
+  },
+  {
+    "date": "08/24/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 296559.04
+  },
+  {
+    "date": "08/25/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE DNUO7560399709801",
+    "amount": -1022.48
+  },
+  {
+    "date": "08/25/2018",
+    "description": "JIMENEZ-VANG PAYMT 54583",
+    "amount": 1388063.19
+  },
+  {
+    "date": "08/26/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 673200.45
+  },
+  {
+    "date": "08/28/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 6CNB91",
+    "amount": -1446.03
+  },
+  {
+    "date": "08/28/2018",
+    "description": "MARSHALL LTD BYMK98345252",
+    "amount": 1536773.83
+  },
+  {
+    "date": "08/30/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--IKBT3848",
+    "amount": 189858.74
+  },
+  {
+    "date": "09/01/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE UURQ415885427333",
+    "amount": -1163.99
+  },
+  {
+    "date": "09/03/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 8JOW01",
+    "amount": 606263.24
+  },
+  {
+    "date": "09/04/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 0LR4487",
+    "amount": -441.26
+  },
+  {
+    "date": "09/08/2018",
+    "description": "JUSTWORKS PAYROLL 0HG9685",
+    "amount": -270000.0
+  },
+  {
+    "date": "09/08/2018",
+    "description": "JIMENEZ-VANG PAYMT 67250",
+    "amount": 1378215.3
+  },
+  {
+    "date": "09/09/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 593163.69
+  },
+  {
+    "date": "09/11/2018",
+    "description": "ALEXANDER LTD DJRS4257",
+    "amount": 673300.79
+  },
+  {
+    "date": "09/12/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 151VIZ",
+    "amount": -1103.82
+  },
+  {
+    "date": "09/13/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--INOY916",
+    "amount": 77521.48
+  },
+  {
+    "date": "09/17/2018",
+    "description": "WAKEFERN 73564",
+    "amount": -1290.78
+  },
+  {
+    "date": "09/17/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 4D836",
+    "amount": 656599.21
+  },
+  {
+    "date": "09/18/2018",
+    "description": "WAKEFERN 29520",
+    "amount": -1286.01
+  },
+  {
+    "date": "09/21/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE ZJWP3539395102609",
+    "amount": -1137.09
+  },
+  {
+    "date": "09/22/2018",
+    "description": "PATTERSON, RILEY AND SANCHEZ INVOICE RFPN7495302738808",
+    "amount": -1044.32
+  },
+  {
+    "date": "09/22/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 795ZPZ",
+    "amount": -476.53
+  },
+  {
+    "date": "09/22/2018",
+    "description": "JIMENEZ-VANG PAYMT 13187",
+    "amount": 1359368.92
+  },
+  {
+    "date": "09/23/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 727869.29
+  },
+  {
+    "date": "09/24/2018",
+    "description": "JUSTWORKS PAYROLL WOD241",
+    "amount": -270000.0
+  },
+  {
+    "date": "09/24/2018",
+    "description": "MENARD",
+    "amount": -95.82
+  },
+  {
+    "date": "09/24/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.75
+  },
+  {
+    "date": "09/25/2018",
+    "description": "WAKEFERN 73760",
+    "amount": -1271.55
+  },
+  {
+    "date": "09/27/2018",
+    "description": "MARSHALL LTD IDJA620537669981",
+    "amount": 1438664.95
+  },
+  {
+    "date": "09/27/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--ZYNQ404800090012",
+    "amount": 39432.5
+  },
+  {
+    "date": "10/01/2018",
+    "description": "KING, BROWNING AND WARD PAYMT JAO510",
+    "amount": 483265.92
+  },
+  {
+    "date": "10/06/2018",
+    "description": "JIMENEZ-VANG PAYMT 76452",
+    "amount": 1511290.97
+  },
+  {
+    "date": "10/07/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 589937.27
+  },
+  {
+    "date": "10/08/2018",
+    "description": "JUSTWORKS PAYROLL QFU798",
+    "amount": -270000.0
+  },
+  {
+    "date": "10/08/2018",
+    "description": "DOLLAR GENERAL*87874",
+    "amount": -1088.17
+  },
+  {
+    "date": "10/10/2018",
+    "description": "WAKEFERN 75296",
+    "amount": -1278.44
+  },
+  {
+    "date": "10/11/2018",
+    "description": "ALEXANDER LTD OZWP2647992643069",
+    "amount": 612804.82
+  },
+  {
+    "date": "10/11/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--PGOB365142",
+    "amount": 184491.9
+  },
+  {
+    "date": "10/12/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--98484",
+    "amount": -1016.09
+  },
+  {
+    "date": "10/15/2018",
+    "description": "KING, BROWNING AND WARD PAYMT BH7988",
+    "amount": 613022.4
+  },
+  {
+    "date": "10/20/2018",
+    "description": "JIMENEZ-VANG PAYMT 54015",
+    "amount": 1408829.04
+  },
+  {
+    "date": "10/21/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 575998.47
+  },
+  {
+    "date": "10/23/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT IC56526",
+    "amount": -666.87
+  },
+  {
+    "date": "10/23/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--47346",
+    "amount": -986.69
+  },
+  {
+    "date": "10/23/2018",
+    "description": "JUSTWORKS PAYROLL GIE396",
+    "amount": -270000.0
+  },
+  {
+    "date": "10/23/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -101.88
+  },
+  {
+    "date": "10/23/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 461012.51
+  },
+  {
+    "date": "10/25/2018",
+    "description": "HALL-CLARK MEMBERSHIP 76934",
+    "amount": 147.34
+  },
+  {
+    "date": "10/25/2018",
+    "description": "DOLLAR GENERAL*28884",
+    "amount": -1115.23
+  },
+  {
+    "date": "10/25/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--ELNS62885400514",
+    "amount": 241130.68
+  },
+  {
+    "date": "10/27/2018",
+    "description": "MARSHALL LTD CWHA20096976023",
+    "amount": 1528955.41
+  },
+  {
+    "date": "10/29/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 3MXS30",
+    "amount": -603.68
+  },
+  {
+    "date": "10/29/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 2XJ22",
+    "amount": -1196.52
+  },
+  {
+    "date": "10/29/2018",
+    "description": "KING, BROWNING AND WARD PAYMT QBZ175",
+    "amount": 650023.8
+  },
+  {
+    "date": "11/03/2018",
+    "description": "JIMENEZ-VANG PAYMT 53386",
+    "amount": 1404728.92
+  },
+  {
+    "date": "11/04/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 559040.5
+  },
+  {
+    "date": "11/07/2018",
+    "description": "JUSTWORKS PAYROLL CGN906",
+    "amount": -270000.0
+  },
+  {
+    "date": "11/08/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--XSDF8068451859542",
+    "amount": 239210.38
+  },
+  {
+    "date": "11/10/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT Z158VD",
+    "amount": -480.4
+  },
+  {
+    "date": "11/10/2018",
+    "description": "ALEXANDER LTD XNCQ5549935",
+    "amount": 675354.79
+  },
+  {
+    "date": "11/11/2018",
+    "description": "DOLLAR GENERAL*78719",
+    "amount": -1113.76
+  },
+  {
+    "date": "11/12/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 92545S",
+    "amount": 622728.08
+  },
+  {
+    "date": "11/16/2018",
+    "description": "DOLLAR GENERAL*55526",
+    "amount": -1100.28
+  },
+  {
+    "date": "11/17/2018",
+    "description": "JIMENEZ-VANG PAYMT 05902",
+    "amount": 1444497.13
+  },
+  {
+    "date": "11/18/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 513939.46
+  },
+  {
+    "date": "11/22/2018",
+    "description": "JUSTWORKS PAYROLL MEF045",
+    "amount": -270000.0
+  },
+  {
+    "date": "11/22/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -102.52
+  },
+  {
+    "date": "11/22/2018",
+    "description": "WAKEFERN 52703",
+    "amount": -1265.23
+  },
+  {
+    "date": "11/22/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--XBTU06928768596",
+    "amount": 184194.16
+  },
+  {
+    "date": "11/26/2018",
+    "description": "MARSHALL LTD ETDR1429175080563",
+    "amount": 1523864.58
+  },
+  {
+    "date": "11/26/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 480470L",
+    "amount": 607246.21
+  },
+  {
+    "date": "12/01/2018",
+    "description": "JIMENEZ-VANG PAYMT 96677",
+    "amount": 1488039.71
+  },
+  {
+    "date": "12/01/2018",
+    "description": "BOOKER, SANCHEZ AND WOLFE AR 27OT73",
+    "amount": 434328.66
+  },
+  {
+    "date": "12/02/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 724779.82
+  },
+  {
+    "date": "12/03/2018",
+    "description": "HALL-CLARK MEMBERSHIP 82468",
+    "amount": 193.77
+  },
+  {
+    "date": "12/06/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--PZAE34",
+    "amount": 22304.93
+  },
+  {
+    "date": "12/07/2018",
+    "description": "JUSTWORKS PAYROLL 988LVXH",
+    "amount": -270000.0
+  },
+  {
+    "date": "12/09/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 908RXD",
+    "amount": -1282.0
+  },
+  {
+    "date": "12/10/2018",
+    "description": "ALEXANDER LTD XAOJ0102701",
+    "amount": 699409.05
+  },
+  {
+    "date": "12/10/2018",
+    "description": "KING, BROWNING AND WARD PAYMT 91AQ19",
+    "amount": 673090.75
+  },
+  {
+    "date": "12/11/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--62664",
+    "amount": -763.5
+  },
+  {
+    "date": "12/12/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 49OE20",
+    "amount": -1155.33
+  },
+  {
+    "date": "12/15/2018",
+    "description": "JIMENEZ-VANG PAYMT 10527",
+    "amount": 1286108.6
+  },
+  {
+    "date": "12/16/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 578151.83
+  },
+  {
+    "date": "12/18/2018",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 727KFD",
+    "amount": -1108.77
+  },
+  {
+    "date": "12/19/2018",
+    "description": "DOLLAR GENERAL*24640",
+    "amount": -1093.05
+  },
+  {
+    "date": "12/20/2018",
+    "description": "PETCO ANIMAL SUPPLIES VGCQ147363",
+    "amount": -886.17
+  },
+  {
+    "date": "12/20/2018",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--UDJY221021577494",
+    "amount": 61698.94
+  },
+  {
+    "date": "12/22/2018",
+    "description": "JUSTWORKS PAYROLL 630YZZ",
+    "amount": -270000.0
+  },
+  {
+    "date": "12/22/2018",
+    "description": "MENARD",
+    "amount": -100.69
+  },
+  {
+    "date": "12/22/2018",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.01
+  },
+  {
+    "date": "12/22/2018",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 314343.79
+  },
+  {
+    "date": "12/24/2018",
+    "description": "KING, BROWNING AND WARD PAYMT ZYL206",
+    "amount": 598296.73
+  },
+  {
+    "date": "12/25/2018",
+    "description": "SANCHEZ-YOUNG--BILLPAY--55216",
+    "amount": -733.94
+  },
+  {
+    "date": "12/25/2018",
+    "description": "DOLLAR GENERAL*08833",
+    "amount": -1117.45
+  },
+  {
+    "date": "12/26/2018",
+    "description": "MARSHALL LTD XEUY8235221765484",
+    "amount": 1456052.09
+  },
+  {
+    "date": "12/27/2018",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT 711019",
+    "amount": -646.39
+  },
+  {
+    "date": "12/29/2018",
+    "description": "JIMENEZ-VANG PAYMT 40545",
+    "amount": 1330097.97
+  },
+  {
+    "date": "12/30/2018",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 574941.93
+  },
+  {
+    "date": "01/02/2019",
+    "description": "DOLLAR GENERAL*72408",
+    "amount": -1117.42
+  },
+  {
+    "date": "01/03/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--ZUSO78962049",
+    "amount": 214421.17
+  },
+  {
+    "date": "01/07/2019",
+    "description": "JUSTWORKS PAYROLL FGL565",
+    "amount": -270000.0
+  },
+  {
+    "date": "01/07/2019",
+    "description": "WAKEFERN 65342",
+    "amount": -1265.52
+  },
+  {
+    "date": "01/07/2019",
+    "description": "KING, BROWNING AND WARD PAYMT JSK9739",
+    "amount": 613133.51
+  },
+  {
+    "date": "01/09/2019",
+    "description": "ALEXANDER LTD NRIL946776",
+    "amount": 710077.48
+  },
+  {
+    "date": "01/10/2019",
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT DGV7246",
+    "amount": -464.83
+  },
+  {
+    "date": "01/10/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 8IDS028",
+    "amount": -1375.07
   },
   {
     "date": "01/12/2019",
-    "description": "ASCENA RETAIL GROUP--CATY38",
-    "amount": -976.62
+    "description": "JIMENEZ-VANG PAYMT 50900",
+    "amount": 1357173.87
   },
   {
     "date": "01/13/2019",
-    "description": "DICK'S SPORTING GOODS 49395",
-    "amount": -1636.11
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 610872.23
   },
   {
     "date": "01/14/2019",
-    "description": "RIVERA, LLOYD AND KING MEMBERSHIP 3DPC78",
-    "amount": 648.6
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT HIB3414",
+    "amount": -405.68
   },
   {
     "date": "01/14/2019",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -97.7
+    "description": "SANCHEZ-YOUNG--BILLPAY--74393",
+    "amount": -1028.31
   },
   {
-    "date": "01/14/2019",
-    "description": "DILLARD'S",
-    "amount": -98.14
-  },
-  {
-    "date": "01/14/2019",
-    "description": "RODRIGUEZ PLC 71712",
-    "amount": 566880.762
-  },
-  {
-    "date": "01/15/2019",
-    "description": "BOONE PLC*INVOICE*3V6259",
-    "amount": -616.02
-  },
-  {
-    "date": "01/15/2019",
-    "description": "GAP--83091",
-    "amount": -850.25
-  },
-  {
-    "date": "01/15/2019",
-    "description": "HUERTA-DELEON PAYMT BSKX47",
-    "amount": 265985.24580000003
-  },
-  {
-    "date": "01/16/2019",
-    "description": "WILLIAMS-SONOMA JVVS92",
-    "amount": -708.58
+    "date": "01/17/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--HMUW570833865",
+    "amount": 177933.48
   },
   {
     "date": "01/18/2019",
-    "description": "L BRANDS BGBI72",
-    "amount": -1159.56
-  },
-  {
-    "date": "01/19/2019",
-    "description": "DUNKIN' BRANDS GROUP HSGD64",
-    "amount": -767.96
+    "description": "WEGMANS FOOD MARKET 70312",
+    "amount": -24.18
   },
   {
     "date": "01/20/2019",
-    "description": "CHICK-FIL-A HZUU46",
-    "amount": -1412.85
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT MYC187",
+    "amount": -516.93
   },
   {
     "date": "01/20/2019",
-    "description": "IKEA NORTH AMERICAN SVCS. 83016",
-    "amount": -1175.96
+    "description": "YUM! BRANDS 2D6717R",
+    "amount": -28.78
   },
   {
     "date": "01/21/2019",
-    "description": "JUSTWORKS PAYROLL 064JBR",
-    "amount": -420000.0
+    "description": "JUSTWORKS PAYROLL IO6D0B",
+    "amount": -270000.0
   },
   {
     "date": "01/21/2019",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -100.64
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.58
   },
   {
     "date": "01/21/2019",
-    "description": "SEPHORA (LVMH)",
-    "amount": -101.17
-  },
-  {
-    "date": "01/22/2019",
-    "description": "MENDEZ-FREEMAN*INTEREST PAYMT*WMI612",
-    "amount": -1131.78
-  },
-  {
-    "date": "01/22/2019",
-    "description": "GAMESTOP 80575",
-    "amount": -918.62
-  },
-  {
-    "date": "01/23/2019",
-    "description": "AT&T WIRELESS 19984",
-    "amount": -1132.55
-  },
-  {
-    "date": "01/24/2019",
-    "description": "PEREZ AND SONS VOHL23",
-    "amount": 290485.732
+    "description": "KING, BROWNING AND WARD PAYMT HHGY68",
+    "amount": 610797.57
   },
   {
     "date": "01/25/2019",
-    "description": "MILLER-LEE*PAYMT*992QNS",
-    "amount": 882617.6
+    "description": "MARSHALL LTD UGXD7031812025989",
+    "amount": 1443507.05
+  },
+  {
+    "date": "01/26/2019",
+    "description": "JIMENEZ-VANG PAYMT 28563",
+    "amount": 1464719.79
   },
   {
     "date": "01/27/2019",
-    "description": "NORDSTROM KWX090",
-    "amount": -202.34
-  },
-  {
-    "date": "01/27/2019",
-    "description": "SAKS FIFTH AVENUE 84708",
-    "amount": -1343.69
-  },
-  {
-    "date": "01/27/2019",
-    "description": "IKEA NORTH AMERICAN SVCS. 04577",
-    "amount": -1187.48
-  },
-  {
-    "date": "01/28/2019",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -98.86
-  },
-  {
-    "date": "01/28/2019",
-    "description": "DILLARD'S",
-    "amount": -102.5
-  },
-  {
-    "date": "01/29/2019",
-    "description": "WENDY'S 42164",
-    "amount": -1014.99
-  },
-  {
-    "date": "01/29/2019",
-    "description": "DICK'S SPORTING GOODS 54962",
-    "amount": -1664.94
-  },
-  {
-    "date": "01/30/2019",
-    "description": "BIG LOTS XYGQ31",
-    "amount": -26.62
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 609499.37
   },
   {
     "date": "01/31/2019",
-    "description": "GARCIA, INGRAM AND KIDD PAYMT WTUY76",
-    "amount": 142522.05392700003
-  },
-  {
-    "date": "02/01/2019",
-    "description": "ASCENA RETAIL GROUP--KPEW64",
-    "amount": -999.82
-  },
-  {
-    "date": "02/03/2019",
-    "description": "L BRANDS BWZK35",
-    "amount": -1170.74
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--EGND6564682",
+    "amount": 192520.77
   },
   {
     "date": "02/04/2019",
-    "description": "GAMESTOP 10278",
-    "amount": -910.2
+    "description": "KING, BROWNING AND WARD PAYMT 061OUZ",
+    "amount": 600627.78
   },
   {
     "date": "02/05/2019",
-    "description": "JUSTWORKS PAYROLL 451QUF",
-    "amount": -42000.0
+    "description": "MARTINEZ-HUYNH CREDIT CARD PAYMENT F437BT",
+    "amount": -539.31
   },
   {
-    "date": "02/06/2019",
-    "description": "L BRANDS QPYU03",
-    "amount": -1163.56
+    "date": "02/05/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 2I2820",
+    "amount": -1311.29
   },
   {
-    "date": "02/06/2019",
-    "description": "7-ELEVEN KMYL93",
-    "amount": -40.91
+    "date": "02/05/2019",
+    "description": "JUSTWORKS PAYROLL ZZW9984",
+    "amount": -270000.0
   },
   {
-    "date": "02/07/2019",
-    "description": "NORDSTROM 21070E",
-    "amount": -200.67
-  },
-  {
-    "date": "02/07/2019",
-    "description": "ULTA SALON, COSMETICS & FRAG*11374",
-    "amount": -23.87
+    "date": "02/05/2019",
+    "description": "WAKEFERN 12745",
+    "amount": -1264.47
   },
   {
     "date": "02/08/2019",
-    "description": "L BRANDS LPCK76",
-    "amount": -1189.61
+    "description": "ALEXANDER LTD PMRS4915",
+    "amount": 639877.12
   },
   {
-    "date": "02/08/2019",
-    "description": "MILLER-LEE*PAYMT*HWZ130",
-    "amount": 135556.446
+    "date": "02/09/2019",
+    "description": "JIMENEZ-VANG PAYMT 41097",
+    "amount": 1373158.88
   },
   {
     "date": "02/10/2019",
-    "description": "SHELL OIL COMPANY 22633",
-    "amount": -606.48
-  },
-  {
-    "date": "02/11/2019",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -100.39
-  },
-  {
-    "date": "02/11/2019",
-    "description": "DILLARD'S",
-    "amount": -98.35
-  },
-  {
-    "date": "02/12/2019",
-    "description": "AT&T WIRELESS 19814",
-    "amount": -1137.87
-  },
-  {
-    "date": "02/13/2019",
-    "description": "RODRIGUEZ PLC 94402",
-    "amount": 328790.84196
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 662899.2
   },
   {
     "date": "02/14/2019",
-    "description": "MENARD--JMSA97",
-    "amount": -639.07
-  },
-  {
-    "date": "02/14/2019",
-    "description": "AMAZON*WFA532",
-    "amount": -48.46
-  },
-  {
-    "date": "02/14/2019",
-    "description": "HUERTA-DELEON PAYMT RWHL10",
-    "amount": 127672.91798400001
-  },
-  {
-    "date": "02/16/2019",
-    "description": "BASS PRO*19034",
-    "amount": -60.91
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--URVJ17468996604",
+    "amount": 194637.19
   },
   {
     "date": "02/18/2019",
-    "description": "MENARD--ZCIS99",
-    "amount": -607.14
+    "description": "KING, BROWNING AND WARD PAYMT 054IQE",
+    "amount": 630911.06
   },
   {
-    "date": "02/18/2019",
-    "description": "ACADEMY 06204",
-    "amount": -1021.37
-  },
-  {
-    "date": "02/20/2019",
-    "description": "JUSTWORKS PAYROLL KVN860",
-    "amount": -21840.0
+    "date": "02/19/2019",
+    "description": "WAKEFERN 50222",
+    "amount": -1289.25
   },
   {
     "date": "02/20/2019",
-    "description": "EXXON MOBIL CORPORATION",
-    "amount": -98.25
+    "description": "JUSTWORKS PAYROLL KMP7696",
+    "amount": -270000.0
   },
   {
     "date": "02/20/2019",
-    "description": "SEPHORA (LVMH)",
-    "amount": -100.3
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -100.56
   },
   {
-    "date": "02/21/2019",
-    "description": "DARDEN RESTAURANTS--V6514K",
-    "amount": -1100.15
-  },
-  {
-    "date": "02/22/2019",
-    "description": "ASCENA RETAIL GROUP--PGQF99",
-    "amount": -1001.43
-  },
-  {
-    "date": "02/22/2019",
-    "description": "MILLER-LEE*PAYMT*922260",
-    "amount": 61000.400700000006
+    "date": "02/20/2019",
+    "description": "DAVIS LTD--PAYMT FOR SVCS",
+    "amount": 317486.39
   },
   {
     "date": "02/23/2019",
-    "description": "ACADEMY 28261",
-    "amount": -1008.67
-  },
-  {
-    "date": "02/23/2019",
-    "description": "QURATE RETAIL GROUP*58418",
-    "amount": -1414.4
-  },
-  {
-    "date": "02/23/2019",
-    "description": "DUNKIN' BRANDS GROUP EHQD40",
-    "amount": -736.5
-  },
-  {
-    "date": "02/23/2019",
-    "description": "DICK'S SPORTING GOODS 02906",
-    "amount": -1641.51
-  },
-  {
-    "date": "02/23/2019",
-    "description": "PEREZ AND SONS SUKO64",
-    "amount": 185910.86848
+    "description": "JIMENEZ-VANG PAYMT 46651",
+    "amount": 1479094.2
   },
   {
     "date": "02/24/2019",
-    "description": "DOLLAR TREE 91026",
-    "amount": -25.19
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 610972.19
   },
   {
     "date": "02/25/2019",
-    "description": "PETCO ANIMAL SUPPLIES",
-    "amount": -101.21
+    "description": "PETCO ANIMAL SUPPLIES DOYX50510634283",
+    "amount": -880.49
   },
   {
     "date": "02/25/2019",
-    "description": "DILLARD'S",
-    "amount": -97.63
-  },
-  {
-    "date": "02/27/2019",
-    "description": "SHELL OIL COMPANY 27860",
-    "amount": -607.02
-  },
-  {
-    "date": "02/27/2019",
-    "description": "L BRANDS IGEC26",
-    "amount": -1175.74
+    "description": "MARSHALL LTD AARA9853654844595",
+    "amount": 1447552.16
   },
   {
     "date": "02/28/2019",
-    "description": "GAMESTOP 03673",
-    "amount": -906.23
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--SPIW068",
+    "amount": 211163.34
+  },
+  {
+    "date": "03/04/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 9V497",
+    "amount": 635762.2
+  },
+  {
+    "date": "03/07/2019",
+    "description": "JUSTWORKS PAYROLL OSZ505",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/09/2019",
+    "description": "JIMENEZ-VANG PAYMT 74006",
+    "amount": 1416660.78
+  },
+  {
+    "date": "03/10/2019",
+    "description": "PETCO ANIMAL SUPPLIES AJEJ493508",
+    "amount": -887.39
+  },
+  {
+    "date": "03/10/2019",
+    "description": "HERNANDEZ, ACOSTA AND COBB INVOICED PAYABLES",
+    "amount": 697979.33
+  },
+  {
+    "date": "03/11/2019",
+    "description": "ALEXANDER LTD ARSB8697",
+    "amount": 721063.94
+  },
+  {
+    "date": "03/14/2019",
+    "description": "DOLLAR GENERAL*06840",
+    "amount": -1118.94
+  },
+  {
+    "date": "03/14/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--DBSL000",
+    "amount": 230910.38
+  },
+  {
+    "date": "03/17/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 993CPK",
+    "amount": -1021.23
+  },
+  {
+    "date": "03/17/2019",
+    "description": "PETCO ANIMAL SUPPLIES GFMT38512794",
+    "amount": -897.29
+  },
+  {
+    "date": "03/18/2019",
+    "description": "KING, BROWNING AND WARD PAYMT ZAH3683",
+    "amount": 651815.55
+  },
+  {
+    "date": "03/19/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 57H179",
+    "amount": -1179.49
+  },
+  {
+    "date": "03/20/2019",
+    "description": "PETCO ANIMAL SUPPLIES WHFO0563693625159",
+    "amount": -898.69
+  },
+  {
+    "date": "03/22/2019",
+    "description": "JUSTWORKS PAYROLL WR37186",
+    "amount": -270000.0
+  },
+  {
+    "date": "03/22/2019",
+    "description": "MENARD",
+    "amount": -101.45
+  },
+  {
+    "date": "03/22/2019",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -96.68
+  },
+  {
+    "date": "03/23/2019",
+    "description": "JIMENEZ-VANG PAYMT 02654",
+    "amount": 1376153.14
+  },
+  {
+    "date": "03/26/2019",
+    "description": "MARSHALL LTD GPXU6538621",
+    "amount": 1492859.03
+  },
+  {
+    "date": "03/28/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--BTJH82058530",
+    "amount": 184674.63
+  },
+  {
+    "date": "04/01/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 43090O",
+    "amount": 591260.66
+  },
+  {
+    "date": "04/02/2019",
+    "description": "MCCARTHY, LEWIS AND MOORE INTEREST PAYMT 11B\u2022328",
+    "amount": -1290.94
+  },
+  {
+    "date": "04/06/2019",
+    "description": "JUSTWORKS PAYROLL 441KGC",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/06/2019",
+    "description": "JIMENEZ-VANG PAYMT 97265",
+    "amount": 1362856.65
+  },
+  {
+    "date": "04/07/2019",
+    "description": "PETCO ANIMAL SUPPLIES TDFW4803874360",
+    "amount": -901.08
+  },
+  {
+    "date": "04/09/2019",
+    "description": "ALEXANDER LTD JUON87638785385",
+    "amount": 143162.3235
+  },
+  {
+    "date": "04/11/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--AFJP6383132716153",
+    "amount": 193371.26
+  },
+  {
+    "date": "04/13/2019",
+    "description": "WAKEFERN 96183",
+    "amount": -1264.83
+  },
+  {
+    "date": "04/15/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 0Y55875",
+    "amount": 525720.18
+  },
+  {
+    "date": "04/20/2019",
+    "description": "JIMENEZ-VANG PAYMT 75841",
+    "amount": 1385649.62
+  },
+  {
+    "date": "04/22/2019",
+    "description": "JUSTWORKS PAYROLL G599SE",
+    "amount": -270000.0
+  },
+  {
+    "date": "04/22/2019",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -103.9
+  },
+  {
+    "date": "04/25/2019",
+    "description": "MARSHALL LTD DLXJ2976",
+    "amount": 172862.482
+  },
+  {
+    "date": "04/25/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--NSQA630",
+    "amount": 191935.62
+  },
+  {
+    "date": "04/29/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 3OS5982",
+    "amount": 667591.39
+  },
+  {
+    "date": "05/01/2019",
+    "description": "YUM! BRANDS RR98801",
+    "amount": -71.13
+  },
+  {
+    "date": "05/02/2019",
+    "description": "DOLLAR GENERAL*57532",
+    "amount": -1124.42
+  },
+  {
+    "date": "05/04/2019",
+    "description": "JIMENEZ-VANG PAYMT 91109",
+    "amount": 1394598.72
+  },
+  {
+    "date": "05/06/2019",
+    "description": "JUSTWORKS PAYROLL 996LET",
+    "amount": -270000.0
+  },
+  {
+    "date": "05/09/2019",
+    "description": "ALEXANDER LTD DEGN893",
+    "amount": 62991.422340000005
+  },
+  {
+    "date": "05/09/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--KWBY89267043",
+    "amount": 42439.6224
+  },
+  {
+    "date": "05/13/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 599953",
+    "amount": 102343.94229999998
+  },
+  {
+    "date": "05/16/2019",
+    "description": "WAKEFERN 41327",
+    "amount": -1278.06
+  },
+  {
+    "date": "05/18/2019",
+    "description": "DOLLAR GENERAL*56923",
+    "amount": -1103.68
+  },
+  {
+    "date": "05/18/2019",
+    "description": "JIMENEZ-VANG PAYMT 24494",
+    "amount": 335471.83200000005
+  },
+  {
+    "date": "05/21/2019",
+    "description": "JUSTWORKS PAYROLL 06N\u2022447",
+    "amount": -37800.0
+  },
+  {
+    "date": "05/21/2019",
+    "description": "ALIMENTATION COUCHE-TARD",
+    "amount": -103.41
+  },
+  {
+    "date": "05/23/2019",
+    "description": "FLORES, BROWN AND PARSONS--PAYMT--DHKD823462643",
+    "amount": 25039.377215999997
+  },
+  {
+    "date": "05/25/2019",
+    "description": "PETCO ANIMAL SUPPLIES IEDF38114594",
+    "amount": -900.7
+  },
+  {
+    "date": "05/25/2019",
+    "description": "MARSHALL LTD LQRR423179527046",
+    "amount": 74330.86726
+  },
+  {
+    "date": "05/27/2019",
+    "description": "KING, BROWNING AND WARD PAYMT 387JVF",
+    "amount": 48101.652880999995
+  },
+  {
+    "date": "06/01/2019",
+    "description": "JIMENEZ-VANG PAYMT 24369",
+    "amount": 234830.28240000003
+  },
+  {
+    "date": "06/05/2019",
+    "description": "JUSTWORKS PAYROLL JR9622",
+    "amount": -24948.0
+  },
+  {
+    "date": "06/05/2019",
+    "description": "WAKEFERN 75458",
+    "amount": -1275.51
   }
 ]
