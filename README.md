@@ -16,7 +16,7 @@ You have been provided a data file `transactions.json` which contains a list of 
 The list of transactions are already sorted by date (earliest date first).
 
 ## Part 1: Finding Sequences of Transactions
-Create a function which analyzes the transactions and identify groups of transactions that are part of a sequence. A set of Transactions is considered a *"sequence"* if the following conditions are met: 
+Create a function which analyzes the transactions and identify groups of transactions that are part of a sequence. A set of Transactions is considered a *"sequence"* if *ALL* the following conditions are met: 
 
 1. The transaction descriptions are similar
 
