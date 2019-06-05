@@ -1,36 +1,43 @@
 # Coding Takehome 
 
 ## Rules 
+- The solution should be written in Python
 - You may use any online non-human resource including stackoverflow, tutorials, documentation, open source libraries, etc
-- However, you should not use any library or function that specializes in anomaly detection
+- However, you should not use any library or function that specializes in anomaly detection.
+
+Note: You do not need to provide any frontend interface. We are expecting a purely backend / command line solution. 
 
 ## transactions.json
 You have been provided a data file `transactions.json` which contains a list of transactions, each transaction containing 
-- a date, 
+- a date (format: `mm-dd-yyyy`), 
 - a string description
-- an amount
+- a transaction amount
 
-## Task 1: Finding Sequences of Transactions
-Create a function which analyzes the transactions and identify groups of transactions that are part of a sequence. Transactions are part of a sequence if: 
-1. The transaction descriptions are similar 
+The list of transactions are already sorted by date (earliest date first).
 
-AND
+## Part 1: Finding Sequences of Transactions
+Create a function which analyzes the transactions and identify groups of transactions that are part of a sequence. A set of Transactions is considered a *"sequence"* if the following conditions are met: 
 
-2. The timing of the transactions occur in regular intervals 
+1. The transaction descriptions are similar
 
-Note that it is not necessary for a transaction to be part of a sequence. No transaction should be part of more than 1 sequence. 
+2. The timing of the transactions occur in regular intervals. Small deviations in the timing of the transactions by 2-3 days should not break a sequence. 
 
-## Task 2: Save the transactions and sequence data in a data structure
-The data structure can be of your choosing. A requirement of this data structure is that for any given transaction, the data structure should be able to quickly lookup the other transactions that are part of the same sequence, if any.
+3. There are at least 4 transactions in the set
 
-## Task 3: Detect Anomalies (Bonus)
-For each found sequence of transactions, attempt to detect "anomolies" which can be either: 
-- A transaction in the sequence has an amount that is unusual given the amounts of the other transactions in the same sequence
-- A date on which a transaction in the sequence was expected to occur but is abscent. 
-Note that not all sequences have an anomally and no sequence has more than one anomally. 
+4. No two transactions in the set are less than 4 days apart. 
+
+*Note: that it is not necessary for a transaction to be part of a sequence.*
+
+
+## Part 2: Save the transactions and sequence data in a data structure
+The data structure can be of your choosing. A requirement of this data structure is that for any given transaction, the data structure should be able to quickly lookup the other transactions that are part of the same sequence, if any. 
+
+Notes: 
+- you do not need to provide any frontend interface
+- you do not need to write any unit / integration tests
 
 ## Submitting your answer: 
-To submit your answer, commit your code to a git repository and simply send a link to the repository to jie@gourmetgrowth.com. 
+To submit your answer, send the files or a link to the repository to jie@gourmetgrowth.com. 
 
 
 
