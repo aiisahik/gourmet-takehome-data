@@ -24,7 +24,7 @@ Create a function which analyzes the transactions and identify groups of transac
 
 3. There are at least 4 transactions in the set
 
-4. No two transactions in the set are less than 4 days apart. 
+4. All transactions in a sequence  must be at least 4 days apart from each other.
 
 *Note: that it is not necessary for a transaction to be part of a sequence.*
 
